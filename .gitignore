@@ -1,0 +1,25 @@
+# Local credentials — NEVER commit
+.env
+.env.template
+.env.local
+.env.*.local
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Local Discord fallback (may contain account snapshots)
+NOTIFICATIONS.md
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Setup guide PDF (kept locally only)
+*.docx.pdf
+.claude/
