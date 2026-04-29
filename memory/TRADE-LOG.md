@@ -18,3 +18,10 @@ No positions. No trades today. Trades this week: 0/3.
 No positions. No trades today. Trades this week: 0/3.
 
 **Notes:** Flat second session. Capital fully in cash; no setups cleared the momentum + risk filters today. Discipline over activity — waiting for clean leadership names before deploying. Tomorrow: rerun premarket scan, focus on sectors showing 2-3 day relative strength, target 1-2 entries sized at ~15-20% each with 10% trailing stops.
+
+### Apr 29 — EOD Snapshot (Day 3, Wednesday)
+**Portfolio:** $10,000.00 | **Cash:** $10,000.00 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** $0.00 (0.00%)
+
+No positions. No trades today. Trades this week: 0/3.
+
+**Notes:** Third consecutive flat session. Account remains 100% cash with zero deployment — no setups cleared sector momentum + risk filters. Patience over activity per strategy. Three days into the challenge with no edge to chase yet; capital preserved and ready. Tomorrow: rerun premarket scan, prioritize sectors with multi-day relative strength, look to deploy first 15-20% tranche if a clean leader emerges.
