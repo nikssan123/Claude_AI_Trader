@@ -62,3 +62,37 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD.** Day 2 of bot, 100% cash. No edge in entering pre-FOMC + pre-mega-cap-tech earnings with VIX >20. Patience > activity. Wait for FOMC reaction Wed afternoon and tech earnings clarity Thu/Fri before deploying. Energy/Materials are the high-conviction sectors — will look for clean pullback entries on XLE or NUE post-event.
+
+## 2026-04-29 — Pre-market Research
+*(Perplexity API returned 401 invalid_api_key — fell back to native WebSearch)*
+
+### Account
+- Equity: $10,000.00
+- Cash: $10,000.00
+- Buying power: $20,000.00
+- Daytrade count: 0
+- Positions: 0 | Open orders: 0 | Trades this week: 0/3
+
+### Market Context
+- WTI / Brent: WTI ~$99.32 (-0.6%), Brent ~$113.47 (8-day rally, highest since Jun 2022) — Strait of Hormuz still effectively closed, US-Iran peace talks stalled
+- S&P 500 futures: ES ~7,174 (+0.05%), muted ahead of FOMC + Mag7
+- VIX: ~17.83 (down from 20+ Tue — pre-event compression)
+- Today's catalysts: **FOMC decision 2pm ET — Powell's final meeting** (100% prob hold at 3.5–3.75%); Mag7 earnings AMC (MSFT, META, GOOGL, AMZN); Seagate +17% premarket on data-storage beat
+- Earnings before open: ABBV (~±4.8% IV), SOFI (~±10% IV), O-I Glass
+- Economic calendar: Q1 GDP advance estimate tomorrow 4/30. March CPI already at 3.3% YoY (oil-driven). Powell successor Kevin Warsh confirmed for June meeting
+- Sector momentum (YTD): Energy +25.3% (but -9.3% MTD pullback), Materials +22% (breakout), Industrials/Staples leading. Tech/Comm Svcs lagging. RRG: XLP, XLI, XLB, XLE = Leading
+
+### Trade Ideas
+1. XLB (Materials ETF) — Best risk/reward setup. YTD breakout, in Leading quadrant, less event-binary than XLE. Watchlist entry post-FOMC reaction. Wait for clean confirmation.
+2. XLE — Strong YTD but -9.3% MTD volatility makes pre-event entry reckless. Defer until after Iran headline resolves direction.
+3. NUE — Steel/Materials beat from Mon still constructive. Stalk pullback to $135 area after FOMC; stop $125, target $155, ~2:1 R:R.
+
+### Risk Factors
+- Triple binary day: FOMC 2pm + MSFT/META/GOOGL/AMZN AMC. Outsized overnight gap risk.
+- Iran/Hormuz tail risk both ways: ceasefire = oil collapses, escalation = oil spike + risk-off
+- CPI 3.3% YoY runs hot vs Fed 2% target — hawkish surprise possible at presser
+- Powell's final = potential dovish "legacy" tilt OR market doubts on successor Warsh
+- Q1 GDP advance tomorrow (4/30) before open — another binary
+
+### Decision
+**HOLD.** Day 3, still 100% cash. Two stacked binary events today (FOMC 2pm + Mag7 earnings AMC) plus GDP tomorrow. Entering pre-event has no edge — strategy demands catalyst clarity, not anticipation. Materials (XLB/NUE) remain prime watchlist; deploy first tranche only after FOMC tape settles AND Mag7 reaction is digested Thursday. Patience > activity.
