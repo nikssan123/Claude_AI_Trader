@@ -28,3 +28,11 @@ No positions. No trades today. Trades this week: 0/3.
 
 ### Apr 30 — Trade
 - **XLB** | BUY | 29 sh | entry $50.88 | trailing stop 10% GTC (initial $45.79) | thesis: Materials in RRG Leading quadrant, +17% YTD breakout, less event-binary than energy; pullback into $50.50-51.50 buy zone post-PCE | target $57 (+10%) | R:R ~1.5:1 | cost $1,475.52 (14.76% of equity) | trades this week 1/3
+
+### Apr 30 — EOD Snapshot (Day 4, Thursday)
+**Portfolio:** $10,017.11 | **Cash:** $8,524.48 (85.10%) | **Day P&L:** +$17.11 (+0.17%) | **Phase P&L:** +$17.11 (+0.17%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+| XLB | 29 | $50.88 | $51.47 | +1.00% | +$17.11 (+1.16%) | $46.54 (trail 10%, hwm $51.71) |
+
+**Notes:** First deployment day. Opened XLB Materials ETF (29 sh @ $50.88, ~14.8% of equity) on post-PCE pullback into the $50.50-51.50 buy zone; trailing 10% GTC stop in place at $46.54. Position closed +1.00% on the day, account up +$17.11 (+0.17%). One trade booked, 1/3 weekly cap used. Cash 85% — room for 1-2 more entries within rules. Tomorrow: Friday — monitor XLB action, run premarket scan for a second uncorrelated leader (avoid stacking another Materials/cyclical), only add if a clean RS setup clears filters; otherwise hold and prep weekly review.
