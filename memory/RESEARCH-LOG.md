@@ -96,3 +96,41 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD.** Day 3, still 100% cash. Two stacked binary events today (FOMC 2pm + Mag7 earnings AMC) plus GDP tomorrow. Entering pre-event has no edge — strategy demands catalyst clarity, not anticipation. Materials (XLB/NUE) remain prime watchlist; deploy first tranche only after FOMC tape settles AND Mag7 reaction is digested Thursday. Patience > activity.
+
+## 2026-04-30 — Pre-market Research
+*(Perplexity API returned 401 invalid_api_key — fell back to native WebSearch)*
+
+### Account
+- Equity: $10,000.00
+- Cash: $10,000.00
+- Buying power: $20,000.00
+- Daytrade count: 0
+- Positions: 0 | Open orders: 0 | Trades this week: 0/3
+
+### Market Context
+- WTI / Brent: Brent spiked to $126 wartime high then retraced to $114.70 (-2.8%); WTI ~$105-108. Both still up ~60% since US-Israeli war with Iran started Feb 28
+- S&P 500 futures: Quiet pre-8:30 ET — awaiting GDP/PCE print before Mag7 earnings reaction trades
+- VIX: ~19 (resistance 18.84) — moderate, post-FOMC compression incomplete
+- Today's catalysts: **8:30 ET — Q1 GDP advance + March Core PCE + jobless claims** (binary). Mag7 reaction trades open. **AAPL reports AMC.**
+- Earnings before open: ABBV, F, GM all earlier in week. Today AM: KO, MA, MRK, ABBV-related. (Nothing market-moving pre-bell vs the 8:30 macro)
+- Mag7 last night: GOOGL **biggest beat** (rev $109.9B vs $107.2B, EPS +81%, capex raised to $180-190B; "only one to convince investors AI is paying off"). MSFT beat (Azure +39%, capex going to $190B). AMZN beat (AWS +24%, capex ~$200B). META beat (+33% rev, capex $115-135B). All raised capex hard — combined ~$650B for 2026
+- Economic calendar: Core PCE forecast 0.3% MoM / 3.2% YoY (prev 3.0%); headline PCE 3.5% YoY vs 2.8% prev — oil-driven hot print already expected. Q1 GDP advance forecast watched for stagflation signal
+- Sector momentum YTD: Energy +21% (off March peak ~7%), Materials +17%, Industrials +12%, Tech +8.1%, Staples +6.3%. RRG: Materials/Industrials/Staples/Energy in Leading quadrant
+- FOMC yesterday: Held 3.5-3.75% with 8-4 dissent (most since 1992). 3 dissenters wanted easing bias removed → hawkish. 2yr +10bps, 10yr +8bps. S&P flat, RUT -0.6%
+- Defense sector: -12% since March 1 despite war (RTX/LMT/NOC missed earnings, budget angst). Avoid
+
+### Trade Ideas
+1. **GOOGL** — Standout Mag7 print, capex raise + 81% EPS growth + ad strength. Likely gap up at open. **Don't chase** — wait for first 30-min base near $1700 area (post-split levels), entry on hold of opening range with stop below day low (~7% max). Watchlist only today.
+2. **XLB (Materials ETF)** — In Leading RRG quadrant, +17% YTD, less event-binary than energy. Buy zone $50.50-51.50 (~1-3% pullback from ~$51.92), stop $47.50 (-7%), target $57 (+10%), R:R ~1.5:1. **Stalk for entry post-PCE.**
+3. **XLE (Energy ETF)** — At $59.03, 7% off late-March peak of $63.46. War ongoing keeps oil bid, but **ceasefire headline is binary downside risk** (article cited "fragile ceasefire" possibility). Skip until oil tape resolves direction.
+
+### Risk Factors
+- 8:30 ET PCE/GDP — hot headline PCE (3.5%) baked in, but a Core PCE upside surprise would be hawkish risk-off and crush growth/tech
+- AAPL AMC — single-name vol can drag indices; tariff/China commentary key
+- Iran/Hormuz tail risk **both ways** — ceasefire collapses oil/energy, escalation spikes defensives + crushes growth
+- Hawkish FOMC dissent (8-4) signals rates higher for longer — headwind for any duration trade
+- Mag7 capex of ~$650B combined raises "are returns commensurate?" questions; only GOOGL truly answered yes
+- Friday tomorrow — end-of-week trade count window closes; pressure to act vs discipline
+
+### Decision
+**HOLD.** Day 4, still 100% cash. **8:30 ET binary print + AAPL AMC + post-FOMC dust** = no edge entering pre-print. The forecast PCE jump (2.8% → 3.5% headline) is a structural oil pass-through; if **core** holds at/below 3.2% the relief tape favors materials/value (XLB primary watch). Plan: monitor 8:30 reaction, if Core PCE ≤3.2% AND XLB pulls into $50.50-51.50 zone, deploy starter ~15% in XLB with 10% trailing stop. Otherwise stand down through AAPL AMC and re-evaluate Friday. **Patience over activity, but 4 days flat is the limit — Friday is action day unless tape forbids.**
