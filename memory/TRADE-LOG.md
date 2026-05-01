@@ -36,3 +36,11 @@ No positions. No trades today. Trades this week: 0/3.
 | XLB | 29 | $50.88 | $51.47 | +1.00% | +$17.11 (+1.16%) | $46.54 (trail 10%, hwm $51.71) |
 
 **Notes:** First deployment day. Opened XLB Materials ETF (29 sh @ $50.88, ~14.8% of equity) on post-PCE pullback into the $50.50-51.50 buy zone; trailing 10% GTC stop in place at $46.54. Position closed +1.00% on the day, account up +$17.11 (+0.17%). One trade booked, 1/3 weekly cap used. Cash 85% — room for 1-2 more entries within rules. Tomorrow: Friday — monitor XLB action, run premarket scan for a second uncorrelated leader (avoid stacking another Materials/cyclical), only add if a clean RS setup clears filters; otherwise hold and prep weekly review.
+
+### May 01 — EOD Snapshot (Day 5, Friday)
+**Portfolio:** $10,013.63 | **Cash:** $8,524.48 (85.13%) | **Day P&L:** -$3.48 (-0.03%) | **Phase P&L:** +$13.63 (+0.14%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+| XLB | 29 | $50.88 | $51.35 | -0.23% | +$13.63 (+0.92%) | $46.59 (trail 10%, hwm $51.77) |
+
+**Notes:** Quiet Friday. XLB ticked back -0.23% on the day to $51.35 but remains green on the entry (+0.92% unrealized); trailing 10% GTC stop active at $46.59 with hwm $51.77. Account -$3.48 (-0.03%) on the day, +0.14% phase. No trades today; week closes 1/3 cap used. Cash 85% — dry powder intact for next leader. Weekly review pending. Monday: rerun premarket scan, look for an uncorrelated leader (avoid stacking another cyclical/Materials), enter only on a clean RS setup.
