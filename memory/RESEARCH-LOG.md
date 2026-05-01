@@ -134,3 +134,42 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD.** Day 4, still 100% cash. **8:30 ET binary print + AAPL AMC + post-FOMC dust** = no edge entering pre-print. The forecast PCE jump (2.8% → 3.5% headline) is a structural oil pass-through; if **core** holds at/below 3.2% the relief tape favors materials/value (XLB primary watch). Plan: monitor 8:30 reaction, if Core PCE ≤3.2% AND XLB pulls into $50.50-51.50 zone, deploy starter ~15% in XLB with 10% trailing stop. Otherwise stand down through AAPL AMC and re-evaluate Friday. **Patience over activity, but 4 days flat is the limit — Friday is action day unless tape forbids.**
+
+## 2026-05-01 — Pre-market Research
+*(Perplexity API returned 401 invalid_api_key — fell back to native WebSearch)*
+
+### Account
+- Equity: $10,016.82
+- Cash: $8,524.48 (85.10%)
+- Buying power: $18,541.30
+- Daytrade count: 0
+- Positions: 1 (XLB 29 sh @ $50.88, +1.14%, trail stop $46.54 GTC, hwm $51.71)
+- Open orders: 1 trailing stop | Trades this week: 1/3
+
+### Market Context
+- WTI / Brent: WTI ~$106, Brent ~$111-114 (touched $126 wartime high recently then retraced); 230 loaded tankers stuck inside Gulf; "fragile ceasefire" + dual blockade (US blockading Iran, Iran charging $1M+ tolls)
+- S&P 500 / futures: SPX ~7,212 (+1.07% intraday yesterday close), ES Jun26 futures +0.11% premarket
+- VIX: 17.10 (-9.10%) — risk-on, post-event compression complete
+- Today's catalysts: **AAPL print AMC last night was a blow-out** — rev $111.2B (+17%), iPhone $57B (+22%), Services $31B (+16%, ATH), $100B buyback authorization, dividend +4%, June guide +14-17% YoY. Cook → Exec Chair Sep 1, Ternus = next CEO. Tape should gap up on AAPL halo + risk-on
+- Earnings before open: D (Dominion), ARES, TPG, AON, ABR — none market-moving
+- Economic calendar: NO major US macro today. NFP releases **next Friday May 8**, not today. ISM Mfg PMI typical first-of-month watch
+- Sector momentum YTD (RRG): **Leading: XLP, XLI, XLB, XLE.** Lagging: XLK, XLC, XLY, XLF. Even AAPL's beat hasn't shifted Tech out of Lagging — single-name strength ≠ sector rotation
+- XLB: $51.46 (my position), 52w range $40.98-$54.14, consensus PT $56.67 (+10% upside)
+- XLI: ~$172, 52w high $179.31, off ~4% from peak
+- Iran: Strait still constrained, oil bid persists; energy = binary on headline both ways
+
+### Trade Ideas
+1. **XLI (Industrials ETF)** — Leading RRG quadrant, uncorrelated to XLB Materials, no Iran-headline beta. At $172, near recent highs. Wait for pullback to $168-170 zone before entry; stop $159 (-7.5%), target $185 (+7.6%). R:R ~1:1 — **not compelling enough today; watchlist only**
+2. **AAPL** — Don't chase the post-print gap. Stalk first 30-min base, but single name = concentrated risk in a 5-position portfolio. Only consider on a clean retest of opening range with confirmation. Skip today
+3. **XLB add-on** — Position is +1.14%; not at +15% trigger to tighten trail. No action. Let it work toward $57 target; trail stop $46.54 unchanged
+
+### Risk Factors
+- Friday tape after a Mag7 beat-fest = chase risk; capital deployed via discipline, not FOMO
+- AAPL gap up could front-run all of next week's upside in a single session
+- Iran/Hormuz still binary both ways — energy/oil sector should remain avoided
+- ISM Mfg PMI typically first business day → watch for surprise; not flagged as market-moving but a hot/cold print can shift cyclicals
+- Trade count: 1/3 used; need to preserve 2 slots for higher-conviction setups vs. forcing a second entry today
+- Tech still RRG-Lagging despite Mag7 beats — chasing AAPL/QQQ violates sector momentum rule
+
+### Decision
+**HOLD — no new entries.** XLB working as designed (+1.14%, well above trail). AAPL beat is real but tech sector hasn't rotated to Leading on RRG, so chasing single names violates rule 9 (sector momentum). XLI is the only uncorrelated Leading-quadrant candidate and current price doesn't offer compelling R:R. **Friday discipline > Friday activity** — keep 2/3 weekly trade slots dry for cleaner setups Mon/Tue post-AAPL digestion. Monitor XLB intraday for trail tighten triggers (+15% = tighten to 7%; not close). End-of-week + weekly review tonight.
