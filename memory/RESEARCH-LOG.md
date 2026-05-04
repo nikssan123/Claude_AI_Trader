@@ -173,3 +173,43 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD — no new entries.** XLB working as designed (+1.14%, well above trail). AAPL beat is real but tech sector hasn't rotated to Leading on RRG, so chasing single names violates rule 9 (sector momentum). XLI is the only uncorrelated Leading-quadrant candidate and current price doesn't offer compelling R:R. **Friday discipline > Friday activity** — keep 2/3 weekly trade slots dry for cleaner setups Mon/Tue post-AAPL digestion. Monitor XLB intraday for trail tighten triggers (+15% = tighten to 7%; not close). End-of-week + weekly review tonight.
+
+## 2026-05-04 — Pre-market Research
+*(Perplexity API returned 401 invalid_api_key — fell back to native WebSearch)*
+
+### Account
+- Equity: $10,002.44
+- Cash: $8,524.48 (85.22%)
+- Buying power: $18,526.92
+- Daytrade count: 0
+- Positions: 1 (XLB 29 sh @ $50.88, current $50.96, +0.17% unrealized, trail $46.59 GTC, hwm $51.77)
+- Open orders: 1 trailing stop | Trades this week: 0/3 (new week)
+
+### Market Context
+- WTI / Brent: WTI ~$101 (May 3), Brent ~$108-110 — both pulled back on hopes a fragile US-Iran ceasefire could turn lasting; Brent forecast band $115-135, WTI $105-125 for May
+- S&P 500 futures: ES quiet pre-bell; SPX entered week off Friday's risk-on AAPL halo. >50% of S&P has reported, >80% beat
+- VIX: ~19.7 (futures front-month) — moderate, no panic, no euphoria
+- Today's catalysts: **PLTR earnings AMC** (consensus EPS $0.28 +115% YoY, rev $1.54B +74%); also reporting today: DIS, CVS, KHC, UBER, MAR, FAST, DASH, GLPI, NRG, AGM, EXC. Trump "reviewing" Iran's 14-point proposal — ceasefire headline risk both ways
+- Earnings before open today: KHC, MAR, FAST among notables; AMC: **PLTR**
+- Economic calendar: light Monday — no Tier-1 US prints. **Tue: AMD AMC. Wed: DIS+UBER AM. Fri: NFP** (NFP delayed to May 8 vs the typical first-Friday slot)
+- Sector momentum YTD (May 2026 update): **Tech reclaimed #1 (Alpha Z +1.40), Real Estate #2** in leading quadrant — rotation back to growth post-Mag7. Energy and Staples at ATH but extended. Industrials cratered from rank 4 → 10 (XLI no longer a setup). Healthcare flight-to-safety bid. Financials laggards
+- XLB (held): in $50.50-51.50 buy zone; +1.0% from cost; well above $46.59 trail; not at +15% trigger to tighten
+- Iran/Hormuz: Strait technically open since 4/17 but Iran charging tolls ($1M+/ship); Iran 14-pt deal under Trump review — peace = oil down, breakdown = oil + risk-off
+
+### Trade Ideas
+1. **PLTR** — Most-anticipated print of the week. Wall St expects 115% EPS growth, 74% rev growth. **Don't pre-position into earnings** (binary, no edge). Stalk Tuesday's reaction: clean opening-range hold + RS confirmation = consider 15% sleeve, stop -7%
+2. **XLB add-on** — NO action. Position +1.0% on cost, trail $46.59, hwm $51.77. Not at +15% tighten trigger. Let it work toward $57 target
+3. **XLK / Tech** — RRG flipped Tech to Leading (rank #1, +1.40 Alpha Z). But chasing after Mag7 beats already priced is late. Watchlist: pullback into 21-EMA on QQQ/XLK = potential entry, not Monday
+4. **Healthcare (XLV)** — Flight-to-safety bid this YTD. Stalk a clean pullback as uncorrelated leader to XLB, but no compelling level today
+
+### Risk Factors
+- PLTR AMC = single-name vol → can drag/spike growth/AI tape into Tuesday
+- AMD Tue AMC, DIS+UBER Wed AM = mid-week earnings vol cluster
+- NFP Fri (delayed to May 8) = end-of-week binary, hot print = rate fears
+- Iran 14-pt proposal under Trump review — ceasefire breakthrough collapses Brent (energy/materials cyclicals at risk); breakdown spikes oil + risk-off
+- Industrials sector momentum collapse (rank 4→10) signals cyclical leadership rotating; XLB Materials may follow if breadth narrows
+- Tech reclaiming leadership conflicts with prior week's Materials/Industrials thesis — sector rotation in transition, not clean
+- Trade slot pressure: 0/3 used Mon — keep all 3 dry for high-conviction post-earnings setup
+
+### Decision
+**HOLD — no new entries.** Day 6, 1 position (XLB), 85% cash. Heavy single-name catalyst week (PLTR Mon AMC, AMD Tue, DIS+UBER Wed, NFP Fri) + Iran 14-pt deal headline risk = no edge entering pre-event. Sector RRG transitioning (Tech → Leading, Industrials collapsing) — wait for Tue/Wed tape for cleaner signal. XLB holding constructively above trail; let runner work. Preserve all 3 weekly trade slots for post-earnings + post-Iran-headline setups. **Patience > activity.**
