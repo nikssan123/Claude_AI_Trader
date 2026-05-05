@@ -213,3 +213,43 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD — no new entries.** Day 6, 1 position (XLB), 85% cash. Heavy single-name catalyst week (PLTR Mon AMC, AMD Tue, DIS+UBER Wed, NFP Fri) + Iran 14-pt deal headline risk = no edge entering pre-event. Sector RRG transitioning (Tech → Leading, Industrials collapsing) — wait for Tue/Wed tape for cleaner signal. XLB holding constructively above trail; let runner work. Preserve all 3 weekly trade slots for post-earnings + post-Iran-headline setups. **Patience > activity.**
+
+## 2026-05-05 — Pre-market Research
+*(Perplexity API returned 401 invalid_api_key — fell back to native WebSearch)*
+
+### Account
+- Equity: $9,996.81
+- Cash: $8,524.48 (85.27%)
+- Buying power: $18,521.29
+- Daytrade count: 0
+- Positions: 1 (XLB 29 sh @ $50.88, current $50.77, -0.22% unrealized, trail $46.59 GTC, hwm $51.77)
+- Open orders: 1 trailing stop | Trades this week: 0/3
+
+### Market Context
+- WTI / Brent: WTI ~$104.05 (-2.2%), Brent ~$112.67 (-1.6%) — pulling back after Mon's spike (WTI +4.4% to $106.42, Brent +5.8% to $114.44) on Iran missiles intercepted by UAE; Trump "Project Freedom" naval escort op for stranded vessels in Hormuz
+- S&P 500 futures: ES ~7,231, +0.01% to +0.3% — stabilizing after Mon broad sell-off; NDX +0.5%, DJI +0.3%
+- VIX: ~18.29 (+7.65% Mon close) — elevated on Iran/UAE escalation, no panic
+- Today's catalysts: **PLTR beat AMC last night** — EPS $0.33 vs $0.28, rev $1.63B vs $1.54B, raised FY26 guide $7.65-7.66B (vs $7.27B consensus), Q2 rev $1.8B guide vs $1.68B; **AMD reports AMC today** (AI demand/data center focus); UAE intercepted Iran missiles → "Project Freedom" naval escort
+- Earnings before open: 349 reports today incl UPS, PINS, DUOL (no Tier-1 macro movers BMO); Cytokinetics/MYQORZO commentary watched
+- Economic calendar: Light Tue. **Wed: DIS+UBER AM. Thu: ISM Services PMI / factory orders / trade balance / new home sales. Fri: NFP** (consensus +73k, UR 4.3%, AHE +0.3%). No CPI/PPI/FOMC today
+- Sector momentum (RRG, May 2026): **Tech #1 (XLK Alpha Z +1.40, Velocity +1.34), Comm Svcs Alpha Z +0.49, Real Estate #5, Materials Alpha Z ~0 with Velocity +0.40, Industrials cratered rank 4→10**, Energy/Staples ATH (extended), Healthcare flight-to-safety bid YTD
+- Earnings season: 63%+ of S&P reported, blended EPS growth +27.1% (highest in 4+ yrs), 81% beat rate
+- XLB held: $50.77, -0.22% on cost; trail $46.59; hwm $51.77; not at +15% tighten trigger
+
+### Trade Ideas
+1. **PLTR** — Beat-and-raise blowout (EPS +18% above, rev +6% above, FY guide raised $400M+). Likely gap up. **Don't chase the open**; stalk first 30-min base + RS hold. Single-name AI = concentrated risk vs 5-position cap. Watchlist only — no entry today
+2. **AMD** — Reports AMC; binary event. **No pre-position**. If beat AND clean opening-range hold tomorrow with sector momentum confirmation, consider 15% sleeve, stop -7%. Watchlist
+3. **XLV (Healthcare)** — Flight-to-safety bid YTD, uncorrelated to XLB Materials, low Iran beta. Stalk a clean pullback to 21-EMA; no compelling level today, watchlist for late-week entry post-NFP
+4. **XLB add-on** — NO action. Position underwater fractionally, not at +15% tighten trigger. Trail $46.59 stays. Let runner work toward $57
+
+### Risk Factors
+- Iran/UAE escalation — Mon's missile intercept shows tail risk live; "Project Freedom" naval escort = headline risk both ways (de-escalation = oil collapse, hot exchange = risk-off + oil spike)
+- AMD AMC tonight — single-name vol can drag/spike entire AI/semis tape into Wed
+- DIS + UBER Wed AM — consumer/services read-through
+- NFP Fri (delayed to May 8) — weak print (+73k forecast vs +178k prev) = growth scare; hot print = rate fears
+- Sector rotation in transition: Industrials cratered (rank 4→10) but Materials Velocity still +0.40 — XLB sustainability question; Tech leadership conflicts with last week's value/cyclical setup
+- PLTR open could front-run AI-tape upside in single session; chasing violates discipline
+- Trade slot pressure: 0/3 used Tue — keep all 3 dry for post-AMD + post-NFP setups
+
+### Decision
+**HOLD — no new entries.** Day 7, 1 position (XLB), 85% cash. Iran/UAE escalation + AMD AMC tonight + DIS/UBER tomorrow + NFP Fri = three stacked binaries through end of week. PLTR beat is real but chasing AI gap on day-one open with VIX 18+ violates discipline; no edge. XLB underwater fractionally but well above trail; let it work. **Watchlist priorities for later this week:** PLTR post-base (Tue intraday), AMD post-print (Wed), XLV pullback (Thu/Fri post-NFP). Preserve all 3 weekly slots. **Patience > activity.**
