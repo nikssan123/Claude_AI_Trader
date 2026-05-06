@@ -253,3 +253,43 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD — no new entries.** Day 7, 1 position (XLB), 85% cash. Iran/UAE escalation + AMD AMC tonight + DIS/UBER tomorrow + NFP Fri = three stacked binaries through end of week. PLTR beat is real but chasing AI gap on day-one open with VIX 18+ violates discipline; no edge. XLB underwater fractionally but well above trail; let it work. **Watchlist priorities for later this week:** PLTR post-base (Tue intraday), AMD post-print (Wed), XLV pullback (Thu/Fri post-NFP). Preserve all 3 weekly slots. **Patience > activity.**
+
+## 2026-05-06 — Pre-market Research
+*(Perplexity API returned 401 invalid_api_key — fell back to native WebSearch)*
+
+### Account
+- Equity: $10,034.80
+- Cash: $8,524.48 (84.95%)
+- Buying power: $18,559.28
+- Daytrade count: 0
+- Positions: 1 (XLB 29 sh @ $50.88, current $52.08, +2.36% unrealized / +$34.80, trail $46.61 GTC, hwm $51.79)
+- Open orders: 1 trailing stop | Trades this week: 0/3
+
+### Market Context
+- WTI / Brent: WTI ~$100.60 (-5% off mid-week $106 highs), Brent ~$112-116 — Hormuz de-escalation hopes pulling crude back; "Project Freedom" naval escort still active
+- S&P 500 futures: ES ~7,305 (+0.25%) — risk-on bid post-AMD blowout; NDX leading
+- VIX: ~16.73 (-4.6% from Tue close 17.45) — compressing back into pre-event regime
+- Today's catalysts: **AMD blew out AMC** — Q1 rev $10.3B vs $9.84B est, EPS $1.37 vs $1.25, Data Center $5.8B (+57% YoY), Q2 guide $11.2B (+46% YoY) vs est ~$10B. **DIS Q2 BMO** (~6:40 ET, $25B rev / $1.49 EPS consensus). **UBER Q1 BMO** ($13.27B rev / $0.71 EPS consensus)
+- Earnings before open: DIS + UBER are the BMO movers; PLTR aftermath still being digested
+- Economic calendar: **10am ET ISM Services PMI** (Apr prev 53.6, prior 54.0); no CPI/PPI/FOMC. **Fri: NFP delayed to May 8** (consensus +73k, UR 4.3%)
+- Sector momentum: **Tech #1** reinforced by AMD beat (+ PLTR Mon); Materials Velocity +0.40 still constructive; Industrials cratered rank 4→10; Energy/Staples ATH-extended; Healthcare flight-to-safety bid
+- XLB held: $52.08 (+2.36% on cost), new hwm vs server $51.79 — trail will tighten with next price tick; not at +15% threshold to manually tighten
+- AMD post-print: gap-up expected on +57% Data Center growth + Q2 +46% guide; semis tape (SMH) bid
+
+### Trade Ideas
+1. **AMD** — Blowout beat-and-raise. **Don't chase the open gap.** Stalk first 30-min base near pre-market high; entry only on opening-range hold + RS confirmation, stop -7% below day low. Single-name AI = concentrated risk vs 5-pos cap; watchlist
+2. **SMH (Semis ETF)** — AMD + PLTR cluster reinforces Tech/AI leadership; uncorrelated to XLB. Stalk pullback to 21-EMA, no compelling level on a gap-up open. Watchlist for an intraday flush + reclaim
+3. **XLV (Healthcare)** — Flight-to-safety YTD, low Iran beta, uncorrelated to XLB. Stalk a pullback to 21-EMA post-NFP (Fri/Mon). Watchlist
+4. **XLB add-on** — NO action. +2.36% unrealized; not at +15% tighten trigger. Trail $46.61 stays. Let runner work toward $57 target
+
+### Risk Factors
+- **DIS + UBER BMO** — consumer/services read; weak prints can drag XLY/XLC and bleed risk-on tape
+- **ISM Services PMI 10am ET** — hot print = rate fears (Fed dissenters hawkish); cold print = growth scare. Apr 53.6 vs 54.0 prior shows softening
+- **NFP Fri (delayed to 5/8)** — +73k forecast vs +178k prev = potential growth scare binary
+- Iran/Hormuz still binary both ways — ceasefire breakthrough crushes oil/Materials cyclicals; breakdown spikes oil + risk-off
+- AMD gap-up could front-run all of week's upside in single session — chasing violates rule 9 patience
+- Sector rotation transition unresolved: Tech leadership conflicts with Materials/Industrials thesis; mixed RRG signals
+- Trade slot pressure: 0/3 used Wed — 2 days left in week, preserve slots for high-conviction post-ISM/NFP setups
+
+### Decision
+**HOLD — no new entries.** Day 8, 1 position (XLB +2.36%), ~85% cash. AMD blowout is real but chasing a gap on day-one with DIS/UBER BMO + ISM Services 10am + NFP Fri stacked = no edge. VIX 16.73 = post-event compression, but the print cluster keeps event risk alive. XLB working as designed; trailing stop will ratchet up with new hwm. **Watchlist priorities:** AMD post-base (intraday Wed/Thu), SMH pullback, XLV post-NFP. Preserve all 3 weekly trade slots for cleaner setups Thu/Fri or post-NFP Mon. **Patience > activity.**
