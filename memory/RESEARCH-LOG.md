@@ -293,3 +293,43 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD — no new entries.** Day 8, 1 position (XLB +2.36%), ~85% cash. AMD blowout is real but chasing a gap on day-one with DIS/UBER BMO + ISM Services 10am + NFP Fri stacked = no edge. VIX 16.73 = post-event compression, but the print cluster keeps event risk alive. XLB working as designed; trailing stop will ratchet up with new hwm. **Watchlist priorities:** AMD post-base (intraday Wed/Thu), SMH pullback, XLV post-NFP. Preserve all 3 weekly trade slots for cleaner setups Thu/Fri or post-NFP Mon. **Patience > activity.**
+
+## 2026-05-07 — Pre-market Research
+*(Perplexity API returned 401 invalid_api_key — fell back to native WebSearch)*
+
+### Account
+- Equity: $10,044.37
+- Cash: $8,524.48 (84.87%)
+- Buying power: $18,568.85
+- Daytrade count: 0
+- Positions: 1 (XLB 29 sh @ $50.88, current $52.41, +3.01% unrealized / +$44.37, trail $47.40 GTC, hwm $52.665)
+- Open orders: 1 trailing stop | Trades this week: 0/3
+
+### Market Context
+- WTI / Brent: WTI ~$95.66 (+0.61%), Brent ~$101.96 (+0.68%) — both pulled back further on Hormuz de-escalation hopes; Brent +7.6% MoM, +62% YoY
+- S&P 500 futures: ES ~7,397.75 (+0.11%) premarket — riding Wed risk-on after SPX closed 7,365.12 (+1.46%, **new record high**) on Iran peace hopes + AMD blowout
+- VIX: ~17.39 — compressing into post-event regime
+- Today's catalysts: **579 reports today.** BMO: MCD, SHEL, GILD, MCK. AMC: CRWV, COIN, ABNB, RKLB. AMD/PLTR aftermath continues; Iran ceasefire optimism still the dominant macro bid
+- Earnings before open: MCD (same-store sales focus), SHEL (oil-tape readthrough), GILD, MCK
+- Economic calendar: **8:30 ET** — Initial/Continuing Jobless Claims (cont. forecast 1,800k vs 1,785k prev), **Q1 Nonfarm Productivity** (forecast +0.7% vs +1.8% prev), **Unit Labor Costs** (forecast +2.6% vs +4.4% prev). 10am Construction Spending. **Tomorrow Fri: NFP** (delayed, consensus +73k vs +178k prev, UR 4.3%)
+- Sector momentum (RRG May 2026): Mixed sources — one set still shows **XLP/XLI/XLB/XLE Leading**, XLV Weakening, XLK/XLC/XLY/XLF Lagging; another shows **Tech (XLK) breakout to 12.6%** post-Mag7/AMD. Materials (XLB) +4.7% (+0.3 pts) — still constructive
+- XLB held: $52.41 (+3.01%), new hwm $52.665, trail $47.40. Consensus PT $56.67 (+8% upside). Top holdings: LIN 14%, NEM 7%, NUE 6%, FCX 5%
+- Iran/Hormuz: De-escalation hopes (Trump reviewing 14-pt deal) driving oil pullback (-5% from mid-week peak); rally still binary on headline
+
+### Trade Ideas
+1. **XLB add-on** — NO action. +3.01% unrealized; not at +15% tighten trigger ($58.51). Trail $47.40 stays. Server will ratchet up with new hwm $52.665. Let runner work toward $57 target
+2. **SMH / AMD** — AMD continued bid on +57% Data Center print; chasing day-2 gap into NFP-eve = no edge. Single-name vs 5-pos cap. Watchlist for clean opening-range setup post-NFP
+3. **XLV (Healthcare)** — Mixed sector signal (one source has it Weakening, but flight-to-safety YTD bid intact). Stalk pullback to 21-EMA post-NFP. Watchlist; no compelling level today
+4. **MCD post-print** — Defensive consumer name, McD has been a YTD compounder. If beat + clean opening-range hold, watchlist only — chasing single-name gap on event day violates discipline
+
+### Risk Factors
+- **8:30 ET data cluster** — Productivity expected to decelerate sharply (+0.7% from +1.8%) and ULC re-accelerate (+2.6% from +4.4% drop) = potential mild stagflation read; cont. claims at 1,800k = labor cooling. Mixed binary print
+- **NFP tomorrow (5/8)** — +73k forecast vs +178k prev = explicit growth-scare risk; weak print drags cyclicals (XLB), hot print drags duration/tech
+- **MCD + SHEL + GILD BMO** — staples/energy/healthcare prints can drag respective ETFs; SHEL ties to oil tape (oil pulling back on Iran de-escalation)
+- **Iran/Hormuz** — 14-pt deal under Trump review; ceasefire breakthrough = oil collapse + materials/cyclical risk; breakdown = oil spike + risk-off
+- **Record-high tape** — SPX closed at all-time high yesterday; chasing a gap-up open into NFP-eve has worst risk/reward of the week
+- **Sector rotation conflict** — Materials/Industrials vs Tech leadership signals diverging across data sources; XLB sustainability question if tech keeps eating leadership
+- **Trade slot pressure** — 0/3 used Thu, 2 days left; preserve slots for post-NFP setups
+
+### Decision
+**HOLD — no new entries.** Day 9, 1 position (XLB +3.01%), ~85% cash. NFP tomorrow + 8:30 productivity/claims today + 579-name earnings cluster = no edge entering a record-high tape pre-NFP. XLB compounding nicely (+3.01%, hwm $52.665); trailing stop ratcheting on its own. Discipline rule: don't chase index ATH on day-1 of a new high. **Watchlist priorities Fri/Mon:** post-NFP XLV, SMH/AMD opening-range, MCD/SHEL post-print bases. Preserve all 3 weekly trade slots for cleaner setups Fri-post-NFP or Mon. **Patience > activity.**
