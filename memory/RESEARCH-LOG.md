@@ -333,3 +333,43 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD — no new entries.** Day 9, 1 position (XLB +3.01%), ~85% cash. NFP tomorrow + 8:30 productivity/claims today + 579-name earnings cluster = no edge entering a record-high tape pre-NFP. XLB compounding nicely (+3.01%, hwm $52.665); trailing stop ratcheting on its own. Discipline rule: don't chase index ATH on day-1 of a new high. **Watchlist priorities Fri/Mon:** post-NFP XLV, SMH/AMD opening-range, MCD/SHEL post-print bases. Preserve all 3 weekly trade slots for cleaner setups Fri-post-NFP or Mon. **Patience > activity.**
+
+## 2026-05-08 — Pre-market Research
+*(Perplexity API returned 401 invalid_api_key — fell back to native WebSearch)*
+
+### Account
+- Equity: $10,022.04
+- Cash: $8,524.48 (85.06%)
+- Buying power: $18,546.52
+- Daytrade count: 0
+- Positions: 1 (XLB 29 sh @ $50.88, current $51.64, +1.49% unrealized / +$22.04, trail $47.49 GTC, hwm $52.77)
+- Open orders: 1 trailing stop | Trades this week: 0/3
+
+### Market Context
+- WTI / Brent: WTI ~$95.46 (+0.69%), Brent ~$101.65 (+1.59%) — both bouncing modestly off mid-week lows; Trump administration awaiting Tehran's response (via Pakistan, within 2 days) on a 14-pt proposal to reopen Hormuz and end the ~10-week conflict
+- S&P 500 futures: ES ~7,364.61 (+0.37%), NQ futures +0.6% — risk-on bid into NFP after SPX closed at fresh ATH Wed; Iran ceasefire optimism continues
+- VIX: ~17.32 (-0.40%); prev close 17.08 — compressed pre-event regime
+- Today's catalysts: **8:30 ET NFP (April)** — consensus skewed dovish: Reuters survey +62k, separate forecast +63k (UR 4.3%); Markets Today X estimate +165k vs prior +175k. **Wide dispersion = elevated reaction risk both ways.** ~110 earnings reports today incl FIS BMO; no Tier-1 single-name macro mover
+- Earnings before open: FIS (financial services tech, 8:30 webcast); broader 110-name cluster but no mega-cap movers BMO. AMC Thu drop already digested (CRWV/COIN/ABNB/RKLB)
+- Economic calendar: **8:30 ET NFP + Unemployment Rate (April)** = the only print of the day that matters. Wholesale Inventories 10am secondary. No CPI/PPI/FOMC. Next week: PPI Tue, CPI Wed
+- Sector momentum (RRG, May 7 update): **Leading: XLP, XLI, XLB, XLE.** Weakening: **XLV.** Improving: XLRE, XLU. Lagging: XLK, XLC, XLY, XLF. XLB +22% YTD, breaking out of long consolidation; XLK showing selling exhaustion (anchor on broad SPX). Conflicts vs prior-day source flagging Tech reclaim — RRG arbitration favors **Materials/Staples/Industrials/Energy as still-Leading**
+- XLB held: $51.64 intraday, +1.49% on cost; not at +15% tighten trigger ($58.51); trail $47.49 (hwm $52.77)
+- Iran/Hormuz: 14-pt ceasefire deal awaiting Tehran response within 2 days — binary headline both ways through weekend
+
+### Trade Ideas
+1. **XLB add-on** — NO action. +1.49% unrealized, well above trail. Not at +15% tighten threshold. Server ratchet on hwm $52.77 doing its job. Let runner work toward $57 PT
+2. **XLV (Healthcare ETF)** — RRG flipped to **Weakening** today (was flight-to-safety bid YTD). Removes from active watchlist. No entry; may revisit if it cycles back to Improving
+3. **XLI (Industrials ETF)** — Still in Leading quadrant, uncorrelated to XLB Materials, no Iran-headline beta. Stalk a clean post-NFP pullback to 21-EMA. Watchlist for Mon entry if NFP-induced flush + reclaim sets up
+4. **XLE (Energy ETF)** — In Leading quadrant but Iran 14-pt deal under Tehran review = binary headline both ways through weekend. Skip until oil tape resolves direction
+5. **SMH / AMD** — Tech (XLK) in Lagging quadrant per latest RRG; chasing AMD post-print into a Lagging-sector tape violates rule 9. Skip
+
+### Risk Factors
+- **8:30 ET NFP** — wide forecast dispersion (+62k Reuters vs +165k Markets Today) = print-driven binary; weak read drags cyclicals (XLB) and feeds growth scare; hot read crushes duration/tech and feeds rate fears
+- **Iran ceasefire response** — Tehran reply via Pakistan due within ~2 days; weekend headline risk both ways (de-escalation → oil collapse, materials/cyclical squeeze; breakdown → oil spike + risk-off)
+- **Record-high tape** — SPX printing fresh ATH zone; gap-up + NFP-print = worst risk/reward window of week to chase entries
+- **Friday weekend gap risk** — entries today carry full weekend headline beta; preserve slots for Mon
+- **Sector rotation transition** — XLV flipped to Weakening (lost flight-to-safety status); XLK Lagging despite Mag7/AMD beats; rotation signals still mixed-but-Materials-led
+- **Trade slot pressure** — 0/3 used this week; week ends today — keep slots dry rather than force a Friday-into-NFP entry
+
+### Decision
+**HOLD — no new entries.** Day 10, 1 position (XLB +1.49%), ~85% cash. NFP 8:30 ET with wide forecast dispersion + Iran ceasefire weekend headline risk + Friday gap-risk = zero edge for a fresh entry. XLB doing its job above trail; not at +15% trigger. Week closes 0/3 trades — discipline preserved, dry powder intact. Monday plan: read NFP reaction Fri PM, hunt clean Leading-quadrant uncorrelated setups (XLI primary, XLB add-on only on +15% tighten event). **Patience > activity.**
