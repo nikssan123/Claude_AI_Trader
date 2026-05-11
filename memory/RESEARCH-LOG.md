@@ -373,3 +373,43 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD — no new entries.** Day 10, 1 position (XLB +1.49%), ~85% cash. NFP 8:30 ET with wide forecast dispersion + Iran ceasefire weekend headline risk + Friday gap-risk = zero edge for a fresh entry. XLB doing its job above trail; not at +15% trigger. Week closes 0/3 trades — discipline preserved, dry powder intact. Monday plan: read NFP reaction Fri PM, hunt clean Leading-quadrant uncorrelated setups (XLI primary, XLB add-on only on +15% tighten event). **Patience > activity.**
+
+## 2026-05-11 — Pre-market Research
+*(Perplexity API returned 401 invalid_api_key — fell back to native WebSearch)*
+
+### Account
+- Equity: $10,020.88
+- Cash: $8,524.48 (85.07%)
+- Buying power: $18,545.36
+- Daytrade count: 0
+- Positions: 1 (XLB 29 sh @ $50.88, current $51.60, +1.42% unrealized / +$20.88, trail $47.49 GTC, hwm $52.77)
+- Open orders: 1 trailing stop | Trades this week: 0/3 (Mon, new week)
+
+### Market Context
+- WTI / Brent: **WTI +4.96% to $100.30, Brent +4.92% to $105.76** — Iran/US peace talks COLLAPSED over weekend. Trump rejected Tehran's counter (sovereignty over Hormuz + reparations + sanctions relief) Sunday, calling it "TOTALLY UNACCEPTABLE." Day 72 of conflict; Hormuz still largely closed since late Feb
+- S&P 500 futures: **ES -0.09%** premarket; Polymarket 38% odds "Up" open (plunged -12% post-weekend diplomacy breakdown); bearish skew into the session
+- VIX: 17.19 prev close (Fri 5/8); likely spiking with Iran headline + Tue CPI
+- Today's catalysts: **April existing home sales** (10am ET); earnings BMO/AMC — **MOS (Mosaic, Materials, fertilizer — direct XLB readthrough)**, CEG, CRCL, OVV, PBR, SPG, FOXA, ACM, B (Barrick), HIMS, ASTS
+- Economic calendar this week: **Tue 5/12 8:30 ET — April CPI** (headline +0.6% MoM / +3.7% YoY, core +0.3% MoM / +2.7% YoY — some prints up to +0.7%/+3.8% headline, +0.4% core); Wed 5/13 PPI; Thu 5/14 Retail Sales; Fri 5/15 UMich Sentiment + **Powell's term ends, Senate expected to confirm Kevin Warsh as next Fed Chair this week**
+- Sector momentum (RRG May 2026): **XLE #1 + XLK strong** on Mag7/AI + Iran spike; **XLP Leading** (flight-to-safety + inflation-pass-through); **XLB now flipped to Weakening → moving toward Lagging** (declining RS + momentum); **XLI Weakening, lower highs/lows, heading toward Lagging**. Materials/Industrials leadership eroding
+- XLB held: $51.60, +1.42% on cost; YTD +14.9%; not at +15% tighten trigger ($58.51); trail $47.49 (hwm $52.77)
+- MOS earnings tonight = idiosyncratic XLB readthrough (MOS ~3% of XLB; broader fertilizer + energy-cost spillover)
+
+### Trade Ideas
+1. **XLB add-on / hold** — NO action. +1.42% unrealized; not at +15% tighten threshold ($58.51). RRG turn to **Weakening** is a warning shot, not a sell trigger — trail $47.49 (hwm $52.77) does the work. Watch MOS print AMC for sector readthrough. **If XLB cracks $51.00 with Iran spike not lifting Materials = re-evaluate**
+2. **XLE (Energy ETF)** — Iran spike will gap XLE up hard; **DO NOT CHASE** day-1 gap into geopolitical headline. Chasing into binary headline = rule 9 violation. Watchlist for an opening-range flush + reclaim only post-CPI
+3. **XLP (Consumer Staples ETF)** — In Leading quadrant, low oil-spike beta, defensive bid in stagflation regime. Stalk pullback to 21-EMA post-CPI Tue. Best uncorrelated-to-XLB candidate this week
+4. **XLI (Industrials)** — Now Weakening per latest RRG (was Leading last week). REMOVE from active watchlist; revisit only if RS curls up post-CPI
+5. **AMD / SMH** — XLK strong on AI bid, but chasing day-1 of Iran-spike + pre-CPI = no edge. Skip; reconsider post-CPI Wed
+
+### Risk Factors
+- **Iran/Hormuz binary headline** — Trump rejected counter; Tehran "vows to never bow." Headlines both ways through week (escalation = oil higher + risk-off; surprise de-escalation = oil collapse + Materials/Energy unwind)
+- **Tue 5/12 8:30 ET CPI** — THE event of the week. Consensus +3.7% YoY headline / +2.7% core; hot print (4%+ headline) = rate-fear, growth-scare; cold print = relief rally. April inflation pinged higher by elevated energy prices
+- **Fed Chair transition Fri 5/15** — Powell's term ends; Warsh confirmation = hawkish reset risk (Warsh historically hawkish on inflation)
+- **MOS earnings AMC** — direct XLB readthrough; weak fertilizer print drags Materials
+- **Sector rotation flip** — XLB and XLI both flipped to Weakening since last week; first sign Materials leadership thesis eroding. If XLB loses hwm $52.77 + breaks $51 this week, thesis is on probation
+- **Friday weekend gap delivered** — bearish gap as expected; entries today carry Tue CPI binary
+- **Trade slot pressure** — 0/3 used; preserve all 3 slots for post-CPI clean setups Wed-Fri
+
+### Decision
+**HOLD — no new entries.** Day 11, 1 position (XLB +1.42%), ~85% cash. Iran peace collapse + oil +5% + CPI Tue + Warsh Fed chair transition = stacked event risk; no edge for fresh entry. XLB still above trail but RRG flipped to Weakening — first warning that Materials leadership thesis may be expiring. Don't chase XLE into Iran-headline gap. Preserve all 3 weekly trade slots for post-CPI setups (priority: **XLP** uncorrelated defensive). **If XLB breaks $51 on Iran-up tape (commodities rallying, Materials NOT participating) = thesis broken, prepare to exit on bounce, not at -7%.** Trail at $47.49 still does the heavy lifting. **Patience > activity.**
