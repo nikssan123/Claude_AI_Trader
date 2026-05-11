@@ -84,3 +84,11 @@ No positions. No trades today. Trades this week: 0/3.
 | XLB | 29 | $50.88 | $51.59 | +0.37% | +$20.59 (+1.40%) | $47.49 (trail 10%, hwm $52.77) |
 
 **Notes:** Quiet Friday close. XLB ticked +0.37% to $51.59, lifting unrealized to +1.40%; trailing-stop hwm unchanged at $52.77 (stop $47.49). Account +$4.64 (+0.05%) day, +$20.59 (+0.21%) phase — fresh phase high. No trades today; week closes 0/3 cap used. Cash 85.07% — dry powder fully intact entering week 3. Weekly review pending. Monday: rerun premarket scan, watch XLB for reclaim of $52.77 hwm, hunt an uncorrelated RS leader (avoid cyclical stacking) — deploy only on a clean setup.
+
+### May 11 — EOD Snapshot (Day 11, Monday)
+**Portfolio:** $10,040.02 | **Cash:** $8,524.48 (84.91%) | **Day P&L:** +$19.43 (+0.19%) | **Phase P&L:** +$40.02 (+0.40%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+| XLB | 29 | $50.88 | $52.26 | +1.30% | +$40.02 (+2.71%) | $47.49 (trail 10%, hwm $52.77) |
+
+**Notes:** Strong week-3 open. XLB rallied +1.30% to $52.26, lifting unrealized to +2.71% and pressing back toward the $52.77 hwm; trailing stop unchanged at $47.49. Account +$19.43 (+0.19%) day, +$40.02 (+0.40%) phase — fresh phase high. No trades today; week 0/3 cap used. Cash 84.91% — dry powder intact. Tomorrow: rerun premarket scan, watch XLB for clean break of $52.77 hwm, hunt an uncorrelated RS leader (avoid cyclical stacking); deploy only on a clean setup within risk rules.
