@@ -373,3 +373,41 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD — no new entries.** Day 10, 1 position (XLB +1.49%), ~85% cash. NFP 8:30 ET with wide forecast dispersion + Iran ceasefire weekend headline risk + Friday gap-risk = zero edge for a fresh entry. XLB doing its job above trail; not at +15% trigger. Week closes 0/3 trades — discipline preserved, dry powder intact. Monday plan: read NFP reaction Fri PM, hunt clean Leading-quadrant uncorrelated setups (XLI primary, XLB add-on only on +15% tighten event). **Patience > activity.**
+
+## 2026-05-12 — Pre-market Research
+*(Perplexity API returned 401 invalid_api_key — fell back to native WebSearch)*
+
+### Account
+- Equity: $10,046.98
+- Cash: $8,524.48 (84.85%)
+- Buying power: $18,571.46
+- Daytrade count: 0
+- Positions: 1 (XLB 29 sh @ $50.88, current $52.50, +3.18% unrealized / +$46.98, trail $47.49 GTC, hwm $52.77)
+- Open orders: 1 trailing stop | Trades this week: 0/3
+
+### Market Context
+- WTI / Brent: **WTI ~$98, Brent ~$104.97 (+0.73%)** — crude back-bid sharply vs Fri's $95/$101 lows; Trump dismissed Tehran's 14-pt peace proposal, ceasefire on "massive life support" per WH; Hormuz remains effectively closed; Aramco CEO Nasser warns market losing ~100M bbl/wk supply, normalization could slip into next year
+- S&P 500 futures: ES ~+0.79% premarket — bounce after SPX printed fresh ATH zone above 7,300; longest 6-week win streak since 2024
+- VIX: ~18.41 (+7.10% last RTH); May VIX futures ~20.20 (+2.58%) — elevated; premarket has bid risk-on into the CPI print
+- **TODAY 8:30 ET — APRIL CPI** (the dominant event of the week): headline consensus **+0.6% MoM / +3.7% YoY** (vs +3.3% prior); core **+0.3-0.4% MoM / +2.7% YoY** (vs +2.6% prior). Energy spike from Hormuz expected to push headline; watch core >0.3% MoM as confirmation that energy is bleeding into non-energy categories — that print = rate-fear regime + duration crush
+- Earnings: 188 reports today; AAPL already reported Q2 (Apr 30, beat). Tier-1 single-name BMO movers thin today. **CSCO Wed AMC** (AI/datacenter capex proxy, ~$0.92 EPS / $14B rev), **AMAT Thu AMC** (~$2.68 EPS, opt-implied ±8.7%)
+- Economic calendar: **CPI 8:30 ET = the print.** Light otherwise. Fed speakers later in week
+- Sector momentum (RRG May 2026): **Leading: XLP, XLI, XLB, XLE** (cyclicals + defensives) — rotation away from 2025 Tech leadership confirmed; one source still has XLK in pole alongside XLE. XLB +22% YTD, Materials still Leading
+- XLB held: $52.50 intraday (+3.18% on cost); trail $47.49; hwm $52.77; not at +15% tighten trigger ($58.51). Inflation/Iran backdrop = positive tape for Materials
+
+### Trade Ideas
+1. **XLB add-on** — NO action. +3.18% unrealized, well above trail. Not at +15% tighten threshold. Materials still Leading + inflation/oil tape = thesis intact. Let runner work toward $57 PT
+2. **XLE (Energy ETF)** — Leading sector + Iran "massive life support" + Hormuz closed + Aramco's 100M bbl/wk warning = structural bid. **Watchlist only — not pre-CPI.** Iran headline binary both ways through the week; if CPI hot AND Iran headlines stay hawkish, stalk a clean pullback to 21-EMA for a 15% sleeve, stop -7%
+3. **XLI (Industrials ETF)** — Leading, uncorrelated to XLB, no direct Iran beta. Cleanest non-binary leader on the board. **Watchlist for post-CPI opening-range hold** — entry only on a clean reclaim of pre-CPI levels with sector RS confirmed, stop -7%, target +10%
+4. **XLP (Staples ETF)** — Leading; defensive hedge if CPI hot + rate fears resurface. Lower beta = lower upside; deprioritize vs XLI/XLE
+
+### Risk Factors
+- **8:30 ET CPI** — hot core (>0.3% MoM, >2.7% YoY) = duration crush, rate fears, tech/discretionary bleed; cold print = growth scare angle but cyclicals/Materials hold up. Energy bleed-through into core is the key tell
+- **Iran/Hormuz escalation** — peace deal off the table per Trump; oil spike + risk-off if any new incident; conversely a surprise re-engagement could collapse oil and cyclical leadership. Aramco's 100M bbl/wk loss number is unsustainable — physical-market binary
+- **Record-high SPX into CPI** — ATH + 6-week win streak + elevated VIX = poor risk/reward for fresh entries pre-print
+- **CSCO Wed + AMAT Thu** — AI/datacenter capex reads after CPI; second-half-of-week event clusters keep slot discipline tight
+- **Sector rotation conflict** — Materials/Industrials/Energy/Staples Leading per primary RRG; one source still flags XLK pole — favor RRG cluster signal over single-source
+- **Trade slot pressure** — Tue, 0/3 used; preserve slots for post-CPI clean setups Wed-Fri rather than chase a pre-print entry
+
+### Decision
+**HOLD — no new entries pre-CPI.** Day 11, 1 position (XLB +3.18%), ~85% cash. April CPI 8:30 ET = binary regime print; Iran/Hormuz back to hawkish posture; SPX at ATH with elevated VIX. Zero edge taking a fresh entry into the print. XLB compounding (+3.18%, hwm $52.77), trailing stop ratcheting; thesis (Materials Leading + inflation/oil tape) reinforced by Hormuz escalation. **Watchlist priorities post-CPI:** XLI clean opening-range hold (primary, no Iran beta), XLE pullback (if Iran stays hot, deploy only on clean setup), XLP defensive hedge if rate-fear regime. Preserve all 3 weekly trade slots for cleaner post-CPI setups. **Patience > activity.**
