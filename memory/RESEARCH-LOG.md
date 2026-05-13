@@ -373,3 +373,42 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD — no new entries.** Day 10, 1 position (XLB +1.49%), ~85% cash. NFP 8:30 ET with wide forecast dispersion + Iran ceasefire weekend headline risk + Friday gap-risk = zero edge for a fresh entry. XLB doing its job above trail; not at +15% trigger. Week closes 0/3 trades — discipline preserved, dry powder intact. Monday plan: read NFP reaction Fri PM, hunt clean Leading-quadrant uncorrelated setups (XLI primary, XLB add-on only on +15% tighten event). **Patience > activity.**
+
+## 2026-05-13 — Pre-market Research
+*(Perplexity API returned 401 invalid_api_key — fell back to native WebSearch)*
+
+### Account
+- Equity: $10,019.72
+- Cash: $8,524.48 (85.07%)
+- Buying power: $18,544.20
+- Daytrade count: 0
+- Positions: 1 (XLB 29 sh @ $50.88, current $51.56, +1.34% unrealized / +$19.72, trail $47.49 GTC, hwm $52.77)
+- Open orders: 1 trailing stop | Trades this week: 0/3
+
+### Market Context
+- WTI / Brent: WTI ~$101.60, Brent ~$107.05 (-0.67%) — elevated tape, Hormuz still restricted by US/Iran forces; Brent +12.93% MoM, +61.97% YoY. Iran headline cluster ongoing (no ceasefire breakthrough yet)
+- S&P 500 futures: ES ~7,401.50 (-0.37%); NQ futures higher pre-PPI. Yesterday (May 12) SPX fell on hot CPI print
+- VIX: ~18.11 (+5.35%) — bumped on CPI; still in normal 15-25 regime but rising
+- Today's catalysts: **8:30 ET April PPI** (MoM consensus +0.5% vs +0.5% prev); EIA Crude Inventories 10:30; MBA Mortgage Apps. **Kevin Warsh Fed Chair nomination vote expected today.** BMO earnings: **BABA, WIX, BIRK**. AMC: **CSCO**
+- Yesterday's CPI: **+0.6% MoM, +3.8% YoY (highest since May 2023)**; core +0.4% MoM / +2.8% YoY — re-acceleration print, Iran/Hormuz feeding into both headline and core
+- Sector momentum (latest RRG): **Leading: XLP, XLI, XLB, XLE.** Semis, energy, defense, industrials doing the work; REITs/discretionary/utilities lagging. XLB **+22% YTD**, possibly completing 14-mo cup-with-handle, technical target ~$56.8
+- XLB held: $51.56 intraday, +1.34% on cost; not at +15% tighten trigger ($58.51); trail $47.49 (hwm $52.77 unchanged)
+
+### Trade Ideas
+1. **XLB add-on / hold** — NO action. +1.34% unrealized, well above trail. Not at +15% tighten threshold. Hot CPI + sticky PPI consensus = inflation-hedge bid intact for Materials/Energy. Let runner work toward $57 target. Server ratchet on hwm $52.77 doing its job
+2. **XLI (Industrials ETF)** — Still Leading, uncorrelated to XLB, no direct Iran headline beta. Stalk post-PPI clean pullback to 21-EMA. Watchlist for Thu/Fri entry if PPI sets up a clean reclaim setup
+3. **XLE (Energy ETF)** — Leading + Brent $107 = momentum continues, but headline binary (any Hormuz ceasefire = oil collapse). Skip until oil tape resolves; if Iran headline breaks bullish for oil and clean opening-range holds, watchlist only
+4. **BABA post-print** — China e-commerce/cloud, Trump/Xi meet referenced in macro tape. Single-name gap-on-earnings into Iran/PPI tape = no edge today. Skip
+5. **CSCO post-print (after-hours)** — Tech (XLK Lagging quadrant); event-binary single-name. Skip
+
+### Risk Factors
+- **8:30 ET April PPI** — after hot CPI yesterday, hot PPI cements stagflation narrative: bids XLB/XLE further but caps broad tape via rate-cut deferral; cool PPI gives relief rally but also fades the inflation-hedge bid in Materials
+- **Iran war / Strait of Hormuz** — still restricted, no ceasefire; oil at multi-year highs, headline both ways = binary risk on any position with energy/cyclical beta
+- **Kevin Warsh Fed Chair vote** — Wed nomination vote; hawkish reputation = could lift yields, hit duration (tech) and broad tape
+- **CPI/PPI sequence** — second straight month of hot inflation (CPI 3.8% YoY) raises path-dependent risk if PPI also hot — defers rate cuts deep into H2
+- **BABA earnings BMO** — broad China-sentiment readthrough; AI/cloud beat could lift KWEB/EM, miss drags HSCEI/global cyclical
+- **Single-day catalyst cluster** — PPI + Warsh + BABA + Iran tape all live before 11am ET = elevated single-day variance
+- **Trade slot pressure** — 0/3 used this week, 3 days left after today; preserve slots — don't burn one into the PPI 8:30 print
+
+### Decision
+**HOLD — no new entries.** Day 13 (Wed), 1 position (XLB +1.34%), ~85% cash. PPI 8:30 ET + Warsh Fed vote + BABA print + live Iran/Hormuz tape = multi-binary day, no edge for a fresh entry into the cluster. XLB compounding above trail $47.49 (hwm $52.77); not at +15% tighten trigger. Hot CPI yesterday + sticky inflation regime continues to underwrite the Materials/Energy leadership thesis — let the existing exposure work. Plan: read PPI reaction Wed AM, hunt clean XLI pullback Thu/Fri only if PPI gives a constructive setup, XLB add-on only if it triggers +15% (i.e., breaks ~$58.51). **Patience > activity.**
