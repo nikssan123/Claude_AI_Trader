@@ -373,3 +373,44 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD — no new entries.** Day 10, 1 position (XLB +1.49%), ~85% cash. NFP 8:30 ET with wide forecast dispersion + Iran ceasefire weekend headline risk + Friday gap-risk = zero edge for a fresh entry. XLB doing its job above trail; not at +15% trigger. Week closes 0/3 trades — discipline preserved, dry powder intact. Monday plan: read NFP reaction Fri PM, hunt clean Leading-quadrant uncorrelated setups (XLI primary, XLB add-on only on +15% tighten event). **Patience > activity.**
+
+## 2026-05-14 — Pre-market Research
+*(Perplexity API returned 401 invalid_api_key — fell back to native WebSearch)*
+
+### Account
+- Equity: $10,034.22
+- Cash: $8,524.48 (84.96%)
+- Buying power: $18,558.70
+- Daytrade count: 0
+- Positions: 1 (XLB 29 sh @ $50.88, last $52.06, +2.32% unrealized / +$34.22, trail $47.49 GTC, hwm $52.77)
+- Open orders: 1 trailing stop | Trades this week: 0/3
+
+### Market Context
+- WTI / Brent: WTI ~$101.54 (intraday $100.83-$101.74), Brent ~$105.87-106.18 (+0.22-0.52%) — bouncing modestly; **IEA flags greater oil volatility ahead; OPEC cuts demand forecast**; Hormuz still in play
+- S&P 500 futures: ES +0.2%, NQ +0.4%, YM +0.4% premarket — risk-on into Trump-Xi summit; SPX hit fresh ATH Wed (close +0.59%, NDX +1.2%)
+- VIX: ~17.99 (Wed close), trading 17.92-18.01 today — slightly elevated vs last week's mid-16s
+- Today's catalysts: **Trump-Xi summit kicks off today (May 14-15)** — trade + AI focus, Huang/Musk/Cook attending; **Kevin Warsh confirmed as next Fed chair** (Powell term expires Fri May 15) — leadership transition; **NVDA premarket +1.9%, 6th up day**
+- Earnings before open: ~244 reports today, no Tier-1 macro mover BMO identified (mid-cap cluster post-mega-cap earnings season)
+- Economic calendar: Light Thu. Earlier this week: **PPI hot Tue, CPI hot Wed** (rate-fear backdrop). 8:30 ET likely jobless claims (cont. ~1.8M). No FOMC today (Powell→Warsh transition Fri)
+- Sector momentum (RRG May 2026): **Leading: XLP, XLI, XLB, XLE.** Lagging: XLK, XLC, XLY, XLF. Improving: XLU, XLY, XLB momentum. XLK has absolute momentum from AI (NVDA bid) but RRG flags it Lagging quadrant. Energy/Staples at ATH-extended
+- XLB held: $51.62 latest (vs Wed Alpaca close $52.06); 52w range $42.04-$54.14; consensus PT $56.67. Not at +15% tighten trigger ($58.51); trail $47.49 unchanged
+- Geopolitics: Iran/Hormuz still binary; Europe chemicals industry getting unexpected lift from Iran-war supply disruption (XLB readthrough constructive)
+
+### Trade Ideas
+1. **XLB add-on** — NO action. +2.32% unrealized, well above trail. Not at +15% tighten threshold. Server trail at hwm $52.77 doing its job. Iran-war chemicals lift = tailwind. Let runner work toward $57 PT
+2. **XLI (Industrials ETF)** — Leading quadrant per RRG, uncorrelated to XLB. Stalk clean pullback to 21-EMA on post-Trump/Xi clarity. Watchlist; no compelling level on ATH-extended tape today
+3. **NVDA / SMH** — NVDA +1.9% premarket, 6th up day, bid on Trump-Xi AI summit. **Don't chase** — single-name AI vs 5-pos cap + binary summit headline risk. XLK still Lagging per RRG. Skip
+4. **XLE (Energy ETF)** — Leading quadrant but IEA flagged "greater volatility ahead" + OPEC demand cut + Hormuz binary = no clean entry. Skip
+5. **XLP (Staples ETF)** — Leading + ATH-extended; chasing a vertical staple ETF on ATH = poor R:R. Watchlist for pullback
+
+### Risk Factors
+- **Trump-Xi summit May 14-15** — trade + AI focus; binary headline risk both ways. Breakthrough = risk-on (AI/Tech bid, USD weak); breakdown = tariff/risk-off (cyclicals/XLB hit)
+- **Powell → Warsh Fed handoff Fri May 15** — Fed chair transition adds policy uncertainty; Warsh historically hawkish-curious, could spike short rates
+- **Hot CPI/PPI earlier this week** — rate-fear backdrop intact; duration vulnerable, cyclicals/value relative-strength tailwind
+- **SPX at fresh ATH** — gap-up tape, worst R:R window to chase a fresh entry; mean-reversion risk into 2-day summit binary
+- **IEA volatility flag + OPEC demand cut** — oil-tape whipsaw risk; XLE binary into Hormuz headlines
+- **Sector rotation transition** — XLK absolute momentum (NVDA streak) vs RRG-Lagging signal; mixed leadership read
+- **Trade slot pressure** — 0/3 used Mon-Thu of week 3; preserve slots for post-summit clarity (Mon) rather than chase Thursday-into-summit
+
+### Decision
+**HOLD — no new entries.** Day 13, 1 position (XLB +2.32%), ~85% cash. Trump-Xi summit kickoff today + Powell→Warsh Fed handoff Fri + post-hot-CPI/PPI rate-fear backdrop + SPX at ATH = three stacked binaries with no edge to chase. XLB compounding nicely above trail; Europe-chemicals Iran tailwind constructive. **Watchlist priorities for Mon post-summit:** XLI clean Leading-quadrant pullback, XLB add-on only if +15% tighten triggers ($58.51), NVDA/SMH only if XLK reclaims RRG Leading. Preserve all 3 weekly trade slots. **Patience > activity.**
