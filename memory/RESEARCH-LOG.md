@@ -373,3 +373,45 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD — no new entries.** Day 10, 1 position (XLB +1.49%), ~85% cash. NFP 8:30 ET with wide forecast dispersion + Iran ceasefire weekend headline risk + Friday gap-risk = zero edge for a fresh entry. XLB doing its job above trail; not at +15% trigger. Week closes 0/3 trades — discipline preserved, dry powder intact. Monday plan: read NFP reaction Fri PM, hunt clean Leading-quadrant uncorrelated setups (XLI primary, XLB add-on only on +15% tighten event). **Patience > activity.**
+
+## 2026-05-15 — Pre-market Research
+*(Perplexity API returned 401 invalid_api_key — fell back to native WebSearch)*
+
+### Account
+- Equity: $10,019.43
+- Cash: $8,524.48 (85.08%)
+- Buying power: $18,543.91
+- Daytrade count: 0
+- Positions: 1 (XLB 29 sh @ $50.88, current $51.55, +1.32% unrealized / +$19.43, trail $47.49 GTC, hwm $52.77)
+- Open orders: 1 trailing stop | Trades this week: 0/3
+
+### Market Context
+- WTI / Brent: WTI ~$102 (range $101.49-$102.92), Brent ~$106.89 (+1.11%) — both bid as Hormuz remains effectively closed; Trump says ceasefire "on massive life support"; ~10-week conflict ongoing, Project Freedom escort op paused on 5/6 for negotiations but shipping has not resumed
+- S&P 500 futures: SPX/NDX printed fresh ATHs intraweek on strong tech earnings (CSCO +13% on raised guide); DJI at 3-mo peak. Risk-on tape leaking into Fri but extended
+- VIX: prev close ~17.26; VIX futures 18.68 — slight uptick but contained pre-event regime
+- Today's catalysts: **Powell's last day as Fed Chair** — term ends 5/15; Kevin Warsh expected to take seat on temporary basis = monetary-policy-tilt headline binary. ~98 earnings reports today, no Tier-1 mega-cap BMO. Next week: **NVDA + WMT earnings** = market-defining binaries
+- Earnings: This week's beats (CSCO, BABA, AMAT) supportive of tech tape into NVDA next wk. 83% S&P beat rate season-to-date
+- Economic calendar: This week's data digested — **Retail Sales +0.5% (in-line)**, **claims 211k (+slight)**, **PPI +1.4% MoM / core +1.0% MoM (hot vs +0.4%/+0.3% expected)** = inflation re-acceleration scare alive. Today: no Tier-1 macro print
+- Sector momentum (RRG, May 2026): **Leading: XLE #1, XLK (just crossed in), XLB, XLI, XLRE.** Weakening: **XLB + XLI losing relative momentum** but still right-side. Semis runaway leader (AI capex). Tech reclaimed Leading from Lagging — rotation flip vs last week
+- XLB held: $51.55, +1.32% on cost; not at +15% tighten trigger ($58.51); trail $47.49 (hwm $52.77 unchanged). Sector showing relative-momentum deterioration on RRG — watch closely
+- Iran/Hormuz: ceasefire "on life support" per Trump; both sides have exchanged fire post-ceasefire; strait effectively closed → oil supply premium persists
+
+### Trade Ideas
+1. **XLB hold** — NO add, NO trim. +1.32% unrealized, well above $47.49 trail. Not at +15% tighten trigger. RRG shows Materials losing relative momentum — sustainability question; respect the trail and let the position resolve itself. Server ratchet handles hwm
+2. **XLK / SMH (Semis)** — Tech just crossed into Leading quadrant; AI capex narrative reinforced by CSCO/AMAT beats. **But NVDA earnings next week** = chasing into a known binary violates discipline. Stalk post-print setup; no entry today
+3. **XLE (Energy ETF)** — RRG #1 Leading, oil bid on Hormuz tightness. But Iran ceasefire binary both ways through weekend (de-escalation = oil collapse, breakdown = spike). Friday + weekend gap-risk = skip. Watchlist for clean Monday setup
+4. **XLI (Industrials)** — Still right-side of RRG but losing momentum same as XLB; correlated with own position. Skip; avoid cyclical stacking
+5. **XLV (Healthcare)** — Was flipped to Weakening last week; no change to thesis. Skip
+
+### Risk Factors
+- **Powell → Warsh Fed transition today** — last day of Powell's term; Warsh perceived hawkish historically. Headline-binary on monetary policy outlook; market sensitive after hot PPI
+- **Hot PPI on Wed (+1.4% MoM, core +1.0%)** — inflation re-acceleration risk live; rate-cut path delayed in market psyche; cyclicals (XLB) vulnerable on hawkish read
+- **Iran ceasefire "on life support"** — Trump quote; weekend headline both ways, strait closed = ongoing oil premium but de-escalation could collapse it quickly
+- **Record-high tape** — SPX/NDX at ATH on tech earnings; gap-up Friday into Fed transition + weekend = worst R:R for fresh entry
+- **NVDA + WMT next week** — chasing tech today front-runs the binary; preserve dry powder for post-print entries
+- **Materials sector momentum decay** — XLB still right-side RRG but Velocity weakening; if rotation completes into Tech-only leadership, XLB sustainability question intensifies
+- **Friday weekend gap risk** — entries today carry full weekend headline beta (Iran + Fed transition)
+- **Trade slot pressure** — 0/3 used this week, week ends today; do not force a Friday entry to "use slots"
+
+### Decision
+**HOLD — no new entries.** Day 15, 1 position (XLB +1.32%), ~85% cash. Stacked binaries: Powell→Warsh Fed transition today + Iran ceasefire on life support (weekend) + record-high tape + NVDA next week. Hot PPI (+1.4% MoM) introduces inflation re-accel scare → cyclicals (incl XLB) vulnerable; respect the trail at $47.49, let it work. Materials losing relative momentum on RRG = no add even on +15% trigger if rotation continues. Week closes 0/3 trades — discipline preserved, dry powder intact for post-NVDA + post-Fed-transition setups next week. Monday plan: hunt Tech/Energy Leading-quadrant setups post-weekend headlines; XLE only if oil tape resolves direction. **Patience > activity.**
