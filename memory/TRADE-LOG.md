@@ -116,3 +116,11 @@ No positions. No trades today. Trades this week: 0/3.
 | XLB | 29 | $50.88 | $51.67 | -0.75% | +$22.91 (+1.55%) | $47.49 (trail 10%, hwm $52.77) |
 
 **Notes:** Mild red session. XLB slipped -0.75% to $51.67, trimming unrealized to +1.55%; trailing-stop hwm unchanged at $52.77 (stop $47.49). Account -$11.31 (-0.11%) day, +$22.91 (+0.23%) phase. No trades today; week 0/3 cap used. Cash 85.05% — dry powder intact. Tomorrow (Friday): rerun premarket scan, watch XLB for hold above $51 / reclaim of $52.77 hwm, hunt an uncorrelated RS leader (avoid cyclical stacking); deploy only on a clean setup, otherwise prep weekly review.
+
+### May 15 — EOD Snapshot (Day 15, Friday)
+**Portfolio:** $9,983.18 | **Cash:** $8,524.48 (85.39%) | **Day P&L:** -$39.73 (-0.40%) | **Phase P&L:** -$16.82 (-0.17%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+| XLB | 29 | $50.88 | $50.30 | -2.65% | -$16.82 (-1.14%) | $47.49 (trail 10%, hwm $52.77) |
+
+**Notes:** Ugly Friday close. XLB sold off -2.65% to $50.30, flipping the position red (-1.14% unrealized) and dragging the account to a fresh phase low at -$16.82 (-0.17%) — first negative phase print since May 04. Trailing-stop hwm unchanged at $52.77 (stop $47.49) — well clear of trigger. Account -$39.73 (-0.40%) on the day, the worst single-session drawdown of the challenge so far. No trades today; week closes 0/3 cap used. Cash 85.39% — dry powder fully intact entering week 4. Weekly review pending. Monday: rerun premarket scan, assess XLB hold of $50 zone (manual -7% cut trigger at $47.32), hunt an uncorrelated RS leader; only deploy on a clean setup within risk rules.
