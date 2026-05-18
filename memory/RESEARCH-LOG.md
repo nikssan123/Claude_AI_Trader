@@ -415,3 +415,45 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD — no new entries.** Day 15, 1 position (XLB +1.32%), ~85% cash. Stacked binaries: Powell→Warsh Fed transition today + Iran ceasefire on life support (weekend) + record-high tape + NVDA next week. Hot PPI (+1.4% MoM) introduces inflation re-accel scare → cyclicals (incl XLB) vulnerable; respect the trail at $47.49, let it work. Materials losing relative momentum on RRG = no add even on +15% trigger if rotation continues. Week closes 0/3 trades — discipline preserved, dry powder intact for post-NVDA + post-Fed-transition setups next week. Monday plan: hunt Tech/Energy Leading-quadrant setups post-weekend headlines; XLE only if oil tape resolves direction. **Patience > activity.**
+
+## 2026-05-18 — Pre-market Research
+*(Perplexity API returned 401 invalid_api_key — fell back to native WebSearch)*
+
+### Account
+- Equity: $9,983.18
+- Cash: $8,524.48 (85.39%)
+- Buying power: $18,507.66
+- Daytrade count: 0
+- Positions: 1 (XLB 29 sh @ $50.88, last $50.30, -1.14% unrealized / -$16.82, trail $47.49 GTC, hwm $52.77)
+- Open orders: 1 trailing stop | Trades this week: 0/3 (fresh week)
+
+### Market Context
+- WTI / Brent: WTI ~$103-107 (range, +1.2-2% today), Brent ~$110-111 (+1-1.7%) — **gap-spiked on Sunday UAE Barakah nuclear plant drone strike** (3 drones, 1 hit perimeter electrical generator, no radiation/injuries; first attack since Iran war began)
+- S&P 500 futures: ES ~7,397 (-0.58%, -42.75 pts), Dow -0.7%, NQ -0.5% — risk-off after Friday's -0.4% close; record-high tape rolling over on weekend Middle East shock
+- VIX: 18.99 (+3.04%) — uptick off Fri 17.26 close on geopolitical event; still contained
+- Today's catalysts: **No Tier-1 macro print Monday.** Geopolitical (UAE drone strike) dominates open. Light earnings BMO. Week is loaded: HD Tue BMO, **NVDA Wed AMC + FOMC April minutes Wed**, **WMT/TGT/LOW + flash PMIs Thu**, UMich sentiment Fri
+- Earnings before open: None Tier-1 today; HD Tuesday opens retail cluster
+- Economic calendar: **Mon quiet.** Tue: HD earnings, building permits/housing starts. **Wed: FOMC April mins (first Warsh-era set), NVDA AMC.** Thu: WMT/TGT/LOW BMO, **flash S&P May PMIs**, jobless claims, Leading Index. Fri: UMich sentiment final
+- Sector momentum (RRG, late May 2026): **Leading: XLE #1 (+24.3% YTD on Middle East supply premium), XLK (#2, +20.6% YTD, just re-crossed in), XLB, XLI, XLP.** Lagging: XLY, XLC, XLF. XLB still right-side but momentum decay continues (3rd week of weakening Velocity). XLE strengthens further on UAE strike
+- XLB held: $50.30 (-1.14% on cost, -2.65% Fri); trail $47.49 unchanged (hwm $52.77). **Manual -7% cut trigger sits at $47.32 — basically on top of the trail; one bad session and we're out either way.** No discretion needed
+- Iran/UAE: Barakah strike escalates Middle East risk; "ceasefire on life support" → effectively broken. Oil supply premium re-prices higher; weekend gap into Monday already done
+
+### Trade Ideas
+1. **XLB hold** — NO add, NO trim. -1.14% unrealized but well above $47.49 trail. Trail = manual cut zone overlap → let the order do its job. No discretion. Materials momentum decay continues but trail will handle it
+2. **XLE (Energy ETF)** — RRG #1, +24.3% YTD, oil bid hardened by Barakah strike. **But chasing a gap on a geopolitical shock day = worst R:R.** Stalk a pullback to 21-EMA or post-strike-headline base; do NOT chase the open spike. Watchlist for Tue/Wed entry if oil tape consolidates above $100 WTI
+3. **NVDA / SMH (Semis)** — XLK crossing back into Leading + AI capex narrative. **NVDA AMC Wed = explicit binary** ($78B rev / $1.77 EPS consensus). No entry into a known binary; stalk post-print setup Thu/Fri based on reaction
+4. **XLI (Industrials)** — Still right-side RRG but correlated with own XLB position (cyclical stacking); skip
+5. **WMT/HD/TGT/LOW** — Single-name retail prints stacked Tue/Wed/Thu; all event-binary. Skip; ETF-only discipline preferred. Watchlist post-print
+
+### Risk Factors
+- **UAE Barakah drone strike** — first direct attack on UAE infrastructure since Iran war started; Middle East escalation re-priced into oil/equities; further strikes = oil spike + risk-off cascade
+- **NVDA earnings Wed AMC** — single-day NVDA move swings SPX/NDX given index weight; gap risk both ways Thu open
+- **FOMC April mins Wed** — first Warsh-era minutes; hawkish read post-hot-PPI = rate-cut path further delayed, cyclicals (incl XLB) vulnerable
+- **Flash PMIs Thu** — soft prints feed growth scare; XLB direct beta to global manufacturing read
+- **XLB on the edge** — -1.14% from entry, trail $47.49 ≈ manual -7% trigger ($47.32); one bad session triggers exit either way
+- **Oil tape binary** — supply premium re-priced higher on UAE strike, but if Iran/UAE/US move to de-escalate by week's end, oil reverses violently → XLE chasers get burned
+- **Record-high rollover risk** — SPX printed ATH 5/15 before red close; geopolitical shock = potential trend break; chasing dips violates Rule 9
+- **Trade slot pressure** — 0/3 used (fresh week); preserve all slots for post-NVDA / post-FOMC mins / post-PMI setups Thu/Fri
+
+### Decision
+**HOLD — no new entries.** Day 16, 1 position (XLB -1.14%, on the trail edge), ~85% cash. Geopolitical shock open (UAE Barakah strike) + record-high rollover + stacked binaries Wed (NVDA + FOMC mins) + Thu (PMIs + retail cluster) = zero edge for a Monday entry. XLB at its trail/manual-cut overlap zone — discretionary action is to do nothing; the order handles exit if Materials breaks. XLE leadership real but chasing a geopolitical gap is the worst possible R:R. **Watchlist priorities:** XLE on consolidation pullback, SMH/NVDA post-print, XLI only if XLB exits (avoid cyclical stacking). Preserve all 3 weekly trade slots for cleaner setups Wed-PM through Fri. **Patience > activity.**
