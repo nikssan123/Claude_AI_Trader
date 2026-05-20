@@ -499,3 +499,46 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD — no new entries.** Day 17, 1 position (XLB -1.30%, on the trail edge), ~85% cash. Stacked binaries Wed (NVDA AMC + FOMC mins) + Thu (PMIs + retail) + live yield breakout (curve crossed key levels) + Iran sanctions-waiver oil two-way = zero edge for a Tuesday entry. XLB at trail/manual-cut overlap — the GTC IS the plan; no manual action. Sector rotation muddied: XLE leadership real but oil now two-sided; XLK leadership crack on memory-chip rout. **Watchlist priorities:** SMH/NVDA post-print reaction Thu, XLE on clean WTI $105 reclaim, XLP (defensive) if growth scare deepens. Preserve all 3 weekly trade slots for post-NVDA / post-FOMC-mins setups Thu/Fri. **Patience > activity.**
+
+## 2026-05-20 — Pre-market Research
+*(Perplexity API returned 401 invalid_api_key — fell back to native WebSearch)*
+
+### Account
+- Equity: $9,946.64
+- Cash: $8,524.48 (85.70%)
+- Buying power: $18,471.12
+- Daytrade count: 0
+- Positions: 1 (XLB 29 sh @ $50.88, current $49.04, -3.62% unrealized / -$53.36, trail $47.49 GTC, hwm $52.77)
+- Open orders: 1 trailing stop | Trades this week: 0/3
+
+### Market Context
+- WTI / Brent: WTI ~$103/bbl, Brent ~$111 (range $110.68-$111.47) — Iran "interim sanctions waiver" rumor (Tasnim, unconfirmed by US) capped Mon's spike but Hormuz still effectively closed; oil two-sided pending Tehran response
+- S&P 500 futures: ES +0.21% premarket (Polymarket: 71% green open) after Tue's risk-off close (SPX 7,353.61 -0.67%, 3rd consecutive down session); NDX -0.84% Tue (25,870.71); DJI -0.65% (49,363.88)
+- VIX: 17.82 close 5/19 (-3.31% on the day) — still contained despite 3 down sessions; pre-NVDA/FOMC compression
+- Today's catalysts: **NVDA Q1 FY27 AMC** (consensus $79.2B rev +79.5% YoY, $1.78 EPS +120% YoY; Polymarket ~90% beat) + **FOMC April minutes** (first Warsh-era set, hawkish-read risk after hot PPI). Twin Q2-defining binary, same session. Light earnings BMO (no Tier-1); TGT/LOW/WMT BMO Thu, flash PMIs Thu
+- Earnings before open: None Tier-1. Tue read: HD revenue beat, EPS miss, guide held = housing soft. TOL/KEYS Tue. Wed BMO cluster: ~39 names, no mega-cap
+- Economic calendar: **No Tier-1 macro today.** Housing starts/permits delayed to Thu 5/21. Thu: flash S&P May PMIs, jobless claims, retail (WMT/TGT/LOW). Fri: UMich sentiment final
+- Yields: 10Y ~4.67% (briefly 4.687% Tue), 30Y briefly topped 5.19%, 2Y >4.0%; global yield breakout still in force (JGB 10Y highest since '97). Duration crush risk live → growth multiples vulnerable
+- Sector momentum (YTD, mid-May 2026): **XLE +24-26% #1**, XLK +16.7%, XLB +12.9%, XLI +12.8%, XLC +12.3%, XLRE +11.3%, XLP +10.5%. Leading: XLE/XLK/XLB/XLI/XLP. Lagging: XLY/XLC/XLF. Tape leadership rotating: XLE bid on Hormuz, XLK leadership exposed via Mon's memory-chip rout (Seagate -7%)
+- XLB held: $49.04 fresh position low (-3.62% on cost) — trail $47.49 = $1.55 below current; manual -7% trigger ($47.32) basically same. No discretionary action; GTC IS the plan
+- Iran/Hormuz: US "interim sanctions waiver" rumor + Tehran response pending = oil two-sided; ceasefire "on life support" still the official frame. UAE Barakah strike from Sun digested; talks stalled per Pakistan mediation
+
+### Trade Ideas
+1. **XLB hold** — NO add, NO trim. -3.62% unrealized; trail $47.49 sits $1.55 below current ($49.04); manual cut $47.32 overlap. GTC handles exit on a single bad print. Materials YTD +12.9% still right-side but momentum decay continues (5 weeks). No discretion; let the order work
+2. **NVDA / SMH (Semis)** — XLK #2 YTD but **NVDA reports AMC today** = explicit binary in the next 9 hours. Pre-positioning into a known print = worst R:R; Polymarket 90% beat already in the tape. Skip; stalk post-print Thu open reaction
+3. **XLE (Energy ETF)** — RRG #1, +24-26% YTD, but Iran sanctions-waiver rumor capping oil + Tehran response pending = oil two-sided. Chasing a session into headline risk = no edge. Watchlist for clean WTI $105 reclaim or post-Iran-response resolution
+4. **XLI (Industrials)** — +12.8% YTD, still Leading but correlated with XLB cyclical book; avoid cyclical stacking. Skip
+5. **XLP (Defensive)** — Leading quadrant, +10.5% YTD; could catch a bid if NVDA disappoints or FOMC mins read hawkish + growth scare deepens. Stalk Thu post-NVDA reaction; no Wed entry into the binary
+
+### Risk Factors
+- **NVDA AMC today** — single-day NVDA move swings SPX/NDX given index weight; gap risk both ways Thu open; Polymarket 90% beat = high bar to clear, "sell the news" risk even on beat
+- **FOMC April minutes today** — first Warsh-era set; hawkish-read post-hot-PPI + yield breakout = rate-cut path delayed further, cyclicals (incl XLB) vulnerable
+- **Yield breakout (10Y 4.67%, 30Y briefly 5.19%, curve > 4/4.5/5)** — duration crush risk; multiple compression for high-PE growth + REITs; XLB housing-construction linkage (LIN/cement/copper) exposed to housing weakness combo
+- **Iran sanctions-waiver rumor** — could violently reverse oil ($111 → sub-$100) → XLE air-pocket + cyclical/materials premium evaporation
+- **XLB on trail edge** — $49.04 vs $47.49 trail / $47.32 manual cut overlap. One adverse Wed session = exit on either rule. Order IS the plan
+- **3-day SPX losing streak into binary** — bull-market technical erosion into Q2's biggest binary night; gap risk both directions Thu
+- **Memory-chip crack underneath AI veneer** — Seagate -7% Mon flags semi cycle weakness; if NVDA disappoints AI capex narrative breaks, XLK rotation reverses
+- **Trade slot pressure** — 0/3 used (mid-week); preserve all 3 slots for post-NVDA / post-FOMC-mins setups Thu/Fri — do NOT force a pre-binary entry
+
+### Decision
+**HOLD — no new entries.** Day 18, 1 position (XLB -3.62%, on the trail edge), ~85.7% cash. Twin Q2-defining binary tonight (NVDA AMC + FOMC mins) + live yield breakout + Iran oil two-sided + 3-day SPX losing streak = zero edge for a Wed entry. XLB at trail/manual-cut overlap ($1.55 above $47.49 trail) — the GTC IS the plan; no manual action. Sector rotation muddied: XLE oil-headline-bound, XLK exposed via NVDA print + memory-chip crack. **Watchlist priorities:** SMH/NVDA post-print reaction Thu open, XLE on clean WTI $105 reclaim, XLP if growth scare deepens, XLI only if XLB exits (avoid cyclical stacking). Preserve all 3 weekly trade slots for Thu/Fri post-binary setups. **Patience > activity.**
