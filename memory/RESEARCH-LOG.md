@@ -542,3 +542,47 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD — no new entries.** Day 18, 1 position (XLB -3.62%, on the trail edge), ~85.7% cash. Twin Q2-defining binary tonight (NVDA AMC + FOMC mins) + live yield breakout + Iran oil two-sided + 3-day SPX losing streak = zero edge for a Wed entry. XLB at trail/manual-cut overlap ($1.55 above $47.49 trail) — the GTC IS the plan; no manual action. Sector rotation muddied: XLE oil-headline-bound, XLK exposed via NVDA print + memory-chip crack. **Watchlist priorities:** SMH/NVDA post-print reaction Thu open, XLE on clean WTI $105 reclaim, XLP if growth scare deepens, XLI only if XLB exits (avoid cyclical stacking). Preserve all 3 weekly trade slots for Thu/Fri post-binary setups. **Patience > activity.**
+
+## 2026-05-21 — Pre-market Research
+*(Perplexity API returned 401 invalid_api_key — fell back to native WebSearch)*
+
+### Account
+- Equity: $9,959.98
+- Cash: $8,524.48 (85.59%)
+- Buying power: $18,484.46
+- Daytrade count: 0
+- Positions: 1 (XLB 29 sh @ $50.88, current $49.50, -2.71% unrealized / -$40.02, trail $47.49 GTC, hwm $52.77)
+- Open orders: 1 trailing stop | Trades this week: 0/3
+
+### Market Context
+- WTI / Brent: WTI ~$100, Brent steadied above $105 — **Trump: "nearing final phase" of Iran negotiations** → bearish supply-premium reprice; 3 supertankers passed Hormuz per satellite (first since March). Oil tape now tilted bearish but tight physical lag
+- S&P 500 futures: **Green pre-mkt on NVDA blowout** — NDX leading; Gates Industrial +15.8% (Timken belts deal), INTU -14% (17% headcount cut). Snaps 3-day SPX losing streak in pre-mkt
+- VIX: 17.44 close 5/20 (-3.43%) — still contained pre-event, no spike post-NVDA/FOMC mins
+- Today's catalysts: **NVDA digestion (Q1 FY27 crushed: rev $81.6B vs $79.2B est, +85% YoY; DC $75.2B +92% YoY; EPS $1.87 vs $1.76 est; Q2 guide $91B (massive); $80B add'l buyback; div 1¢ → 25¢)**, **NVDA itself -1.5% AH (sell-the-news)** but futures green. **WMT BMO** ($174.6B rev / $0.66 EPS exp; options ±2.7%). **Flash S&P May PMIs**, jobless claims, housing starts (delayed from earlier)
+- Earnings before open: **WMT** (most important — consumer health read), KSS, BJ, others. TGT (Tue post-print +6% comp beat, raised guide) gives soft tailwind for retail
+- Economic calendar: **Flash US PMIs (mfg + svcs, May) ~9:45 ET** — first read on conflict-era growth; **jobless claims**; **housing starts + building permits**. Fri: UMich sentiment final
+- Yields: **10Y ~4.67% (16-mo high), 30Y briefly 5.2% (18-yr high), 2Y >4.0%** — yield breakout in full force; **CME 63% prob of Fed HIKE by end-2026** (was leaning cut weeks ago). Duration crush + multiple compression risk persistent
+- Sector momentum (mid-May 2026): **XLE +24-26% YTD #1**, XLK +16.7%, XLB +12.9%, XLI +12.8%, XLP +10.5%. NVDA print reinforces XLK/SMH near-term but XLB momentum decay continues (5 weeks); XLE thesis cracking on Iran deal headline
+- XLB held: $49.50 (-2.71% on cost); trail $47.49 GTC sits $2.01 below current; manual -7% trigger $47.32 ≈ overlap. No discretionary action; order IS the plan
+- **FOMC April mins (released 5/20): HAWKISH PIVOT** — "majority of officials" signaled some policy tightening would be appropriate if inflation persists >2%; 3 regional Fed presidents (Hammack/Kashkari/Logan) dissented against easing-bias language. First Warsh-era mins skew restrictive
+
+### Trade Ideas
+1. **XLB hold** — NO add, NO trim. -2.71% unrealized; trail $47.49 / manual cut $47.32 overlap. Hawkish FOMC mins + 10Y at 16-mo high = direct headwind for cyclicals/Materials (housing-construction linkage via LIN/cement/copper). Let the GTC handle exit. Materials YTD #3 but losing relative momentum 5 weeks running — no discretion to add
+2. **SMH / NVDA post-print** — NVDA crushed top + bottom + guide + $80B buyback + 25x div hike. BUT NVDA itself -1.5% AH (sell-the-news) → chasing the day-after-gap into a multi-data day (PMIs + claims + WMT) = bad R:R. Stalk SMH for a pullback / consolidation; no day-of-gap entry. **Wait for the dust to settle Mon**
+3. **XLE (Energy)** — Trump "near final phase" Iran negotiations + supertankers through Hormuz = supply-premium reprice DOWN; XLE rally exposed. Avoid; would only enter on a confirmed Iran-deal-fade rally back through WTI $105+
+4. **XLP (Defensive)** — Hawkish Fed + yield breakout + growth scare risk = defensives could bid; XLP Leading quadrant, +10.5% YTD. But not yet showing relative-strength breakout vs SPX; stalk
+5. **WMT** — BMO print today, single-name binary, skip; ETF discipline preferred. Watch tape for consumer health read into XLP/XLY
+
+### Risk Factors
+- **Day-after-NVDA gap risk** — futures green but NVDA itself slipped AH; sell-the-news momentum could pivot tape mid-session; chasing NDX strength = front-running a fade
+- **Hawkish FOMC mins NEW** — CME 63% odds Fed HIKES by end-2026; flips year-end positioning; cyclicals/Materials direct headwind via housing + financing-cost channels
+- **Yield breakout intact** — 10Y 4.67% (16-mo high), 30Y 5.2% (18-yr high); duration crush + multiple compression risk persists despite NVDA pop
+- **Flash PMIs today** — first read on conflict-era growth; soft print = stagflation scare (hot inflation + slowing growth) — worst-case combo for cyclicals (XLB direct beta)
+- **WMT BMO + Walmart guide** — broad consumer health read; weak guide = retail/cyclical cascade
+- **Iran deal "near final"** — Trump headline; if announced = oil collapse → XLE air-pocket; if walked back = oil whip back up. Both outcomes binary
+- **XLB on trail edge** — $49.50 vs $47.49 trail / $47.32 manual cut overlap; one bad session triggers exit either way
+- **Housing starts/permits today** — TGT/HD/LOW pre-prints + yield breakout already flag housing softness; bad print compounds Materials weakness
+- **Trade slot pressure** — 0/3 used (Thu); only Fri left after today; preserve slots for cleanest setups, do NOT force entry to "use the week"
+
+### Decision
+**HOLD — no new entries.** Day 19, 1 position (XLB -2.71%, on the trail edge), ~85.6% cash. NVDA crushed earnings but slipped AH (sell-the-news), and the FOMC mins delivered a HAWKISH pivot (CME 63% prob hike by year-end) that hits cyclicals + Materials directly via the yield-breakout channel. Stacked data today: WMT BMO + flash PMIs + jobless claims + housing starts — too many same-session binaries for a clean entry; chasing NDX strength into the print barrage = bad R:R. XLB at trail/manual-cut overlap — GTC handles it. Iran deal "near final" (Trump quote) makes XLE chase dangerous; semi setup needs a post-NVDA-fade base. **Watchlist priorities:** SMH on pullback/consolidation post-NVDA digestion (Fri or Mon), XLP if hawkish-Fed + PMI miss combo bids defensives, XLE only on confirmed Iran-deal-fade. Preserve all 3 weekly trade slots — Friday is the only remaining session, do not force. **Patience > activity.**
