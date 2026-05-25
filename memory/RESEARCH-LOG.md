@@ -630,3 +630,51 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD — no new entries.** Day 20, 1 position (XLB -1.69%, reclaiming $50 for 2 consecutive sessions, on the trail edge), ~85.5% cash. Last session of the week + **pre-Memorial-Day Friday** (3-day weekend, thin tape, summer-regime kickoff) + Iran de-escalation base-cased + hawkish FOMC mins yield-breakout intact + UMich Final binary at 10:00 ET = zero edge for a Friday entry. XLB at trail/manual-cut overlap with the GTC handling exit; do not add into illiquidity. **Watchlist priorities (next week):** SMH/NVDA post-print/post-holiday base for Tue 5/26 setup; XLP if UMich downward revision feeds defensives; XLE only on Iran-deal-fade WTI $100+ reclaim; XLI only if XLB exits (no cyclical stacking). **Prep weekly review.** **Patience > activity.**
+
+## 2026-05-25 — Pre-market Research (Memorial Day — US markets CLOSED; prep for Tue 5/26 open)
+*(Perplexity API returned 401 invalid_api_key — fell back to native WebSearch)*
+
+### Account
+- Equity: $9,982.89
+- Cash: $8,524.48 (85.39%)
+- Buying power: $18,507.37
+- Daytrade count: 0
+- Positions: 1 (XLB 29 sh @ $50.88, current $50.29, -1.16% unrealized / -$17.11, trail $47.49 GTC, hwm $52.77)
+- Open orders: 1 trailing stop | Trades this week: 0/3 (new week)
+
+### Market Context
+- **US equity markets CLOSED — Memorial Day.** Globex futures trade overnight; cash session resumes Tue 5/26 at 9:30 ET
+- **MAJOR WEEKEND HEADLINE — Trump: US-Iran deal "largely negotiated"** (Sat 5/23): 60-day ceasefire extension, Strait of Hormuz reopens, no tolls, US lifts blockade of Iranian ports, 2-mo nuclear-program negotiations. **HOWEVER:** Iranian Fars + Iran FM contradicted Trump same day → Strait remains "under Iran's management"; Tehran engaging Oman. **Headline tail still live**; "largely" ≠ "signed"
+- WTI / Brent: Fri close ~$96 / ~$103 — already bled lower on de-escalation through Thu/Fri. **Tue gap-down risk on oil if deal announcement firms; gap-up risk if Iran FM contradiction widens overnight.** XLE air-pocket setup either way
+- S&P 500 Friday: **Dow +294 to fresh record high**; SPX/NDX strong on NVDA blowout + Iran de-escalation. Tue should gap UP on weekend deal tape (futures trade Mon eve)
+- VIX: **16.70 Fri close** — multi-week low; pre-event compression giving way to post-event compression. Vol regime supportive but coiling
+- Tue 5/26 catalysts: **Conference Board Consumer Confidence 10:00 ET** (post-conflict-era read on the consumer), Philly Fed Non-Mfg 8:30 ET, Dallas Fed Mfg 10:30 ET. Earnings BMO/AMC: **AZO BMO, ZS AMC**
+- Week ahead (5/26-29) heavy: Wed home sales + DKS/MRVL/CRM/SNPS/SNOW AMC. **Thu = PCE + Q1 GDP 2nd est + DELL/COST/DLTR/MDB/BBY/ADSK/GAP.** Fri month-end / Memorial-Day-week light
+- Yields: 10Y ~4.50%+, 30Y > 5.0%, 2Y > 4.0% — yield breakout intact post hawkish FOMC mins; CME odds of HIKE by EOY 2026 remained ~63%. Iran-deal risk-on could pressure long end higher (less safe-haven bid)
+- **Fed chair Warsh sworn in today** (Mon 5/25) — first Warsh-era full week starts Tue; markets watching for any inaugural tone
+- Sector momentum (mid-May 2026): **XLB Materials top leader YTD (+22%), dominant breakout from long-term consolidation**. Energy bid (Iran-deal headline NEUTRAL-bearish near-term but multi-year supply discipline thesis intact). Tech cooling post-NVDA digestion. Defense (LMT) + Industrials (CAT) firm on multi-year reshoring/budget. XLY/REITs/Utilities laggards
+- XLB held: $50.29 (-1.16% on cost); **3 consecutive up days** (Wed $49.69 → Thu $50.02 → Fri $50.29); trail $47.49 sits $2.80 below current; manual -7% cut $47.32 ($2.97 of room) — most breathing room in a week
+- Iran-deal cross-asset: risk-on tape (equities + EM + cyclicals UP), oil/XLE DOWN, USD mixed, gold DOWN, long-end yields HIGHER (less haven bid). XLB Materials = mixed (lower input/energy costs = MARGIN positive, but cyclical risk-on tailwind generally bullish)
+
+### Trade Ideas
+1. **XLB hold** — NO add, NO trim. 3 consecutive up days reclaiming $50 handle; trail $47.49 / manual cut $47.32 with $2.80+ of room. Iran de-escalation = neutral-to-positive for Materials margins (lower energy/oil input) but pre-resolution headline two-way risk (Iran FM contradiction) caps the bull thesis. Let the GTC handle exit; **do NOT chase a Tue gap-up to average up** — entry discipline > FOMO. Materials YTD #1-3 still right-side
+2. **SMH / NVDA post-print + post-holiday base** — NVDA crushed Q1 (rev $81.6B, DC $75.2B, Q2 guide $91B, $80B buyback) but -1.5% AH (sell-the-news); Fri digestion green. **Tue could gap up on Iran-deal + NVDA momentum carry → resistance test of NVDA's post-print high.** Watch for a Tue base/consolidation rather than chase the open gap; **stalk for Wed-Thu pullback entry** with PCE/GDP as the binary check. **No Tue gap-chase**
+3. **XLE (Energy)** — **Iran-deal CONFIRMATION = bearish XLE air-pocket; CONTRADICTION widens = squeeze higher.** Headline-driven, no edge into the announcement window. Skip; only consider after the announcement is signed/walked-back and WTI prints a clear post-resolution range
+4. **XLI (Industrials)** — +12.8% YTD Leading; reshoring + CAT/orders firm. **Correlated with XLB cyclical book — cyclical stacking risk if I add while still holding XLB.** Skip unless XLB exits (GTC trip); otherwise pass
+5. **XLP (Defensive)** — Consumer Confidence Tue 10:00 ET binary; if hawkish-Fed + slowing consumer = stagflation tilt, XLP bids. No clean RS breakout yet — stalk only; no pre-print entry
+6. **COST (Thu BMO)** — Defensive consumer staple, secular grower, PCE-day print = volatile binary; single-name into PCE = textbook no-trade; skip
+7. **CRM / SNOW / DELL** — Wed/Thu AMC cluster; single-name binaries into post-NVDA AI-capex digestion + PCE; skip; ETF discipline
+
+### Risk Factors
+- **Iran-deal headline tail** — Trump "largely negotiated" but Iran FM publicly contradicted; deal NOT signed; weekend tape priced ~70-80% deal completion. Walk-back = risk-off whip + oil spike + XLE squeeze; full signing = oil air-pocket + XLE crash, equity risk-on continuation
+- **Tue gap-open risk both ways** — Memorial-Day weekend Iran headlines + futures trade Mon-Tue overnight → **biggest single overnight gap risk of the month**; chasing the Tue open print = front-running a fade or a reversal
+- **PCE Thu 5/28** — Fed's preferred inflation gauge; first read of post-conflict-era inflation; hot = hawkish-Fed reinforcement + yield breakout continuation + cyclical headwind; cool = risk-on continuation
+- **Q1 GDP 2nd estimate Thu** — combined with PCE = double-binary same session; biggest macro day of the week
+- **Tech AMC binaries Wed/Thu** — CRM/SNOW/MRVL/DELL = AI-capex read-through; any miss/guide-down reignites Mon 5/19 memory-chip rout fear (Seagate -7%)
+- **Warsh tone risk** — new Fed chair sworn in Mon; first public utterance = market move; hawkish opening salvo = yield-breakout extension + multi-day cyclical/Materials headwind
+- **Yield breakout intact** — 10Y 4.50%+, 30Y > 5.0%; Iran de-escalation REMOVES safe-haven bid from long end → yields could rise further; duration crush + multiple-compression risk persists
+- **XLB trail edge** — $50.29 vs $47.49 trail / $47.32 manual; 3 up days but still red on cost; one bad Tue gap-down = exit either way
+- **Trade slot pressure** — 0/3 used (new week, fresh slots); 4-session week (Mon closed); **preserve all 3 slots for post-PCE/GDP Thu/Fri setups** — do NOT force a Tue gap-chase
+
+### Decision
+**HOLD — no new entries.** Day 21 (Mon closed = no session), 1 position (XLB -1.16%, 3 consecutive up days reclaiming $50, $2.80 above trail), ~85.4% cash. **Tue 5/26 = single biggest overnight gap session in weeks** (Iran-deal weekend headlines + Memorial-Day-weekend futures-only repricing + Iran FM contradiction tail = chop risk both directions). Stacked Wed-Thu binaries (CRM/SNOW/MRVL/DELL AMC + PCE + GDP) + new Fed chair Warsh inaugural week + yield breakout intact = no edge for a Tue gap-chase entry. XLB at trail/manual overlap with $2.80 of room and GTC handling exit; no discretion to add into a potentially fade-prone risk-on open. **Watchlist priorities:** XLB hold of $50 / break of $51 on Tue open; SMH base/consolidation post-NVDA digestion for Wed-Thu pullback; XLP only on hot Consumer Confidence + hawkish-Warsh combo; XLE only after Iran-deal signed/walked decisively (no headline chase); XLI only if XLB exits (no cyclical stacking). **Preserve all 3 weekly slots for post-PCE/GDP cleaner setups Thu/Fri.** **Patience > activity.**
