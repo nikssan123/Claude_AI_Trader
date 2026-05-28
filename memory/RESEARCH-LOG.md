@@ -768,3 +768,49 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD — no new entries.** Day 23, 1 position (XLB +0.16% — second green print in 9 sessions), ~85.2% cash. Mid-week into a stacked binary backdrop: **AMC AI-capex triple (CRM/MRVL/SNOW) tonight + PCE/GDP double-binary Thu + Warsh inaugural-week tone risk + Iran whiplash live + MU parabola** — there is zero edge for a Wednesday entry. XLB has $3.47+ of room above trail with GTC handling exit; **do NOT add to a position that just turned green on cost**. **Watchlist priorities (Thu/Fri):** XLB break + hold of $52.77 hwm (would unlock partial-add consideration); SMH/MU post-print Thu-Fri pullback if AMC AI-capex cluster prints clean (NOT a chase of MU $1T parabola); XLP on a hot-PCE Thu print bidding defensives; XLE only after Iran-deal signed/walked decisively; XLI only if XLB exits (no cyclical stacking). **Preserve all 3 weekly slots for post-PCE/GDP setups Thu PM / Fri.** **Patience > activity.**
+
+## 2026-05-28 — Pre-market Research (Thu — PCE + Q1 GDP 2nd est double-binary; biggest macro day of week)
+*(Perplexity API returned 401 invalid_api_key — fell back to native WebSearch)*
+
+### Account
+- Equity: $10,008.70 (+$5.51 overnight equity drift; fresh phase high)
+- Cash: $8,524.48 (85.17%)
+- Buying power: $18,533.18
+- Daytrade count: 0
+- Positions: 1 (XLB 29 sh @ $50.88, current $51.18, **+0.59% unrealized / +$8.70**; trail $47.49 GTC, hwm $52.77)
+- Open orders: 1 trailing stop | Trades this week: 0/3 (4-session week, 2 remaining)
+
+### Market Context
+- WTI / Brent: **WTI day range $87.80-$93.68; Brent +2.13% to $96.30** — oil REBOUNDED overnight on **fresh US "self-defense" strikes on Iranian military site** (Reuters/US official); ceasefire formally still in effect but de-escalation trade is unwinding. Two-way Iran headline tail re-widened
+- S&P 500 futures: **ES ~7,538.50 (-0.2% premarket)**; **Polymarket 55% red-open / 45% green** prob — sentiment flipped vs Tue's 91% green (now hedged into PCE binary). SPX printed fresh ATH Tue/Wed on Micron-led semis
+- VIX: **~17.26** — slight tick up from Wed's 16.59 close as PCE/GDP/Iran tape converges; still contained but un-coiling
+- **TODAY'S TIER-1 PRINTS (8:30 ET):** April **PCE inflation** + **Q1 GDP 2nd estimate** + weekly jobless claims same release window. **PCE consensus: headline +0.5% MoM / +3.8% YoY; core +0.3% MoM / +3.3% YoY** vs March 3.5% / 3.2% — **a hot print here re-arms the hawkish-Fed thesis and crushes duration/cyclicals**. Q1 GDP 2nd est = secondary; pending home sales 10:00 ET as Tier-3
+- AMC last night: **MRVL beat ($0.80 vs $0.75 cons), Q2 rev $2.7B / +35% YoY guide-raise, +3% AH; SNOW blew out, +37.5% AH to $241** on Q1 rev $1.39B + EPS $0.39 beat + raise — **major Thu open gap-up risk for SNOW + read-through to CRWD / data-AI names**; CRM result unconfirmed in scan
+- Earnings BMO/today: **COST AMC** (cons ~$69.3B rev / $4.56 EPS — consumer staples Tier-1 read), **DELL AMC** (AI-server backlog + forward guide is THE catalyst, not the print), **ADSK / BBY / DLTR / MDB / GAP / HPE** scattered
+- Yields: 10Y ~4.50%+, 30Y > 5.0%, 2Y > 4.0% — yield breakout intact post hawkish FOMC mins + Warsh "reform-oriented Fed" tone. **Hot PCE = yield breakout extension → cyclical/Materials direct margin/multiple compression**
+- Sector momentum: **XLB Materials still top YTD leader (+22%, dominant breakout)**; XLP/XLI/XLE all Leading on RRG; **rotation OUT of Tech megacaps INTO defensives/cyclicals** — leadership shift away from 2025 tech giants; semis stretched after MU $1T parabola + post-SNOW/MRVL AH spike (chase risk peak)
+- XLB held: $51.18 (+0.59% on cost) — **third straight green print** (Tue $50.99 → Wed $51.17 → Thu pre-mkt $51.18); trail $47.49 sits **$3.69 below** current; manual -7% cut $47.32 ($3.86 of room) — most breathing room of position life
+
+### Trade Ideas
+1. **XLB hold** — NO add, NO trim. Third consecutive green print on cost; trail $47.49 / manual cut $47.32 with $3.69+ of room. Materials YTD #1 dominant leader and direct beneficiary of "sticky inflation hedge" rotation. **Hot PCE = direct margin/multiple-compression risk for cyclicals despite the inflation-hedge narrative; cool PCE = risk-on continuation but XLB likely participates** — asymmetric DOWN into the 8:30 ET print. Let GTC handle exit; watchlist break + hold of **$52.77 hwm** to consider a partial add (NOT today, NOT pre-print)
+2. **SNOW gap-up Thu open** — AH +37.5% to $241 on blowout Q1 + raise = **textbook overnight parabola; chasing the Thu cash open print = front-running a fade**. Stalk for a clean **post-PCE consolidation Fri/next week** as the actual entry — current setup is FOMO-grade. Skip
+3. **MRVL gap-up Thu open** — +3% AH on beat + guide-raise; cleaner setup than SNOW but **post-MU-$1T-parabola semi tape is late-stage**; combined with **PCE binary same session** = no edge today. Stalk for Fri post-PCE pullback if cool print
+4. **SMH (semis ETF)** — Cleanest way to ride post-MRVL/SNOW continuation without single-name binary, BUT **stretched after MU $1T print** + PCE binary head-fake risk. Skip pre-print; watchlist Fri post-PCE
+5. **XLE (Energy)** — Brent +2.13%, WTI bouncing on **fresh US Iran strikes overnight** — geopolitical re-escalation reignites supply premium. YTD Leader. **Chasing into a +2% Brent gap-up the morning of PCE = entry-discipline violation**; skip today. Stalk only after the 8:30 ET print + a clear Iran headline range
+6. **XLI / XLP (Industrials / Staples)** — Both Leading on RRG, both cyclical-stacking risk with XLB on book (XLI esp.); **XLP could bid on a hot-PCE stagflation tilt** but no clean RS breakout vs SPX yet. Skip pre-print; stalk XLP on a hot core-PCE > 3.3% print
+7. **COST / DELL / ADSK / BBY (today's earnings)** — Single-name AMC binaries layered on top of PCE morning binary; **double-binary same session = textbook ETF-discipline no-trade**. Skip
+
+### Risk Factors
+- **PCE 8:30 ET — biggest macro print of the week** — Fed-preferred inflation gauge, FIRST post-Iran-conflict-era read. Hot (>+0.5% headline / >+0.3% core) = yield-breakout extension + cyclical/Materials direct headwind + hawkish-Warsh reinforcement; cool (<+0.3% headline / <+0.2% core) = risk-on continuation + duration relief
+- **Q1 GDP 2nd est same 8:30 release** — combined double-binary same window; stagflation tilt risk if GDP revised DOWN while PCE prints HOT (worst-case for cyclicals)
+- **Iran re-escalation overnight** — US strikes on Iranian military site reverse the de-escalation thesis; oil bid + risk-off whip pre-mkt; deal still officially "ceasefire" but two-way headline tail re-widened. **XLE squeezing higher into PCE = chase trap**
+- **SNOW +37.5% AH parabola** — overnight blowout chase tape; chasing the Thu cash open = front-running a textbook gap fade by lunch; AH spikes of this magnitude routinely give back 30-50% on the official open print
+- **MU $1T parabola hangover** — Tue's +18% spike to $1T cap on UBS PT $1,625 = late-stage semi mania; SMH/NVDA stretched into PCE binary
+- **COST / DELL AMC tonight** — Tier-1 staples + AI-capex AMC binaries on PCE day; any miss/guide-down feeds risk-off close → Fri gap-down risk
+- **Warsh inaugural-week tone risk** — first Fed chair Warsh PCE-day statement (if any) = market mover; "reform-oriented" tilt could be hawkish-positioned for the print
+- **Yield breakout intact** — 10Y 4.50%+, 30Y > 5.0%; hot PCE extends breakout → multiple compression for XLB/cyclicals despite YTD leadership
+- **XLB +0.59% green-and-extending** — psychologically tempting to "size up" the leader; **discipline**: 1 position, 20% cap intact, PCE is binary
+- **Trade slot pressure** — 0/3 used (4-session week), **2 sessions remaining (Thu + Fri)** — preserve all 3 slots for **post-PCE Fri setups** (cleaner read, weekend gap risk capped, month-end positioning)
+
+### Decision
+**HOLD — no new entries.** Day 24, 1 position (XLB **+0.59% unrealized / +$8.70 — third consecutive green print, fresh on-cost high in 11 sessions**), ~85.2% cash, equity $10,008.70 (fresh phase high). **PCE + Q1 GDP 2nd est 8:30 ET = single biggest macro print of the week**; **SNOW +37.5% AH parabola** + **MRVL +3% AH** = overnight chase tape; **fresh US Iran strikes** = re-escalation premium re-armed in oil; **COST/DELL AMC** = layered binaries. Zero edge for a Thu pre-PCE entry — every potential trade idea (XLE / SMH / SNOW chase / XLB add) is a PCE-binary or post-AH-parabola FOMO setup. XLB has $3.69+ of room above trail with GTC handling exit; **do NOT add into a binary**. **Watchlist priorities (Fri):** XLB break + hold of **$52.77 hwm** post-PCE (would unlock partial-add consideration); SNOW/MRVL post-parabola consolidation Fri-Mon (NOT a Thu open chase); SMH on a post-PCE cool-print breakout; XLE only on a confirmed Iran re-escalation oil range, not a same-day chase; XLP only on a hot-PCE stagflation tilt with clean RS breakout vs SPX; XLI only if XLB exits (no cyclical stacking). **Preserve all 3 weekly slots for post-PCE Fri setups.** **Patience > activity.**
