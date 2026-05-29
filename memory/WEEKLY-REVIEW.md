@@ -205,3 +205,62 @@ Rules followed flawlessly, capital preserved within tolerance, no blowups. But t
 
 ### Overall Grade: D+
 Capital preserved (-0.01% week, flat) and survived a real Tue flush in XLB; trailing-stop discipline grade A. But the participation grade is now F — third consecutive zero-trade week, fourth consecutive ~85% cash week, third consecutive negative tracking error vs S&P. Cumulative 3-week deficit is ~3-4% behind benchmark with the bot's only position underwater since week 2. Discipline is being weaponized against itself: the rules that prevented blowups are now preventing participation. "Patience > activity" only works when active patience eventually transitions to action; mine has not. **Forced-action protocol next week.**
+
+## Week ending 2026-05-29
+
+### Stats
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $9,982.60 (Fri 5/22 close; Mon 5/25 Memorial Day closed) |
+| Ending portfolio | $10,008.12 |
+| Week return | +$25.52 (+0.26%) |
+| S&P 500 week | ~+1.50% (SPX 7,473.47 → ~7,585; **9th straight up week**) |
+| Bot vs S&P | ~-1.24% |
+| Trades | 0 new (W:0 / L:0 / open:1 XLB carry-over) |
+| Win rate | n/a (no closed trades) |
+| Best trade | XLB +0.94% (Thu $51.36 — best on-cost mark in 12 sessions) |
+| Worst trade | XLB +0.22% (Tue $50.99 — lowest green print this week) |
+| Profit factor | n/a |
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+| — | — | — | — | None this week |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+| XLB | $50.88 | $51.16 | +$8.12 (+0.55%) | $47.49 (10% trail, hwm $52.77) |
+
+### What Worked
+- XLB flipped green on cost Tue 5/26 for the first time since 5/14; held green all four sessions (Tue $50.99 / Wed $51.17 / Thu $51.36 / Fri $51.16) — the discipline of not panic-cutting through the 5/19 flush ($49.01 low) paid off.
+- Avoided every same-week binary trap: Tue post-Memorial-Day 91%-prob gap-up (chase-trap by definition), Wed AMC AI-capex triple (CRM/MRVL/SNOW), Thu PCE + Q1 GDP double-binary, Thu AMC Dell +32% AH parabola, Fri month-end + pre-weekend Iran-deal tape — zero blowup exposure.
+- Refused SNOW Thu open chase (+37.5% AH spike); refused Dell Fri open chase (+32% AH on $24.4B AI orders); both are textbook gap-and-fade R:R into post-PCE month-end.
+- Refused XLE knife-catch on Brent's biggest monthly drop since 2020 (-12.56% MTD) — Iran-deal "tentative" not "signed" = two-way headline tail still live, no edge.
+- 3/3 trade slots preserved entering June post-holiday week with cleaner setups (XLB hwm reclaim, DELL/SMH post-parabola consolidation Mon-Tue).
+
+### What Didn't Work
+- **FIFTH consecutive zero-new-entry week** — pre-flagged "forced-action protocol" from last week's review was NOT executed; "preserve slots for cleaner setups" continues to be the default answer every single session regardless of tape.
+- **FIFTH consecutive ~85% cash week** — deployment floor (rule 2: 75-85%) violated for the entire challenge to date; cumulative tracking error vs S&P now ~5-6% over 5 weeks.
+- Lagged S&P ~1.24% in a +1.5% week — 4th consecutive negative tracking error in a melt-up tape; the S&P printed its **9th straight up week** (longest streak since 2023) and the bot participated with one 14% sleeve.
+- XLB +0.94% peak Thu was the entire week's "best trade" — that's not a trade, that's a holdover position drifting; nothing was actively earned this week.
+- Pre-flagged Tue 5/26 as "forced action by Tue close OR explicit per-ticker disqualification" — neither happened; the rule change was punted to "next week" once again, exactly the inertia pattern the rule was designed to break.
+- Perplexity 401 persists for the 25th session running — no autonomous research path; WebSearch fallback is procedural now, but the structural blocker has not been escalated/resolved.
+
+### Key Lessons
+- The "preserve slots" doctrine has now compounded into a multi-week structural failure that cost ~5-6% of relative performance — and the proposed solution (last week's "forced-action protocol") was itself deferred, proving the inertia is at the rule-change level, not just the trade-decision level.
+- The asymmetry is now fully diagnosed: **the bot will hold a losing position to the GTC trail (8 red sessions on XLB)** but **will not initiate a new position even with 3/3 slots dry and a Leading-quadrant universe present**. Risk-management instincts are mature on the exit side and absent on the entry side.
+- A 9-week SPX streak is a structural tape, not noise; "wait for a clean pullback setup" in a no-pullback tape is equivalent to "never enter" — the rule needs an explicit "or" clause for trend-tape participation.
+- Surviving the 5/19 flush ($49.01 XLB low, $1.69 above trail) validates the exit-side rules; the 4-day green recovery (Tue-Fri) validates "patience on losers." Neither validates the lack of new entries.
+- Defensive grade A is not a substitute for participation; in a melt-up tape, defense without offense is just slow underperformance.
+
+### Adjustments for Next Week
+- **Forced-action protocol — NOW BINDING (also being codified in TRADING-STRATEGY.md this review):** if Mon 6/01 close is still at <75% deployed AND 0/3 weekly slots used, Tue 6/02 open is a mandatory deployment session on the single highest-conviction Leading-quadrant uncorrelated ETF (priority: SMH on Dell-parabola fade, XLP on hawkish-Warsh setup, XLI only if XLB has exited). No "preserve slots" rationale is acceptable as standalone reason; each rejection requires a one-line named disqualifying risk per ticker, logged in the day's research entry.
+- Target deployment 50%+ by Wed close, 75% by Friday — same target as last week, this time enforced by the new rule.
+- XLB action plan: if it breaks + holds $52.77 hwm Mon/Tue, consider a partial add (NOT a full-second-sleeve — partial only, max 5%, to test the breakout commitment). If it loses $50 again AND RRG Materials Velocity prints red, manually trim half at market (operational rule from last week's review carries forward).
+- SMH/Dell post-parabola Mon-Tue: stalk for a consolidation range; entry on opening-range hold above day-1 base, stop -7%, target +10%, only if SMH itself (not the single name) is the entry vehicle.
+- Perplexity API: 5 weeks of 401 is a structural blocker, not a transient issue — escalate to NOTIFICATIONS.md as a permanent research-tooling status item; formally adopt WebSearch as primary research path going forward.
+
+### Strategy Rule Change
+- **TRADING-STRATEGY.md updated this review** — added Rule 12 (Forced-Action Protocol). 5 weeks of proven underdeployment (~85% cash every week, 1 entry total, 4 weeks negative tracking error) meets the pre-flagged 2+-week-proven threshold. Full text in TRADING-STRATEGY.md. Triggers: 2+ consecutive Fridays closing <75% deployed → following Monday is a mandatory-action session requiring either deployment OR explicit per-ticker disqualification logged in the research entry.
+
+### Overall Grade: D
+Capital preserved (+0.26% week, fresh phase high), XLB finally green on cost, trailing-stop discipline grade A, every Tier-1 binary avoided. But the **fifth consecutive zero-new-entry week**, **fifth consecutive ~85% cash week**, **fourth consecutive negative tracking error vs S&P** (~-1.24% in a +1.5% SPX week, now cumulatively ~5-6% behind benchmark), and most damningly: **the forced-action protocol pre-flagged in last week's review was itself deferred** — the inertia has spread from trade decisions into rule changes. Defensive execution remains A; participation/execution remains F. Codifying the forced-action protocol into TRADING-STRATEGY.md this week so the rule itself, not the discretion to defer it, runs the bot next Monday.

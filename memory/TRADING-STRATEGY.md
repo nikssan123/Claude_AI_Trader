@@ -21,6 +21,7 @@ Beat the S&P 500 over the challenge window. Stocks only — no options, ever.
 9. Follow sector momentum
 10. Exit a sector after 2 consecutive failed trades
 11. Patience > activity
+12. **Forced-Action Protocol** — if 2+ consecutive Fridays close with deployment <75% AND 0/3 weekly trade slots used, the following Monday is a mandatory-action session: either deploy on the single highest-conviction Leading-quadrant uncorrelated ETF OR log an explicit per-ticker disqualifying risk for each Leading-quadrant candidate in that day's research entry. "Preserve slots for cleaner setups" is NOT an acceptable standalone disqualifier. Position sizing under this rule still respects all other rules (3, 5, 8, 9, 10).
 
 ## Entry Checklist
 - Specific catalyst?
