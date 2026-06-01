@@ -859,3 +859,70 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD — no new entries.** Day 25, 1 position (XLB **+0.94% unrealized / +$13.92 — fourth consecutive green print, fresh on-cost high in 12 sessions**), ~85.1% cash, equity $10,013.92 (fresh phase high). **Friday + month-end + pre-weekend tape + Iran-deal tentative + Dell AH +32% parabola + Brent biggest-monthly-drop-since-2020 + Equal-Weight ATH late-cycle signal** = a stacked deck for entry-discipline violation. PCE printed Thu (YoY hot / MoM core cool — net-constructive but not all-clear); single biggest macro overhang resolved but **without a clean post-PCE pullback setup**, just an ATH chase into a holiday-prep tape. XLB has $4.04+ of room above trail with GTC handling exit; **do NOT add into a winner on a Friday month-end** — discipline first. **Watchlist priorities (next week — fresh weekly slot cap):** XLB break + hold of **$52.77 hwm** (would unlock partial-add consideration); DELL/SMH post-parabola consolidation Mon-Tue (NOT a Fri open chase); XLE only after a confirmed Iran-deal signing + post-resolution oil range (no knife-catch); XLP only on a hawkish-Warsh re-pricing of sticky-inflation; XLI only if XLB exits (no cyclical stacking). **Preserve all 3 slots into next week.** **Patience > activity.**
+
+## 2026-06-01 — Pre-market Research (Mon — Week 6 open; FORCED-ACTION mandatory session per Rule 12)
+*(Perplexity API returned 401 invalid_api_key — fell back to native WebSearch)*
+
+### Account
+- Equity: $10,002.03 (-$5.80 overnight drift from last_equity $10,007.83)
+- Cash: $8,524.48 (85.23%)
+- Buying power: $18,526.51
+- Daytrade count: 0
+- Positions: 1 (XLB 29 sh @ $50.88, current $50.95, **+0.14% unrealized / +$2.03**; trail $47.49 GTC, hwm $52.77)
+- Open orders: 1 trailing stop | Trades this week: 0/3 (Week 6, fresh slot cap)
+- **FORCED-ACTION TRIGGER ACTIVE** — May 22 close cash 85.39% + May 29 close cash 85.17% = 2 consecutive Fri <75% deployed AND 0/3 slots used both weeks → Rule 12 mandatory-action session today
+
+### Market Context
+- WTI / Brent: **WTI ~$87.80 (-1.1% Fri close); Brent ~$91.20 (-2%) Fri close** — Brent closed May with **biggest monthly drop since 2020** (-12.56% MTD) on tentative US-Iran 60-day ceasefire extension + Strait of Hormuz flow resumption. Premarket Mon: oil bouncing modestly off Fri lows but still well below the $96+ mid-May regime
+- S&P 500 futures: **ES +0.18% premarket** (~7,585+); Polymarket conflicting: lines.com says 47.5% green-open (low volume), Benzinga cites 80% green-open. ES tape lean = mildly green. SPX + Equal-Weight + Dow all printed fresh ATH Thu close; May closed positive overall
+- VIX: **~17.59 (futures premarket)** — modestly up from Fri's 15.74 cash close as Computex / ISM converge; still contained
+- **TODAY'S CATALYSTS:**
+  - **ISM Manufacturing PMI (May) 10:00 ET** — Tier-1 cyclical-momentum read; consensus near contraction line; **direct read for XLB / XLI / XLE**
+  - **Construction Spending 10:00 ET** — Tier-2; housing/cyclical cross-read
+  - **S&P Global US Mfg PMI (May, final) 9:45 ET** — Tier-2
+  - **NVDA Jensen Huang Computex Taipei keynote** — Vera CPU full production + Nemotron 3 Ultra (500-550B params) + Spectrum-X + RTX Spark + Cosmos 3 already disclosed in pre-keynote leaks; AI/semi tape mover
+- Earnings today (light): BMO scattered small-caps (none Tier-1); **week's biggest binary: NFP Fri 6/05 (consensus +92K, UR 4.3%, AHE +3.5% YoY)**
+- Economic calendar week: Mon ISM Mfg, Tue JOLTS + Factory Orders, Wed ISM Services + ADP, Thu Initial Claims + Productivity, **Fri NFP** + Hourly Earnings
+- Yields: **10Y ~4.44%** (lowest in 2+ weeks) on Iran-deal extension + duration relief; 30Y rolled under 5.10%; 2Y ~4.0%. Yield breakout STALLING — first material rollover since the May FOMC mins. **Warsh first FOMC meeting 6/16-17 = next big macro signal**
+- Sector momentum (RRG Leading quadrant): **XLB (+22% YTD, held)**, **XLE (+22% YTD, now under Iran-deal pressure)**, **XLI (+12.8% YTD)**, **XLP (Leading, no clean RS breakout vs SPX)**. **Leadership rotation OUT of 2025 tech megacaps INTO cyclicals/defensives persists**; SMH stretched post-MU $1T parabola + Dell AH spike; SMH/XLK NOT Leading on RRG despite price action
+- XLB held: $50.95 (+0.14% on cost); trail $47.49 sits $3.46 below; manual -7% cut $47.32; **fifth straight green-on-cost day** (4-day Mem-Day-shortened week's print + today). $1.82 below $52.77 hwm
+
+### Trade Ideas
+1. **XLB hold** — NO add. Position at +0.14% / +$2.03; $1.82 below $52.77 hwm. Add-trigger still gated on a clean break + HOLD of $52.77 (NOT triggered today). Materials still YTD #1 dominant leader; ISM Mfg today direct cyclical read — wait for the print
+2. **XLE (Energy) — disqualified** — see Forced-Action disqualifier section below
+3. **XLI (Industrials) — disqualified** — see Forced-Action disqualifier section below
+4. **XLP (Consumer Staples) — disqualified** — see Forced-Action disqualifier section below
+5. **SMH / NVDA Computex tape** — NOT a Leading-quadrant ETF on RRG; semis stretched after MU $1T print + Dell AH +32%; chasing into a same-day Computex keynote = textbook single-name binary chase. **Skip — not eligible under Rule 9 sector-momentum + Rule 12 "Leading-quadrant" constraint**
+
+### Forced-Action Protocol — Per-Ticker Disqualifying Risks (Rule 12 Path B)
+**Trigger confirmed:** May 22 cash 85.39% + May 29 cash 85.17% (both Fri close ≥ 85% cash, <75% deployed); both weeks 0/3 trade slots used. Required: deploy on highest-conviction Leading-quadrant uncorrelated ETF OR log per-ticker disqualifier for each candidate. Rule 12 explicitly preserves Rules 3, 5, 8, 9, 10.
+
+- **XLE (Energy) — DISQUALIFIED**
+  - Rule 9 disqualifier (sector momentum BREAKING): Brent closed May -12.56% MTD = **biggest monthly drop since 2020**; WTI -16.23% MTD; Fri 5/31 alone Brent -2% / WTI -1.1%. Sector still RRG-Leading on lagged YTD (+22%) but the momentum vector is actively rolling over. Entering Day 1 of formalized US-Iran 60-day ceasefire extension + Strait reopen = **catching a knife mid-correction with the catalyst flow asymmetric DOWN** (formal deal signing extends supply pressure; deal walk-back is the only upside path, and that's binary gambling on a headline, not edge).
+  - Stop-placement disqualifier: A -7% to -10% stop below entry on a YTD Leader rolling over 12-16% in a month = sit-through-continuation risk; R:R skewed unfavorable.
+  - Rule 3 size disqualifier: A 20% position into an actively-correcting YTD-leader leadership-loss candidate = wrong setup.
+
+- **XLI (Industrials) — DISQUALIFIED**
+  - Rule 9 disqualifier (cyclical-stacking with XLB): Per multiple prior research entries' explicit disqualifier ("XLI only if XLB exits — no cyclical stacking"), XLI Industrials and XLB Materials carry overlapping cyclical-momentum exposure. Rule 12 explicitly preserves Rule 9 — XLI fails the "uncorrelated" requirement intrinsic to the Forced-Action language.
+  - Tape disqualifier: XLI +12.8% YTD already extended; ISM Mfg PMI 10:00 ET today is the very catalyst that re-prices the cyclical complex — entering pre-print on a +0.18% ES tape is binary-front-running, not edge.
+
+- **XLP (Consumer Staples) — DISQUALIFIED**
+  - Momentum disqualifier: Thu 5/28 PCE printed core MoM at +0.2% (COOLED from 0.3%); headline YoY hot at 3.8% was offset by market reading the core cool as net-constructive risk-on. Net effect: stagflation-bid catalyst for defensives REMOVED. Without a hot-PCE / weak-NFP confirmed shock, XLP lacks an in-week catalyst.
+  - Relative-strength disqualifier: Multiple prior entries flagged "no clean RS breakout vs SPX" — that condition is unchanged into today's open; SPX + Equal-Weight + Dow all at fresh ATHs Thu = risk-on tape that suppresses XLP defensive demand. Rule 9 sector-momentum requires a momentum signal; XLP has the RRG-Leading label without the underlying breakout.
+  - Setup disqualifier: Defensive entry on a +0.18% ES gap-up Mon premarket = wrong-direction; would need a weak ISM Mfg shock at 10:00 ET to validate, which is post-entry-decision and binary.
+
+**Forced-Action resolution:** All three uncorrelated Leading-quadrant candidates (XLE, XLI, XLP) carry substantive disqualifiers grounded in Rule 9 (sector momentum / cyclical-stacking) and Rule 3 (size/risk fit), NOT in "preserve slots for cleaner setups." Rule 12 path B is satisfied. **No deployment today.** Next trigger evaluation: Fri 6/05 EOD — if Fri close again has <75% deployed AND 0/3 used, the streak extends to 3 consecutive Fridays and Mon 6/08 becomes a heightened mandatory session.
+
+### Risk Factors
+- **ISM Manufacturing PMI 10:00 ET** — Tier-1 cyclical read; sub-48 prints have historically dropped Materials -1-2% intraday; above-50 expansion reading bids XLB/XLI in tandem (XLB +0.5% to +1.5% typical move)
+- **NVDA Computex keynote tape** — Vera CPU production + Nemotron 3 Ultra + Spectrum-X + RTX Spark + Cosmos 3 announcements ALREADY leaked pre-keynote; "sell the news" risk on SMH/NVDA post-keynote = potential broader-tape risk-off whip
+- **Iran-deal tentative (NOT signed)** — 60-day ceasefire extension still tentative; any weekend-spillover walk-back = oil gap-up risk + cyclical/defensive whip; XLE knife-catch risk amplified
+- **Yield rollover live** — 10Y 4.44% (-6bp from 4.50% regime); duration relief feeds growth/tech bid + suppresses defensive demand; if reverses on a hot ISM, XLB/cyclicals get a multiple-compression hit
+- **NFP Fri 6/05 looms** — week's biggest macro; 92K consensus is weak — sub-50K print = recession-fear risk-off; above-150K = re-arms hawkish-Fed thesis
+- **Warsh first FOMC 6/16-17** — every Warsh public utterance this week is a potential market mover ahead of his first meeting
+- **Equal-Weight + Dow at fresh ATHs Thu** — Goldman/Benzinga "S&P 500 momentum has a record rally — history says a reversal is next"; late-cycle breadth euphoria signal sits in the background
+- **XLB held +0.14% / +$2.03 — psychological add-temptation under Forced-Action** — discipline: position is BARELY green, no $52.77 hwm break yet, trail GTC handles exit; do NOT confuse Forced-Action with permission to size up the existing leader
+- **Trade slot pressure** — 0/3 used (5 sessions this week); preserve all 3 slots, but mandatory action satisfied via Rule 12 path B disqualifiers logged above
+
+### Decision
+**HOLD — no new entries; Forced-Action Protocol satisfied via Rule 12 path B (per-ticker disqualifying risks logged for each Leading-quadrant uncorrelated candidate).** Day 26, Week 6 open, 1 position (XLB +0.14% / +$2.03), ~85.2% cash, equity $10,002.03. Mandatory-action trigger confirmed (May 22 + May 29 both Fri close <75% deployed + 0/3 slots used). All three uncorrelated Leading-quadrant candidates (XLE, XLI, XLP) explicitly disqualified above on Rule 9 / Rule 3 grounds — XLE on actively-breaking sector-momentum (Brent biggest monthly drop since 2020) + knife-catch R:R; XLI on cyclical-stacking with XLB (Rule 9 explicit); XLP on absence of momentum signal (no clean RS breakout vs SPX + PCE-cool removed stagflation catalyst). SMH/NVDA Computex tape NOT Leading-quadrant per RRG (excluded by Rule 12 language). **Watchlist priorities (this week):** XLB break + HOLD of $52.77 hwm post-ISM (would unlock partial-add consideration, NOT new position); XLE on confirmed Iran-deal SIGNED + post-resolution oil range stabilization (no knife-catch); XLP only on weak ISM + weak NFP combo with confirmed RS-breakout; XLI only if XLB exits via trail-trip. **Next Forced-Action evaluation: Fri 6/05 EOD.** **Patience > activity — but Rule 12 satisfied; logged, not avoided.**
