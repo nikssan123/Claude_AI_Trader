@@ -926,3 +926,53 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD — no new entries; Forced-Action Protocol satisfied via Rule 12 path B (per-ticker disqualifying risks logged for each Leading-quadrant uncorrelated candidate).** Day 26, Week 6 open, 1 position (XLB +0.14% / +$2.03), ~85.2% cash, equity $10,002.03. Mandatory-action trigger confirmed (May 22 + May 29 both Fri close <75% deployed + 0/3 slots used). All three uncorrelated Leading-quadrant candidates (XLE, XLI, XLP) explicitly disqualified above on Rule 9 / Rule 3 grounds — XLE on actively-breaking sector-momentum (Brent biggest monthly drop since 2020) + knife-catch R:R; XLI on cyclical-stacking with XLB (Rule 9 explicit); XLP on absence of momentum signal (no clean RS breakout vs SPX + PCE-cool removed stagflation catalyst). SMH/NVDA Computex tape NOT Leading-quadrant per RRG (excluded by Rule 12 language). **Watchlist priorities (this week):** XLB break + HOLD of $52.77 hwm post-ISM (would unlock partial-add consideration, NOT new position); XLE on confirmed Iran-deal SIGNED + post-resolution oil range stabilization (no knife-catch); XLP only on weak ISM + weak NFP combo with confirmed RS-breakout; XLI only if XLB exits via trail-trip. **Next Forced-Action evaluation: Fri 6/05 EOD.** **Patience > activity — but Rule 12 satisfied; logged, not avoided.**
+
+## 2026-06-02 — Pre-market Research (Tue — Week 6 Day 2; post hot-ISM cyclical-bid + JOLTS/Factory Orders 10:00 ET)
+*(Perplexity API returned 401 invalid_api_key — fell back to native WebSearch)*
+
+### Account
+- Equity: $10,001.16 (flat from yesterday's close; no overnight drift, last_equity $10,001.16)
+- Cash: $8,524.48 (85.24%)
+- Buying power: $18,525.64
+- Daytrade count: 0
+- Positions: 1 (XLB 29 sh @ $50.88, current $50.92, **+0.08% unrealized / +$1.16**; trail $47.493 GTC, hwm $52.77)
+- Open orders: 1 trailing stop | Trades this week: 0/3 (Week 6, Day 2)
+
+### Market Context
+- WTI / Brent: **WTI ~$92.07 (range $91.51-$92.64); Brent ~$94.58 (-0.42% on June 2)** — oil REBOUNDING off May lows ($87-89 zone) as Iran-deal de-escalation narrative gets two-way headline pressure overnight; range $94-96 Brent / $91-93 WTI re-engages. Up from the May-30 print, but well below the May-mid $96+ regime. Tentative 60-day ceasefire extension still officially in effect
+- S&P 500 futures: **ES -0.07% premarket** (Dow -0.2% / NDX -0.1% / RUT flat); modest weak open lean as Iran/oil tape offsets HPE+MRVL AI-leader gap-ups. SPX/Equal-Weight/Dow all printed fresh ATHs last Thu; Mon June 1 closed positive overall
+- VIX: **~16.05 (+4.77% on the day per data; pre-mkt ~16-17 area)** — modestly up from late-May lows (15.74 May-29 cash close); vol re-pricing slightly on Iran tape + JOLTS binary, still well-contained
+- **TODAY'S TIER-1/2 CATALYSTS:**
+  - **JOLTS Job Openings (April) 10:00 ET** — Tier-1 labor read; consensus **6.87M** (flat MoM); first labor data ahead of NFP Fri 6/05; weak print = recession-fear/duration bid; strong print = re-arms hawkish-Fed thesis
+  - **Factory Orders (April) 10:00 ET** — Tier-2; consensus **-3.1% MoM** (vs prior +3.4%); soft expected post-tariff frontload unwind; cross-read for XLB/XLI cyclicals
+  - **Dollar General (DG) BMO** — Tier-1 staples-retail-discretionary read; cons EPS $1.90 / rev $10.82B
+  - **PANW / ULTA / GTLB AMC** — single-name binaries (cybersecurity / beauty / dev-tools)
+- **KEY CONTEXT — ISM Manufacturing PMI (May, released yesterday Mon 6/01):** **54.0 BEAT** vs 53.0 cons + 52.7 prior; **strongest since May 2022**. New Orders 56.8 (+2.7), Production 54.3 (+0.9), Backlog 52.2 (+0.8), Prices 82.1 (-2.5 — slight cool but still elevated). Employment 48.6 — 32nd straight month of contraction. **Direct positive for cyclicals (XLB/XLI) — confirms the "real economy reflation" rotation thesis; YESTERDAY'S catalyst, not today's**
+- AMC last night (Mon 6/01): no Tier-1 single-name binaries hit; quiet open to the week
+- Yields: **10Y ~4.44%** (steady from Fri rollover); 30Y under 5.10%; 2Y ~4.0%. **Yield-breakout stalling intact** post hot-ISM beat = constructive that the breakout did NOT extend on the print = duration relief + cyclical bid simultaneously
+- Sector momentum: **XLB Materials top YTD leader (+22%), XLE Energy now +26-27% YTD** (Brent bounce reignites the leadership reclaim), **XLI Industrials +12.8% YTD Leading on RRG, XLP Consumer Staples Leading (still no clean RS breakout)**. Real-economy rotation (cyclicals/inflation hedges) persists; SMH/AI-megacaps stretched after MU $1T parabola + Dell AH +32% — HPE/MRVL leading pre-mkt on AI-spending bid continuation
+- XLB held: $50.92 (+0.08% on cost) — sixth straight green-on-cost session; trail $47.493 sits **$3.43 below** current; manual -7% cut $47.32 ($3.60 of room). Still **$1.85 below $52.77 hwm**
+
+### Trade Ideas
+1. **XLB hold** — NO add, NO trim. Hot ISM beat (54.0 vs 53.0) yesterday confirmed the cyclical reflation thesis directly underwriting Materials leadership; XLB barely green on cost (+0.08% / +$1.16) — has NOT yet broken $52.77 hwm despite the tailwind. Add-trigger remains gated on a clean break + HOLD of $52.77; today's JOLTS/Factory Orders pair = secondary catalysts, no add into a binary. Trail $47.49 / manual cut $47.32 with $3.60+ of room. Let GTC handle exit
+2. **XLE (Energy)** — Brent rebounded modestly off May lows; YTD now +26-27% Leader. **BUT** the Iran-deal tentative-extension overhang persists with two-way headline tail; entering pre-JOLTS into an actively re-engaging $94-96 range = catching a recovering knife on a binary morning. Skip; stalk for a confirmed multi-day Brent range hold above $93 with Iran-deal SIGNED before any entry
+3. **XLI (Industrials)** — ISM Mfg beat 54.0 + Chicago PMI 62.7 (4-year high) = direct cyclical-momentum tailwind; XLI Leading on RRG. **BUT** cyclical-stacking with XLB on book per Rule 9 ("XLI only if XLB exits"); intrinsic disqualifier. Skip
+4. **XLP (Consumer Staples)** — Still no clean RS breakout vs SPX; ISM beat = risk-on signal that SUPPRESSES defensive demand; DG BMO is the single relevant binary. Skip
+5. **SMH / HPE / MRVL AI-spending tape** — HPE/MRVL leading pre-mkt on continued AI-spend optimism, but **NOT Leading-quadrant on RRG** + post-MU $1T + post-Dell AH parabola = late-stage chase; Iran/AI two-way tape = single-day binary chop. Skip
+6. **DG / PANW / ULTA / GTLB earnings binaries** — single-name ETF-discipline-violation across the board; PANW + ULTA + GTLB all AMC + 90%+ Polymarket beat odds = no setup edge with binary timing. Skip
+7. **No new entries today** — preserve all 3 weekly slots through JOLTS + NFP-week to find the cleanest setup; Wed ISM Services + ADP and Fri NFP are the higher-asymmetry windows
+
+### Risk Factors
+- **JOLTS Job Openings 10:00 ET** — Tier-1 labor read pre-NFP-Fri; sub-6.5M = recession-fear duration bid + cyclical headwind; above-7.2M = re-arms hawkish-Fed thesis + yield-breakout extension; binary outcome same window
+- **Factory Orders 10:00 ET** — -3.1% expected post-tariff frontload unwind; a sharper -5%+ contraction = direct XLB/XLI negative signal layered on JOLTS
+- **Iran two-way headline tape** — 60-day ceasefire extension tentative; any walk-back = oil gap-up + risk-off whip; oil bouncing back into $94 Brent = de-escalation thesis being re-priced
+- **HPE / MRVL gap-up + Iran-tape offset** — pre-mkt is the AI-vs-Iran tug-of-war; ES -0.07% lean = market split; entering into a two-way macro/single-name tape = no edge
+- **NFP Fri 6/05** — 92K cons; weak print = recession-fear; hot print = hawkish-Fed re-arm; week's biggest binary still ahead — preserve slots
+- **Warsh first FOMC 6/16-17** — every Warsh public utterance this week is a potential market mover ahead of his first meeting
+- **Yield breakout stalled but intact** — 10Y 4.44% post hot-ISM = constructive non-extension; a re-acceleration on JOLTS/NFP combo = XLB multiple-compression risk despite YTD leadership
+- **Equal-Weight + Dow at fresh ATHs** — late-cycle breadth euphoria signal sits in the background; "S&P 500 momentum has a record rally — history says a reversal is next" backdrop unchanged
+- **XLB +0.08% / barely green** — six straight green-on-cost prints but ZERO progress toward $52.77 hwm break despite Mon's hot ISM tailwind — caution: leader is digesting, not extending. Do NOT confuse hot-ISM context with an add-signal absent the hwm break
+- **Trade slot pressure** — 0/3 used (Week 6 Day 2); 4 sessions left including Fri NFP — preserve slots, NFP-Fri post-print is the cleanest asymmetry remaining this week
+
+### Decision
+**HOLD — no new entries.** Day 27, Week 6 Day 2 (Tuesday), 1 position (XLB **+0.08% unrealized / +$1.16 — sixth consecutive green-on-cost session, but $1.85 below $52.77 hwm — leader digesting hot-ISM tailwind without extending**), ~85.2% cash, equity $10,001.16. **JOLTS + Factory Orders 10:00 ET double-binary**; **DG BMO + PANW/ULTA/GTLB AMC layered single-name binaries**; **Iran two-way tape**; **NFP Fri 6/05 looming**. ISM Mfg 54.0 BEAT yesterday confirmed the cyclical reflation thesis but XLB has NOT broken hwm — add-trigger ungated. Every potential entry today (XLE knife-catch / XLI cyclical-stack / XLP no-momentum / SMH chase / DG-PANW-ULTA binaries) is a discipline-violation setup. Trail $47.493 / manual cut $47.32 with $3.60+ of room — GTC handles exit. **Watchlist priorities (this week):** XLB break + HOLD of $52.77 hwm (would unlock partial-add consideration); XLE only on Iran-deal SIGNED + multi-day $93+ Brent range; XLP only on weak JOLTS + weak NFP combo with clean RS-breakout; XLI only if XLB exits via trail-trip; SMH only on post-AI-parabola consolidation (Mon-Tue range hold). **Preserve all 3 slots for post-NFP Fri setups — week's biggest asymmetry window.** **Patience > activity.**
