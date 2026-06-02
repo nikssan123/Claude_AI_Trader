@@ -212,3 +212,11 @@ No positions. No trades today. Trades this week: 0/3.
 | XLB | 29 | $50.88 | $50.92 | -0.45% | +$1.16 (+0.08%) | $47.49 (trail 10%, hwm $52.77) |
 
 **Notes:** Week 6 opens slightly red. XLB slipped -0.45% to $50.92, trimming unrealized to +$1.16 (+0.08%) — barely green on the position; trailing-stop hwm unchanged at $52.77 (stop $47.49); manual -7% cut remains $47.32 ($3.60 of room). Account -$7.25 (-0.07%) day, +$1.16 (+0.01%) phase — still above water but only marginally. No trades today; week opens 0/3 cap used. Cash 85.24% — dry powder fully intact. Tomorrow: rerun premarket scan, watch XLB for reclaim of $51 / break of $52 hwm, otherwise hold the GTC trail; hunt an uncorrelated RS leader (avoid cyclical stacking) — deploy only on a clean setup within risk rules.
+
+### Jun 02 — EOD Snapshot (Day 27, Tuesday)
+**Portfolio:** $10,018.56 | **Cash:** $8,524.48 (85.09%) | **Day P&L:** +$17.40 (+0.17%) | **Phase P&L:** +$18.56 (+0.19%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+| XLB | 29 | $50.88 | $51.52 | +1.18% | +$18.56 (+1.26%) | $47.49 (trail 10%, hwm $52.77) |
+
+**Notes:** Solid green session. XLB rallied +1.18% to $51.52, extending unrealized to +$18.56 (+1.26%) — best mark since the May 15 flush. Trailing-stop hwm unchanged at $52.77 (stop $47.49); manual -7% cut remains $47.32 ($4.20 of room). Account +$17.40 (+0.17%) day, +$18.56 (+0.19%) phase — fresh phase high since the May 14 peak. No trades today; week 0/3 cap used. Cash 85.09% — dry powder fully intact. Tomorrow: rerun premarket scan, watch XLB for follow-through above $52 / break of $52.77 hwm (would tighten the trail), otherwise hold the GTC trail; hunt an uncorrelated RS leader (avoid cyclical stacking) — deploy only on a clean setup within risk rules.
