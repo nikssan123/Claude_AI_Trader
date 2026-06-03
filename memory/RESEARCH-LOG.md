@@ -976,3 +976,59 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD — no new entries.** Day 27, Week 6 Day 2 (Tuesday), 1 position (XLB **+0.08% unrealized / +$1.16 — sixth consecutive green-on-cost session, but $1.85 below $52.77 hwm — leader digesting hot-ISM tailwind without extending**), ~85.2% cash, equity $10,001.16. **JOLTS + Factory Orders 10:00 ET double-binary**; **DG BMO + PANW/ULTA/GTLB AMC layered single-name binaries**; **Iran two-way tape**; **NFP Fri 6/05 looming**. ISM Mfg 54.0 BEAT yesterday confirmed the cyclical reflation thesis but XLB has NOT broken hwm — add-trigger ungated. Every potential entry today (XLE knife-catch / XLI cyclical-stack / XLP no-momentum / SMH chase / DG-PANW-ULTA binaries) is a discipline-violation setup. Trail $47.493 / manual cut $47.32 with $3.60+ of room — GTC handles exit. **Watchlist priorities (this week):** XLB break + HOLD of $52.77 hwm (would unlock partial-add consideration); XLE only on Iran-deal SIGNED + multi-day $93+ Brent range; XLP only on weak JOLTS + weak NFP combo with clean RS-breakout; XLI only if XLB exits via trail-trip; SMH only on post-AI-parabola consolidation (Mon-Tue range hold). **Preserve all 3 slots for post-NFP Fri setups — week's biggest asymmetry window.** **Patience > activity.**
+
+## 2026-06-03 — Pre-market Research (Wed — Week 6 Day 3; Iran/US Qeshm Island strike + ADP + ISM Services + EIA Crude triple-binary day)
+*(Perplexity API returned 401 invalid_api_key — fell back to native WebSearch)*
+
+### Account
+- Equity: $10,017.98 (+$16.82 overnight drift on XLB mark-up to $51.50; last_equity $10,001.16)
+- Cash: $8,524.48 (85.09%)
+- Buying power: $18,542.46
+- Daytrade count: 0
+- Positions: 1 (XLB 29 sh @ $50.88, current $51.50, **+1.22% unrealized / +$17.98**; trail $47.493 GTC, hwm $52.77)
+- Open orders: 1 trailing stop | Trades this week: 0/3 (Week 6, Day 3)
+
+### Market Context
+- WTI / Brent: **WTI ~$95 (range $93.64-$96.04); Brent ~$97-98 (range $95.76-$97.24)** — oil **SURGED OVERNIGHT** on US Qeshm Island strike + Iran missile retaliation against US bases in Kuwait/Bahrain. **MAJOR REGIME SHIFT vs yesterday's research thesis** — the tentative 60-day ceasefire extension is **DEAD**; Strait of Hormuz risk premium is back. Brent up ~$3-5 from Tue close (~$94 → $97); WTI up similar; 3rd consecutive session of gains. Analyst range now $90-100 "until lasting peace deal"
+- S&P 500 futures: **ES -0.10% premarket** (modestly lower) after Tue closed at fresh ATH **7,609.78 (+0.13%)**; Polymarket 47% green-open lean = mild edge to lower open. SPX/Equal-Weight/Dow all printed fresh ATHs Tue. Risk-on tape getting tested by Iran flare-up
+- VIX: **~15.77 (Tue close, -1.74%)** — multi-week low; vol has NOT yet repriced the Iran escalation (Wed open likely +1-2 pts on the geopolitical headline) — **lagging signal**, watch for the 16-18 reset on cash open
+- **TODAY'S TIER-1 CATALYSTS (triple-stack 8:15→10:00→10:30 ET):**
+  - **ADP Private Payrolls (May) 8:15 ET** — cons **~85-116K** (range across sources); prior April 109K BEAT. First labor data this week pre-NFP Fri 6/05; weak print = recession-fear/duration bid; strong print = NFP whisper-up + hawkish-Fed re-arm
+  - **ISM Services PMI (May) 10:00 ET** — Tier-1 services-momentum read; consumer health proxy; complements Mon's hot ISM Mfg 54.0
+  - **EIA Crude Oil Inventories 10:30 ET** — API reportedly showed -6.8M draw last week; sixth consecutive draw if confirmed = **bullish oil on top of Iran tape** — double-bid for XLE
+  - S&P Global US Services PMI (final) 9:45 ET — Tier-2
+  - Factory Orders (April) 10:00 ET — cons -3.1% MoM; Tier-2 cyclical cross-read
+- **Iran/US ESCALATION OVERNIGHT (TUE PM → WED AM):** US CENTCOM struck Iran's Qeshm Island (air defense + drone control + 2 attack drones); Iran IRGC retaliated with "precise concentrated" missile strikes on US bases in Kuwait/Bahrain. Qeshm sits at the Strait of Hormuz entrance — 25% of seaborne oil + 20% of LNG flow through. **This INVALIDATES the prior-week 60-day ceasefire extension thesis**; geopolitical risk premium back fully on
+- Earnings BMO: **MDT** ($9.8B rev / $1.55 non-GAAP EPS — BEAT guidance; healthcare neutral), **M** Macy's (cons $0.02 EPS — discretionary read), **OLLI** (discount retail), **THO** (RVs/discretionary), CXM. AMC: **LULU** (athleisure binary), **AI** C3.ai, **CHPT** ChargePoint
+- Economic calendar week ahead: today triple-stack; Thu Initial Claims + Productivity; **Fri NFP** (cons **85-100K**, UR 4.3%, AHE +3.4% YoY) — week's biggest binary
+- Yields: **10Y ~4.44%** (steady from Tue); 30Y under 5.10%; 2Y ~4.0%. **JOLTS BEAT Tue (7.62M vs 6.87M cons — highest since mid-2024)** but yields didn't break out = market reading low-hire-low-fire as benign, not hot-labor. **Warsh first FOMC 6/16-17 still next big macro signal**
+- Sector momentum: **XLK Technology +32-33% YTD** (re-leading in absolute terms but RRG-Lagging on relative); **XLE Energy +26-27% YTD** (now actively REGAINING leadership on Iran shock); **XLB Materials ~+22% YTD** (RRG-Leading); **XLI +12.8% YTD Leading**; **XLP Leading** but no clean RS breakout. Real-economy rotation persists. **Energy producers + defense contractors leading on Iran tape**
+- XLB held: $51.50 current (+1.22% on cost, +$17.98) — **fresh on-cost high since May 14**; trail $47.493 sits **$4.01 below**; manual -7% cut $47.32 ($4.18 of room). **Still $1.27 below $52.77 hwm**
+
+### Trade Ideas
+1. **XLB hold** — NO add, NO trim. Position fresh on-cost high (+1.22% / +$17.98); $1.27 below $52.77 hwm. Add-trigger gated on clean break + HOLD of $52.77 — NOT triggered today. **Iran oil shock is a mixed signal for Materials:** chemicals/packaging input-cost RECIPIENTS face margin pressure; commodity-producer subindex benefits. Net blend = slightly negative bias today vs the cleaner XLE play. Let trail/GTC handle exit; manual cut $47.32 with $4.18+ of room
+2. **XLE (Energy)** — Tactically the cleanest Iran-escalation play: Brent +$3-5 overnight, EIA inventory likely confirms 6th consecutive draw, sector regaining RRG-Leadership. **BUT** entering Day 1 of an actively-escalating geopolitical shock = textbook knife-catch at the high; +5-7% gap-up at the open invites a fade if any de-escalation headline hits; cyclical-stacking risk with XLB on book (Rule 9 — sector momentum overlap is moderate, not severe like XLI). Stalk for a confirmed multi-day Brent hold above $93 + post-headline range-build before any entry. **No clean R:R today**
+3. **XLI (Industrials)** — ISM Mfg beat Mon + ISM Services today + cyclical reflation = constructive backdrop, BUT **explicit cyclical-stacking disqualifier with XLB on book per Rule 9** ("XLI only if XLB exits"). Skip
+4. **XLP (Consumer Staples)** — Defensive bid POSSIBLE on Iran escalation + ISM Services binary, but still no clean RS breakout vs SPX. Entering pre-ISM-Services into a tape that may digest Iran headlines = binary timing. Skip
+5. **XLK / SMH AI tape** — XLK +32-33% YTD absolute leader but **RRG-Lagging on relative momentum**; chasing into Iran-tape risk-off = wrong-direction setup; Mon's MU + Dell parabola digestion is the relevant pattern. Skip
+6. **MDT post-print** — Q4 BEAT ($9.8B rev / $1.55 EPS); ~4.1% expected move; healthcare single-name binary post-print = no sector-momentum edge. Skip
+7. **M / OLLI / THO BMO earnings binaries** — discretionary single-name post-print binaries; ETF-discipline-violation across the board. Skip
+8. **LULU / AI / CHPT AMC** — single-name binaries; don't enter pre-AMC. Skip
+9. **No new entries today** — preserve all 3 weekly slots through ADP/ISM-Services/EIA + Iran-tape day; Thu Claims + Fri NFP are the higher-asymmetry windows remaining
+
+### Risk Factors
+- **Iran/US active strike-counterstrike — MAJOR REGIME SHIFT** — 60-day ceasefire extension thesis is DEAD; analyst oil range now $90-100. Risk: further escalation = oil $100+ + risk-off whip; ANY de-escalation headline = oil -$5 gap-down + XLE knife-catch loss. Two-way binary tape ALL DAY
+- **ADP Private Payrolls 8:15 ET** — first labor read pre-NFP; sub-50K = recession-fear duration bid + cyclical headwind; above-150K = re-arms hawkish-Fed thesis + yield breakout re-extension. Direct read for XLB multiple
+- **ISM Services PMI 10:00 ET** — Tier-1 services-momentum; sub-48 contraction = risk-off + duration bid; above-55 expansion = cyclical-bid extension. Confirms or breaks the Mon hot-Mfg-ISM narrative
+- **EIA Crude Inventories 10:30 ET** — API -6.8M draw if confirmed = 6th consecutive draw + bullish-on-bullish for XLE (Iran tape overlay)
+- **VIX hasn't repriced the Iran shock yet** — 15.77 Tue close = lagging; cash open likely jumps 1-2 pts; vol-targeting funds de-risk into the print
+- **Earnings cluster post-MDT / pre-LULU / pre-AI** — single-name volatility risk on broader tape, esp. discretionary read-through if M / THO / OLLI disappoint
+- **JOLTS BEAT Tue (7.62M)** — strongest since mid-2024 but yields didn't break out; if ADP/NFP confirm = yield re-acceleration risk = XLB multiple compression despite YTD leadership
+- **XLB +1.22% / +$17.98 — psychological add-temptation on fresh on-cost high** — discipline: leader is +1.22% but STILL $1.27 below $52.77 hwm; do NOT confuse Iran-driven cyclical bid (which is actually MIXED for XLB — input-cost recipients hurt) with an add signal absent hwm break
+- **NFP Fri 6/05 still ahead** — 85-100K cons; pre-print de-risking common Wed/Thu; preserve slots
+- **Warsh first FOMC 6/16-17** — every Warsh utterance is a potential mover; geopolitical-shock combined with new-chair signaling risk
+- **Equal-Weight + Dow + SPX at fresh ATHs Tue** — late-cycle breadth euphoria signal intact; "S&P 500 momentum has a record rally — history says a reversal is next" backdrop UNCHANGED, now with an active geopolitical shock layered on
+- **Trade slot pressure** — 0/3 used (Week 6 Day 3 of 5); 3 sessions remaining including Fri NFP — preserve slots; **today's Iran-tape + triple-binary + earnings cluster = exact wrong tape for an entry**
+
+### Decision
+**HOLD — no new entries.** Day 28, Week 6 Day 3 (Wednesday), 1 position (XLB **+1.22% unrealized / +$17.98 — fresh on-cost high since May 14**), ~85.1% cash, equity $10,017.98 (fresh phase high). **Iran/US Qeshm strike-counterstrike overnight is a MAJOR regime shift** — the 60-day ceasefire extension thesis underlying last week's research is now DEAD; oil regime range jumps from $87-92 back to $90-100. **ADP 8:15 + ISM Services 10:00 + EIA Crude 10:30 + Iran two-way headline tape + MDT/M/OLLI/THO BMO + LULU/AI/CHPT AMC** = the most stacked-binary day of the week. Tactically XLE is the cleanest Iran play but Day 1 of escalation = knife-catch at the high; XLI cyclical-stacks with XLB; XLP lacks RS breakout; XLK/SMH lacks RRG-leadership. Every potential entry today is a discipline-violation setup. **XLB hold at $51.50 with $4.18+ of room above trail/cut — GTC handles exit.** **Watchlist priorities (this week):** XLB break + HOLD of $52.77 hwm (would unlock partial-add consideration); XLE only after Brent multi-day $93+ range hold + confirmed Iran-escalation plateau (no knife-catch at Day 1 high); XLP only on weak ISM Services + weak NFP combo with clean RS breakout; XLI only if XLB exits; SMH only on post-AI-parabola consolidation. **Preserve all 3 slots for post-NFP Fri setups — week's biggest asymmetry window.** **Patience > activity.**
