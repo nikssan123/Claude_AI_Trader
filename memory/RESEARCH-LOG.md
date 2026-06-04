@@ -1032,3 +1032,60 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD — no new entries.** Day 28, Week 6 Day 3 (Wednesday), 1 position (XLB **+1.22% unrealized / +$17.98 — fresh on-cost high since May 14**), ~85.1% cash, equity $10,017.98 (fresh phase high). **Iran/US Qeshm strike-counterstrike overnight is a MAJOR regime shift** — the 60-day ceasefire extension thesis underlying last week's research is now DEAD; oil regime range jumps from $87-92 back to $90-100. **ADP 8:15 + ISM Services 10:00 + EIA Crude 10:30 + Iran two-way headline tape + MDT/M/OLLI/THO BMO + LULU/AI/CHPT AMC** = the most stacked-binary day of the week. Tactically XLE is the cleanest Iran play but Day 1 of escalation = knife-catch at the high; XLI cyclical-stacks with XLB; XLP lacks RS breakout; XLK/SMH lacks RRG-leadership. Every potential entry today is a discipline-violation setup. **XLB hold at $51.50 with $4.18+ of room above trail/cut — GTC handles exit.** **Watchlist priorities (this week):** XLB break + HOLD of $52.77 hwm (would unlock partial-add consideration); XLE only after Brent multi-day $93+ range hold + confirmed Iran-escalation plateau (no knife-catch at Day 1 high); XLP only on weak ISM Services + weak NFP combo with clean RS breakout; XLI only if XLB exits; SMH only on post-AI-parabola consolidation. **Preserve all 3 slots for post-NFP Fri setups — week's biggest asymmetry window.** **Patience > activity.**
+
+## 2026-06-04 — Pre-market Research (Thu — Week 6 Day 4; post hot ADP+ISM Services double-beat, Initial Claims + Challenger, NFP eve)
+*(Perplexity API returned 401 invalid_api_key — fell back to native WebSearch)*
+
+### Account
+- Equity: $10,023.78 (+$2.03 overnight drift on XLB mark-up to $51.70; last_equity $10,021.75)
+- Cash: $8,524.48 (85.04%)
+- Buying power: $18,548.26
+- Daytrade count: 0
+- Positions: 1 (XLB 29 sh @ $50.88, current $51.70, **+1.61% unrealized / +$23.78**; trail $47.493 GTC, hwm $52.77)
+- Open orders: 1 trailing stop | Trades this week: 0/3 (Week 6, Day 4)
+
+### Market Context
+- WTI / Brent: **WTI ~$95 (range $93-96); Brent ~$97.6** — Brent extended +2% Wed to ~$97.6 on third consecutive session of gains; analyst range now $90-100 until "lasting peace deal". Iran/US Qeshm-Kuwait-Bahrain strike tape persists, but reports note Strait of Hormuz traffic picking up over the past two weeks (some vessels coordinating with US military) — escalation NOT spiraling further intraday Wed
+- S&P 500 futures: **ES -0.43% premarket** (down lean); SPX cash closed **-0.74% Wed** at ~7,553 area after opening 7,605.31 (Wed close gave back most of Tue's ATH +0.13% to 7,609.78); **Polymarket 86% probability of down-open today** vs 14% up — strongest single-day bearish lean of the phase. Real-economy data hot + Iran tape + oil bid + pre-NFP de-risking = risk-off cluster
+- VIX: **~15.77 Wed close** — has NOT yet repriced the Iran/data combo despite SPX -0.74% Wed; lagging signal — cash open likely jumps 1-2 pts on the down-open + pre-NFP positioning
+- **TODAY'S TIER-1/2 CATALYSTS:**
+  - **Initial Jobless Claims 8:30 ET** — Tier-1 weekly labor read; consensus **211K** (prior 215K); above 230K = duration bid + cyclical headwind; below 200K = re-arms hawkish-Fed thesis + XLB multiple compression risk
+  - **Nonfarm Productivity (Q1 final) 8:30 ET** — cons +0.8% (prior +0.8%); Tier-2
+  - **Challenger Job Cuts (May) 7:30 ET** — Tier-2 labor read; pre-NFP cross-read
+  - **Fed Beige Book 2:00 PM ET** — Tier-2; first one ahead of Warsh's debut FOMC 6/16-17
+  - **CIEN / PL / SAIC BMO** — single-name binaries (telecom/space/government IT). **LULU / AI / CHPT carryover post-prints from Wed AMC** + **AVGO Broadcom AMC tonight** — Tier-1 AI-megacap binary; ~$1T market cap; will set tomorrow's NFP-day tape
+- **WED 6/03 RESULTS (data digestion overnight):**
+  - **ADP HOT — 122K vs 110K cons** (above range; strongest since Jan 2025); 8 of 10 sectors green; broad-based hiring; pay +4.4% YoY; eased June Fed hold thesis
+  - **ISM Services PMI HOT — 54.5 vs 53.7 cons** (vs 53.6 prior); 23rd consecutive month expansion; **Business Activity 57.7 (+1.8); New Orders 57.3 (+3.8); Prices 71.3 — HIGHEST SINCE AUG 2022** — services-side sticky inflation re-engaging
+  - **Combined read:** real-economy reflation + sticky services-inflation = stagflation-tinge risk for duration; cyclicals confirmed; XLB benefits on momentum but Prices Index spike = input-cost recipient subindex (chemicals/packaging) faces margin compression
+- Yields: **10Y was at 4.44% pre-data Wed**; hot ADP + hot ISM Services + hot Prices Index = re-acceleration RISK overnight (markets digesting); SPX -0.74% Wed = yields likely re-broke higher
+- Sector momentum: **XLK Tech +32-33% YTD** (RRG-Lagging on relative); **XLE Energy +26-27% YTD** (Iran-tape catalyst confirms reclaim of Leadership); **XLB Materials +22% YTD** (RRG-Leading); **XLI +22% TTM Leading**; **XLP Leading**. Real-economy rotation persists. Energy producers + defense contractors leading on Iran tape; chemicals/packaging input-cost recipients lagging within XLB internals
+- XLB held: $51.70 current (+1.61% on cost, +$23.78) — **fresh on-cost high; second straight up-day overnight**; trail $47.493 sits **$4.21 below**; manual -7% cut $47.32 ($4.38 of room). **Still $1.07 below $52.77 hwm**
+
+### Trade Ideas
+1. **XLB hold** — NO add, NO trim. Position fresh on-cost high (+1.61% / +$23.78); $1.07 below $52.77 hwm — closer than ever but not triggered. Add-trigger remains gated on a clean break + HOLD of $52.77, NOT today (ES -0.43% + 86% down-open lean + Iran tape + pre-NFP de-risking = wrong tape for an add). Trail $47.49 / manual cut $47.32 with $4.38+ of room. Let GTC handle exit
+2. **XLE (Energy)** — Brent $97.6 + Iran-tape extending into Day 2; sector regaining RRG-Leadership. **STILL NOT cleared:** entering Day 2 of an escalating shock without a confirmed plateau = knife-catch at the high; ES -0.43% + 86% down-open lean = the market is selling, not buying the breakout; cyclical-overlap risk with XLB. Stalk for multi-day Brent hold above $93 with confirmed Iran plateau — NOT confirmed yet
+3. **XLI (Industrials)** — Hot ISM Mfg Mon + Hot ISM Services Wed = cyclical reflation confirmed; XLI Leading on RRG. **Explicit cyclical-stacking disqualifier with XLB on book per Rule 9** ("XLI only if XLB exits"). Skip
+4. **XLP (Consumer Staples)** — Defensive bid POSSIBLE on Iran + pre-NFP, but ISM Services Prices Index 71.3 HOT = staples margin compression risk; still no clean RS breakout vs SPX. Skip
+5. **XLK / SMH AI tape** — RRG-Lagging on relative momentum; **AVGO AMC binary tonight (~$1T cap)** = single-name driver; entering pre-AVGO into a down tape = wrong-side risk. Skip
+6. **CIEN / PL / SAIC BMO earnings binaries** — single-name post-print binaries; ETF-discipline-violation across the board. Skip
+7. **AVGO / LULU / AI / CHPT post-print binaries** — single-name binaries; don't enter pre-AVGO AMC. Skip
+8. **No new entries today** — preserve all 3 weekly slots through Claims/Challenger/Beige + AVGO AMC + Fri NFP; NFP-Fri post-print is the cleanest asymmetry remaining this week
+
+### Risk Factors
+- **ES -0.43% + 86% Polymarket down-open lean** — strongest single-day bearish lean of the phase; risk-off cluster (Iran + hot data + pre-NFP de-risking); entering INTO a confirmed-down-open tape = no edge
+- **Iran/US escalation Day 2** — 60-day ceasefire thesis DEAD; analyst range $90-100; ANY de-escalation headline (Hormuz traffic recovery noted) = oil -$5 gap-down + XLE knife-catch; further escalation = oil $100+ + SPX risk-off whip
+- **Initial Jobless Claims 8:30 ET** — 211K cons; below-200K = re-arms hawkish-Fed thesis + yield re-extension = XLB multiple compression risk; above-230K = duration bid but cyclical headwind
+- **Challenger Job Cuts 7:30 ET** — pre-Claims labor cross-read; spike = recession-fear setup pre-NFP
+- **Hot ADP + Hot ISM Services + 71.3 Prices Index = stagflation-tinge** — sticky services inflation re-engaging; yields likely re-broke higher overnight; **direct XLB multiple-compression risk despite YTD leadership**; input-cost recipient subindex (chemicals/packaging Linde/APD ~20% of XLB) faces margin compression
+- **VIX hasn't repriced — 15.77 lagging** — vol re-pricing imminent on the down-open + Iran tape; vol-targeting funds de-risk into NFP
+- **AVGO AMC tonight (~$1T cap)** — single-name binary that will set tomorrow's NFP-day open tape; sentiment leverage for SMH/XLK
+- **NFP Fri 6/05** — cons 100K, UR 4.3%, AHE +3.4% YoY; biggest binary of the week; hot ADP raises whisper risk; preserve slots
+- **Fed Beige Book 2:00 PM ET** — first one ahead of Warsh's debut FOMC 6/16-17; sticky-inflation language risk
+- **Warsh first FOMC 6/16-17** — every utterance is a potential mover; geopolitical-shock + sticky-inflation + new-chair signaling combo
+- **SPX -0.74% Wed off ATH 7,609.78** — late-cycle euphoria signal intact, now with active downside-confirmation; "S&P 500 momentum has a record rally — history says a reversal is next" backdrop now WITH a confirmed pull-back day
+- **XLB +1.61% / +$23.78 — closest to $52.77 hwm yet (only $1.07 away)** — psychological add-temptation peak, BUT hot Prices Index = mixed sector internals; do NOT confuse the cyclical-bid headline with an add signal absent hwm break + HOLD
+- **Trade slot pressure** — 0/3 used (Week 6 Day 4 of 5); 2 sessions remaining (today + Fri NFP) — preserve slots; **today's down-tape + Iran + pre-NFP + AVGO setup = exact wrong tape for an entry**
+
+### Decision
+**HOLD — no new entries.** Day 29, Week 6 Day 4 (Thursday), 1 position (XLB **+1.61% unrealized / +$23.78 — fresh on-cost high; closest to $52.77 hwm yet ($1.07 away) but not broken**), ~85.0% cash, equity $10,023.78 (fresh phase high). **Wed digested HOT ADP (122K vs 110K) + HOT ISM Services (54.5 vs 53.7, Prices 71.3 — highest since Aug 2022)** = real-economy reflation confirmed BUT sticky-services-inflation tinge layered on, yields re-extending, SPX -0.74% off ATH. **Today's setup:** ES -0.43%, Polymarket 86% down-open lean, Iran tape Day 2 ($97.6 Brent), Claims/Challenger/Beige + AVGO AMC tonight + NFP-Fri tomorrow. Every potential entry (XLE knife-catch Day 2 / XLI cyclical-stack / XLP Prices-Index margin risk / XLK pre-AVGO chase / single-name binaries) is a discipline-violation setup. **XLB hold at $51.70 with $4.38+ of room above trail/cut — GTC handles exit.** **Watchlist priorities (remainder of week):** XLB break + HOLD of $52.77 hwm (would unlock partial-add consideration); XLE only after multi-day $93+ Brent hold + confirmed Iran plateau (Day 2 ≠ plateau); XLP only on weak NFP + clean RS breakout; XLI only if XLB exits; SMH only on post-AVGO + post-NFP consolidation pattern. **Preserve all 3 slots for post-NFP Fri setups — week's biggest asymmetry window remains.** **Patience > activity.**
