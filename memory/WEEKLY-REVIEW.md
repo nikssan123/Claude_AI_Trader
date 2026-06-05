@@ -264,3 +264,58 @@ Capital preserved (-0.01% week, flat) and survived a real Tue flush in XLB; trai
 
 ### Overall Grade: D
 Capital preserved (+0.26% week, fresh phase high), XLB finally green on cost, trailing-stop discipline grade A, every Tier-1 binary avoided. But the **fifth consecutive zero-new-entry week**, **fifth consecutive ~85% cash week**, **fourth consecutive negative tracking error vs S&P** (~-1.24% in a +1.5% SPX week, now cumulatively ~5-6% behind benchmark), and most damningly: **the forced-action protocol pre-flagged in last week's review was itself deferred** — the inertia has spread from trade decisions into rule changes. Defensive execution remains A; participation/execution remains F. Codifying the forced-action protocol into TRADING-STRATEGY.md this week so the rule itself, not the discretion to defer it, runs the bot next Monday.
+
+## Week ending 2026-06-05
+
+### Stats
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $10,008.41 (Fri 5/29 close → Mon 6/01 baseline) |
+| Ending portfolio | $9,984.34 |
+| Week return | -$24.07 (-0.24%) |
+| S&P 500 week | ~-0.55% (SPX ~7,585 → ~7,543; Fri 6/05 -0.54% pull-back; 9-week streak broken) |
+| Bot vs S&P | +0.31% (first positive tracking error in 5 weeks) |
+| Trades | 0 new (W:0 / L:0 / open:1 XLB carry-over) |
+| Win rate | n/a (no closed trades) |
+| Best trade | XLB +1.61% (Thu $51.70 — closest to $52.77 hwm in 22 sessions, only position) |
+| Worst trade | XLB -1.06% (Fri $50.34 close, only position) |
+| Profit factor | n/a |
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+| — | — | — | — | None this week |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+| XLB | $50.88 | $50.34 | -$15.66 (-1.06%) | $47.49 (10% trail, hwm $52.77) |
+
+### What Worked
+- **Rule 12 (Forced-Action Protocol) executed Mon 6/01 as designed** — first formal Path-B run: per-ticker disqualifiers logged for every Leading-quadrant uncorrelated candidate (XLE knife-catch on Brent -12.56% MTD; XLI cyclical-stacking with XLB per Rule 9; XLP no RS breakout vs SPX). The rule that was deferred last week was followed this week. Procedural integrity restored.
+- **First positive tracking error vs S&P in 5 weeks** (+0.31% bot vs -0.55% SPX) — underdeployment finally paid in a down week as the 9-week SPX up-streak snapped on Fri.
+- Refused every binary trap of the week: ISM Mfg 54.0 BEAT (Mon) + JOLTS 7.62M BEAT (Tue) + Iran/US Qeshm strike-counterstrike overnight (Wed) + hot ADP 122K + hot ISM Services 54.5 + Prices 71.3 (Wed) + AVGO -12-14% AI-guide miss + LULU -11% (Thu AMC) + NFP (Fri 8:30) — zero exposure to any single binary.
+- Refused XLE knife-catch on Iran flare-up Wed despite Brent +$3-5 overnight surge — Day-1-of-escalation logged as the wrong entry timing; vindicated by Brent giving back 3% Thu on diplomacy hopes (textbook two-way headline tail).
+- GTC trail discipline intact at $47.49 (hwm $52.77 still standing from May 14); manual -7% cut at $47.32 held; $3.02 of room above stop on the Fri close.
+
+### What Didn't Work
+- **SIXTH consecutive zero-new-entry week** — six weeks in, one position, one sector. Rule 12 path-B was followed procedurally but the disqualifier set was nearly identical to the prior week's research entries; the rule satisfied the letter without changing the behavior.
+- **SIXTH consecutive ~85% cash week** — deployment-floor rule (75-85%) violated for the entire phase to date. Even with this week's positive tracking error, the cumulative 5-6 week deficit is unrecovered.
+- **XLB now red on cost again (-1.06%)** after 5 sessions green and a fresh on-cost high Thu (+1.61%); the leader has now gone 22 sessions without breaking the $52.77 hwm despite Mon ISM Mfg 54.0 + Wed ADP 122K + Wed ISM Services 54.5 cyclical-reflation trifecta. **Sector momentum tailwind is no longer translating into XLB price** — that is itself a signal, not noise.
+- ISM Services Prices Index 71.3 (highest since Aug 2022) directly flags margin compression for XLB's input-cost recipient sub-index (chemicals/packaging Linde/APD ~20% of holdings) — recognized in Wed/Thu/Fri research and no trim/de-risk action taken; the asymmetry (hold a fading leader, never initiate a new one) persists.
+- Sectoral leadership shift on Thu (Dow +1.73% ATH led by healthcare + financials rotation; XLK -0.1% post-AVGO) was the cleanest sector-rotation signal of the phase — and the strategy has no protocol for capturing a single-day rotation print as an entry trigger.
+- Perplexity 401 persists 30 sessions running — research-tooling status remains unresolved structural blocker.
+
+### Key Lessons
+- Rule 12 in its current form can be satisfied by re-using the prior week's disqualifier set with minor updates; the rule prevents "preserve slots" as a standalone reason but does not prevent "same disqualifiers as last week." The rule needs a freshness/cadence requirement to drive actual behavior change, not just documentation hygiene.
+- The single positive tracking-error week of the phase came in a down tape — confirming that the structurally-underdeployed regime ONLY beats the index when the index falls; in any up tape, it bleeds. Net: zero edge across regimes.
+- XLB's 22-session failure to break $52.77 hwm despite a triple cyclical-reflation tailwind is the strongest "leader is digesting, not leading" signal of the position's life. Holding through digestion is fine; pretending the position is "the trade" while no new positions get added is six weeks of capital-allocation paralysis.
+- Healthcare (XLV) + Financials (XLF) Thu rotation print is a new uncorrelated-Leading candidate set not yet on the watchlist; the strategy's RRG-Leading filter rebuilt mid-week and the bot did not respond.
+
+### Adjustments for Next Week
+- **Rule 12 amendment under consideration**: tighten the disqualifier-set freshness requirement — if the per-ticker disqualifiers in the Path-B research entry are >50% verbatim from the prior week's entry, the trigger is NOT satisfied and Path A (deployment) becomes the default. **Pre-flagging here for 1-2 more weeks of data before codifying — this is the second consecutive week of "preserve slots" being structurally repackaged as "per-ticker disqualification."**
+- **Mon 6/08 is the 3rd consecutive Forced-Action mandatory session.** Per the rule's heightened-trigger language, the disqualifier bar is materially higher: each Leading-quadrant candidate (XLE / XLI / XLP / XLV / XLF / SMH) requires a freshly-sourced (not copy-forward) disqualifier rooted in this week's tape and the NFP print. If the disqualifier reads identically to Mon 6/01's, the bot deploys on the highest-conviction name.
+- XLB action plan: if Fri's $50.34 close marks the start of a roll-over (3 consecutive red sessions OR break of $50), manually trim half to free capital toward a Leading-quadrant uncorrelated entry. XLB's failure to break $52.77 in 22 sessions through the reflation trifecta has now exhausted the "let the leader work" thesis.
+- Add XLV (Healthcare) + XLF (Financials) to the watchlist explicitly as Thu-rotation-trigger candidates; need multi-day RS confirmation (Mon-Tue follow-through to the Thu print) before deployment, not single-day chase.
+- Perplexity API: 30 sessions of 401 = permanent blocker. Stop logging "fell back to native WebSearch" as a per-day status; remove the asterisk from research entries; WebSearch is the formal primary research path going forward. (Will codify in TRADING-STRATEGY.md next week if behavior holds.)
+
+### Overall Grade: C-
+Capital preserved (-0.24% week, beat S&P by +0.31%), Rule 12 Path-B procedurally executed for the first time (vs deferred last week), every Tier-1 binary of a 5-binary week avoided, GTC trail held through Iran flare-up + NFP. First positive tracking-error week of the phase. **But: sixth consecutive zero-new-entry week; sixth consecutive ~85% cash week; XLB now red again after failing to break hwm through the cyclical-reflation trifecta; Rule 12 satisfied procedurally without changing behavior** (the disqualifier set was substantively the same as prior weeks' research entries). The single positive tracking week came in a down tape — that's beta-shrinkage, not edge. Defensive grade A; rule-execution grade B (Rule 12 was followed, the rule itself may be insufficient); participation grade F. Discipline-vs-paralysis tension is now a 6-week pattern with a candidate rule-level intervention (disqualifier freshness requirement) pre-flagged for next week's review if the pattern persists.
