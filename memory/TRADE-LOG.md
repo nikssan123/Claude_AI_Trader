@@ -244,3 +244,11 @@ No positions. No trades today. Trades this week: 0/3.
 | XLB | 29 | $50.88 | $50.63 | -1.92% | -$7.25 (-0.49%) | $47.49 (trail 10%, hwm $52.77) |
 
 **Notes:** Ugly Friday close. XLB sold off -1.92% to $50.63, flipping the position back red (-0.49% unrealized) and dragging the account back under water at -$7.25 (-0.07%) phase — snaps the 3-day green streak and erases the prior fresh phase high. Trailing-stop hwm unchanged at $52.77 (stop $47.49); manual -7% cut remains $47.32 ($3.31 of room). Account -$30.74 (-0.31%) day — worst single session since the May 19 flush. No trades today; week closes 0/3 cap used (fifth straight no-trade week — patience continues). Cash 85.31% — dry powder fully intact entering week 7. Weekly review pending. Monday: rerun premarket scan, watch XLB for hold of $50 / reclaim of $51, otherwise hold the GTC trail; hunt an uncorrelated RS leader (avoid cyclical stacking) — deploy only on a clean setup within risk rules.
+
+### Jun 08 — EOD Snapshot (Day 31, Monday)
+**Portfolio:** $9,975.64 | **Cash:** $8,524.48 (85.45%) | **Day P&L:** -$17.11 (-0.17%) | **Phase P&L:** -$24.36 (-0.24%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+| XLB | 29 | $50.88 | $50.04 | -1.17% | -$24.36 (-1.65%) | $47.49 (trail 10%, hwm $52.77) |
+
+**Notes:** Week 7 opens red, continuing Friday's slide. XLB shed -1.17% to $50.04, flipping unrealized back to -$24.36 (-1.65%) and dragging the account back into the red at -$24.36 (-0.24%) phase — fresh phase low since the May 22 area. Trailing-stop hwm unchanged at $52.77 (stop $47.49); manual -7% cut remains $47.32 (only $2.72 of room — tightest in a month). Account -$17.11 (-0.17%) day. No trades today; week opens 0/3 cap used. Cash 85.45% — dry powder fully intact. Tomorrow: rerun premarket scan, watch XLB for hold of $50 / reclaim of $50.50, otherwise hold the GTC trail — if $50 breaks decisively, prep for manual -7% cut at $47.32; hunt an uncorrelated RS leader (avoid cyclical stacking) — deploy only on a clean setup within risk rules.
