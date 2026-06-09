@@ -252,3 +252,11 @@ No positions. No trades today. Trades this week: 0/3.
 | XLB | 29 | $50.88 | $50.04 | -1.17% | -$24.36 (-1.65%) | $47.49 (trail 10%, hwm $52.77) |
 
 **Notes:** Week 7 opens red, continuing Friday's slide. XLB shed -1.17% to $50.04, flipping unrealized back to -$24.36 (-1.65%) and dragging the account back into the red at -$24.36 (-0.24%) phase — fresh phase low since the May 22 area. Trailing-stop hwm unchanged at $52.77 (stop $47.49); manual -7% cut remains $47.32 (only $2.72 of room — tightest in a month). Account -$17.11 (-0.17%) day. No trades today; week opens 0/3 cap used. Cash 85.45% — dry powder fully intact. Tomorrow: rerun premarket scan, watch XLB for hold of $50 / reclaim of $50.50, otherwise hold the GTC trail — if $50 breaks decisively, prep for manual -7% cut at $47.32; hunt an uncorrelated RS leader (avoid cyclical stacking) — deploy only on a clean setup within risk rules.
+
+### Jun 09 — EOD Snapshot (Day 32, Tuesday)
+**Portfolio:** $9,996.81 | **Cash:** $8,524.48 (85.27%) | **Day P&L:** +$21.17 (+0.21%) | **Phase P&L:** -$3.19 (-0.03%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+| XLB | 29 | $50.88 | $50.77 | +1.62% | -$3.19 (-0.22%) | $47.49 (trail 10%, hwm $52.77) |
+
+**Notes:** Solid bounce off yesterday's flush. XLB rallied +1.62% to $50.77, trimming unrealized back to -$3.19 (-0.22%) from -$24.36 — nearly flat on the position. Trailing-stop hwm unchanged at $52.77 (stop $47.49); manual -7% cut remains $47.32 ($3.45 of room — restored after yesterday's tight read). Account +$21.17 (+0.21%) day, -$3.19 (-0.03%) phase — back near breakeven after Monday's fresh low. No trades today; week 0/3 cap used. Cash 85.27% — dry powder fully intact. Tomorrow: rerun premarket scan, watch XLB for follow-through above $51 / reclaim of $51.50, otherwise hold the GTC trail; hunt an uncorrelated RS leader (avoid cyclical stacking) — deploy only on a clean setup within risk rules.
