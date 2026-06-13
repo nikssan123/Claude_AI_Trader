@@ -22,6 +22,12 @@ Beat the S&P 500 over the challenge window. Stocks only — no options, ever.
 10. Exit a sector after 2 consecutive failed trades
 11. Patience > activity
 12. **Forced-Action Protocol** — if 2+ consecutive Fridays close with deployment <75% AND 0/3 weekly trade slots used, the following Monday is a mandatory-action session: either deploy on the single highest-conviction Leading-quadrant uncorrelated ETF OR log an explicit per-ticker disqualifying risk for each Leading-quadrant candidate in that day's research entry. "Preserve slots for cleaner setups" is NOT an acceptable standalone disqualifier. Position sizing under this rule still respects all other rules (3, 5, 8, 9, 10).
+    - **12a. Disqualifier-freshness clause** (added 2026-06-13 after 2-week recycled-disqualifier pattern Mon 6/01 + Mon 6/08): if the Path-B per-ticker disqualifier set is >50% verbatim from the prior week's Path-B entry, the trigger is NOT satisfied. Path A (deployment on the single highest-conviction Leading-quadrant uncorrelated ETF) becomes the default. Each disqualifier must be rooted in this week's tape and reference a catalyst, print, or RRG shift from the current week.
+    - **12b. Intra-week flush trigger** (added 2026-06-13 after Wed 6/10 no-action): if a held position closes within $3 of its GTC trail OR ≤2% above its manual -7% cut AND a Leading-quadrant ETF is oversold (>2 standard deviations below 21-EMA OR closes in the lower 10% of its 20-day range), the next session is a mandatory Path-A scan regardless of weekly cap status. Path-B disqualification still permitted but must clear the 12a freshness bar.
+
+## Research Tooling
+- Perplexity API has returned 401 invalid_api_key for 35+ consecutive sessions (since 2026-04-28). Treated as a permanent structural blocker.
+- **WebSearch is the formal primary research path going forward.** Do not log "fell back to WebSearch" as a per-day status — it is the default.
 
 ## Entry Checklist
 - Specific catalyst?

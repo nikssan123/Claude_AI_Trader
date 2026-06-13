@@ -319,3 +319,62 @@ Capital preserved (+0.26% week, fresh phase high), XLB finally green on cost, tr
 
 ### Overall Grade: C-
 Capital preserved (-0.24% week, beat S&P by +0.31%), Rule 12 Path-B procedurally executed for the first time (vs deferred last week), every Tier-1 binary of a 5-binary week avoided, GTC trail held through Iran flare-up + NFP. First positive tracking-error week of the phase. **But: sixth consecutive zero-new-entry week; sixth consecutive ~85% cash week; XLB now red again after failing to break hwm through the cyclical-reflation trifecta; Rule 12 satisfied procedurally without changing behavior** (the disqualifier set was substantively the same as prior weeks' research entries). The single positive tracking week came in a down tape — that's beta-shrinkage, not edge. Defensive grade A; rule-execution grade B (Rule 12 was followed, the rule itself may be insufficient); participation grade F. Discipline-vs-paralysis tension is now a 6-week pattern with a candidate rule-level intervention (disqualifier freshness requirement) pre-flagged for next week's review if the pattern persists.
+
+## Week ending 2026-06-13
+
+### Stats
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $9,992.75 (Fri 6/05 close → Mon 6/08 baseline) |
+| Ending portfolio | $10,037.70 |
+| Week return | +$44.95 (+0.45%) |
+| S&P 500 week | ~+1.6% (Iran-deal-hope rally; Thu +1.75% / Fri +0.50%) |
+| Bot vs S&P | ~-1.15% |
+| Trades | 0 new (W:0 / L:0 / open:1 XLB carry-over) |
+| Win rate | n/a (no closed trades) |
+| Best trade | XLB +2.58% (Fri $52.20, $0.57 below $52.77 hwm, only position) |
+| Worst trade | XLB -2.61% (Wed $49.55 flush low, only position) |
+| Profit factor | n/a |
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+| — | — | — | — | None this week |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+| XLB | $50.88 | $52.18 | +$37.70 (+2.56%) | $47.49 (10% trail, hwm $52.77) |
+
+### What Worked
+- **XLB finally broke out of the 6-week chop** — Thu +3.25% / Fri +1.90% ripped to $52.20, the best on-cost mark since the May 14 peak (+2.58%) and $0.57 below the $52.77 hwm. The "let the leader work" thesis vindicated after 22 sessions of $52.77 failure: peace-deal-hope tape + Materials leadership return delivered.
+- **Survived another mid-week flush** without action — Wed $49.55 low (-2.61% on cost, only $2.23 above the $47.32 manual cut and $2.06 above the GTC trail) recovered fully by Fri close. Third such test of the position in 6 weeks; the rules have held every time.
+- **Rule 12 (Forced-Action Protocol) executed Mon 6/08 again** — per-ticker disqualifiers logged for each Leading-quadrant candidate; second consecutive week of formal Path-B compliance. The rule is becoming procedural muscle memory.
+- Refused every binary trap: Iran-deal-near-final headline cluster (Wed/Thu drove the rally; Day-1 chase would have been the same trap as the prior flare-up week), Thu's +1.75% SPX rip (chasing the gap = same mistake as every prior melt-up day), Fri's SpaceX IPO pop + Paramount-WBD merger headline tape (single-name binary cluster). Zero exposure to any single-name binary.
+- GTC trail discipline intact at $47.49 (hwm $52.77 still standing from May 14); manual -7% cut at $47.32 held through Wed flush; $4.69 of room above stop on the Fri close — best buffer in 6 weeks.
+
+### What Didn't Work
+- **SEVENTH consecutive zero-new-entry week** — the XLB breakout came on the same week the rest of the tape ripped on peace hopes, meaning the +2.58% XLB unrealized gain came alongside SPX +1.6%; the bot still lagged the index by ~1.15% because the breakout finally delivered into a tape where every Leading-quadrant ETF was also ripping. The participation problem is now provably exposed: even when the held position rips, single-position concentration caps upside vs the broad tape.
+- **SEVENTH consecutive ~85% cash week** — deployment-floor rule (75-85%) violated for the entire phase to date. Cumulative tracking error vs S&P now ~6-7% across 7 weeks. The Wed flush ($49.55) was the cleanest "Path A deployment" entry signal of the phase (oversold leader in a peace-deal tape) and the bot did not act.
+- **Rule 12 satisfied procedurally for the 2nd consecutive week without behavior change** — the Mon 6/08 disqualifier set was again substantively recycled from prior weeks; the "disqualifier freshness" amendment pre-flagged last week has not been codified, and the inertia loop closes again. This is now a 2-week proven pattern qualifying for codification.
+- **The breakout came on Iran-peace-hope headlines, not on the cyclical-reflation tailwind from 6/05** — meaning XLB's "leader working" was a headline-driven beta event, not a fundamentals-driven sector-momentum confirmation. The structural thesis (ISM 54.0 + ADP 122K + ISM Services 54.5) did not move the price for 22 sessions; one peace headline did. Risk: the gain is as fragile as the headline.
+- Sector rotation print Thu (Materials/Financials/Utilities led; only 2 sectors red) was the broadest "everything works" Leading-quadrant signal of the phase — and the bot has now missed two consecutive such prints (5/29 Healthcare+Financials rotation, 6/11 broad Materials/Financials/Utilities) without protocol response.
+- Perplexity 401 persists 35 sessions running — research path remains fully WebSearch-dependent; no escalation/resolution.
+
+### Key Lessons
+- **Single-position concentration is the cap on upside, not the source of downside protection.** Week 7 proved it: XLB ripped +2.58% on cost in a +1.6% SPX week, and the bot still trailed by 1.15%. With 1 position at 15% of equity, even a 5% rip in the position only moves the book 0.75% — the math doesn't math against a broad melt-up unless we are also holding 4-5 other Leading names.
+- **The Wed 6/10 flush was the clearest Path-A deployment signal of the phase** (Materials oversold in a peace-deal-hope tape, RRG Leading return, XLB itself $2.06 above GTC trail) — and the rule that was *supposed* to force action did not because Rule 12 only triggers on the *Monday* after a sub-75% Friday, not on intra-week oversold prints. The rule covers the wrong day.
+- **Rule 12's "either deploy OR disqualify" structure is mathematically asymmetric**: deploying requires conviction, disqualifying requires only a paragraph. The path of least resistance is documented inaction, and that is what has happened both Mon 6/01 and Mon 6/08. The amendment under consideration (disqualifier freshness) is a Band-Aid; the actual fix is to invert the default: the Monday after 2+ consecutive sub-75% Fridays should DEFAULT to deployment unless a disqualifier set materially different from the prior week's is logged.
+- **XLB's $52.77 hwm has now stood for 22 trading sessions through 3 distinct catalyst windows** (cyclical-reflation trifecta, hot-PPI flag, peace-deal rally). Friday closed $0.57 below — Mon 6/15 is the cleanest hwm-break setup of the position's life. If $52.77 prints early next week, this is also the cleanest "follow the leader" Path-A signal in 6 weeks.
+- Holding through 3 flush events (May 19 $49.01, Jun 8 $50.04, Jun 10 $49.55) and seeing the position recover each time validates the GTC trail. Surviving the test is not the same as executing the trade — exit-side discipline is A+, entry-side discipline remains F.
+
+### Adjustments for Next Week
+- **Rule 12 amendment codified this review** — the path-of-least-resistance failure mode (recycled disqualifiers two weeks running) is now a 2-week proven pattern, meeting the strategy's threshold for codification. New language: "If the Path-B per-ticker disqualifier set is >50% verbatim from the prior week's entry, the trigger is NOT satisfied and Path A (deployment on the single highest-conviction Leading-quadrant uncorrelated ETF) is the default." Also adding: "If an intra-week flush (any held position closing within $3 of GTC trail OR ≤2% above manual -7% cut) occurs AND a Leading-quadrant ETF is oversold (>2 standard deviations below 21-EMA OR closes in lower 10% of 20-day range), the next session is a mandatory Path-A scan, regardless of weekly cap status."
+- **Mon 6/15 is the 4th consecutive Forced-Action mandatory session.** With Rule 12 now amended, the Mon entry MUST include Path-A deployment unless the per-ticker disqualifier set is materially fresh. Watchlist: XLB add-on at hwm break (partial 5% only per the May 29 operational note); SMH on peace-deal-rally continuation; XLF on Thu sector-rotation follow-through; XLV on defensive-rotation print. XLE only on confirmed Iran-deal signature.
+- **XLB action plan**: if $52.77 hwm prints Mon/Tue → tighten trail evaluation: not at +15% yet ($58.51 trigger), so no trail-tightening rule fires, but consider partial add of 5% (~$500) to test the breakout commitment per the operational rule. If XLB fails $52.77 twice and rolls back below $51 with RRG Materials Velocity printing red → manually trim half to free capital for an uncorrelated leader.
+- Add explicit watchlist tracking for XLV + XLF + SMH (Thu 6/11 broad-rotation candidates): need Mon-Tue follow-through to the Thu print to qualify for entry; single-day chase remains disqualifying.
+- Perplexity API: 35 sessions of 401 = formal stop-logging. Remove the per-day "fell back to WebSearch" asterisk from research entries going forward. WebSearch is the primary research path. (Codifying in TRADING-STRATEGY.md this review.)
+
+### Strategy Rule Change
+- **TRADING-STRATEGY.md updated this review** — Rule 12 amended with (a) disqualifier-freshness clause (>50% verbatim from prior week's entry invalidates the Path-B trigger), and (b) intra-week flush-trigger clause (held position within $3 of trail OR ≤2% above manual cut + oversold Leading-quadrant ETF = mandatory next-session Path-A scan). Both amendments meet the 2-week-proven threshold (Mon 6/01 + Mon 6/08 recycled-disqualifier pattern; Wed 6/10 flush-day no-action). Also adding a research-tooling status note: Perplexity 401 is structural, WebSearch is the formal primary research path.
+
+### Overall Grade: C
+Capital preserved (+0.45% week, fresh phase high $10,037.70), XLB ripped to best on-cost mark since May 14 (+2.58%), GTC trail held through Wed flush ($49.55, only $2.06 above trail), every Tier-1 binary of a 4-binary week avoided. Strong tactical defense again. **But: seventh consecutive zero-new-entry week; seventh consecutive ~85% cash week; lagged S&P by ~1.15% in a +1.6% peace-deal-rally week**; the held position's breakout was the entire alpha story, and even that under-delivered vs the broad tape because of single-position concentration. **Rule 12 satisfied procedurally for the 2nd straight week without behavior change** — the recycled-disqualifier pattern is now a 2-week proven failure mode and the amendment is being codified this review. The Wed 6/10 flush was the cleanest Path-A entry signal of the phase, and the rule did not cover the case. Defensive grade A; rule-execution grade B; participation grade F. Seven weeks in, the bot has one trade. The held position carried the book this week — that is not a strategy, that is a hostage situation. The Rule 12 amendments codified here are the last procedural intervention before a discretionary override is warranted.
