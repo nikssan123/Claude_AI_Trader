@@ -292,3 +292,11 @@ No positions. No trades today. Trades this week: 0/3.
 | XLB | 29 | $50.88 | $52.52 | +0.65% | +$47.56 (+3.22%) | $47.88 (trail 10%, hwm $53.195) |
 
 **Notes:** Week 8 opens green and XLB punched a fresh high. Price tacked on +0.65% to $52.52 — third straight up close — pushing unrealized to +$47.56 (+3.22%), best since the May 14 peak. The $52.77 hwm broke intraday: broker trail stretched to hwm $53.195 with stop bumped from $47.49 to $47.8755 — first hwm update in a month. Manual -7% cut remains $47.32 ($5.20 of room — most all phase). Account +$9.42 (+0.09%) day, +$47.56 (+0.48%) phase — fresh phase high. No trades today; week opens 0/3 cap used (seventh straight no-trade week — patience continues). Cash 84.84% — dry powder fully intact. Position still well shy of +15% trail-tighten trigger ($58.51). Tomorrow: rerun premarket scan, watch XLB for follow-through above $53 / break of $53.195 hwm (would stretch the trail again), otherwise hold the GTC trail; hunt an uncorrelated RS leader (avoid cyclical stacking) — deploy only on a clean setup within risk rules.
+
+### Jun 16 — EOD Snapshot (Day 37, Tuesday)
+**Portfolio:** $10,053.36 | **Cash:** $8,524.48 (84.79%) | **Day P&L:** +$5.80 (+0.06%) | **Phase P&L:** +$53.36 (+0.53%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+| XLB | 29 | $50.88 | $52.72 | +0.42% | +$53.36 (+3.62%) | $47.88 (trail 10%, hwm $53.195) |
+
+**Notes:** Quiet green follow-through. XLB ticked +0.42% to $52.72 — fourth straight up close — extending unrealized to +$53.36 (+3.62%), fresh post-flush high. Price closed $0.48 below the $53.195 hwm — broker trail unchanged (stop $47.88). Manual -7% cut remains $47.32 ($5.40 of room — best all phase). Account +$5.80 (+0.06%) day, +$53.36 (+0.53%) phase — fresh phase high. No trades today; week 0/3 cap used. Cash 84.79% — dry powder fully intact. Position still well shy of +15% trail-tighten trigger ($58.51). Tomorrow: rerun premarket scan, watch XLB for break of $53.195 hwm (would stretch the trail again) / follow-through above $53, otherwise hold the GTC trail; hunt an uncorrelated RS leader (avoid cyclical stacking) — deploy only on a clean setup within risk rules.
