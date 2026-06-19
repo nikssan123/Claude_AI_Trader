@@ -378,3 +378,68 @@ Capital preserved (-0.24% week, beat S&P by +0.31%), Rule 12 Path-B procedurally
 
 ### Overall Grade: C
 Capital preserved (+0.45% week, fresh phase high $10,037.70), XLB ripped to best on-cost mark since May 14 (+2.58%), GTC trail held through Wed flush ($49.55, only $2.06 above trail), every Tier-1 binary of a 4-binary week avoided. Strong tactical defense again. **But: seventh consecutive zero-new-entry week; seventh consecutive ~85% cash week; lagged S&P by ~1.15% in a +1.6% peace-deal-rally week**; the held position's breakout was the entire alpha story, and even that under-delivered vs the broad tape because of single-position concentration. **Rule 12 satisfied procedurally for the 2nd straight week without behavior change** — the recycled-disqualifier pattern is now a 2-week proven failure mode and the amendment is being codified this review. The Wed 6/10 flush was the cleanest Path-A entry signal of the phase, and the rule did not cover the case. Defensive grade A; rule-execution grade B; participation grade F. Seven weeks in, the bot has one trade. The held position carried the book this week — that is not a strategy, that is a hostage situation. The Rule 12 amendments codified here are the last procedural intervention before a discretionary override is warranted.
+
+## Week ending 2026-06-19
+
+### Stats
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $10,038.14 (Fri 6/12 close → Mon 6/15 baseline) |
+| Ending portfolio | $10,026.97 (Fri 6/19 Juneteenth — markets closed) |
+| Week return | -$11.17 (-0.11%) |
+| S&P 500 week | ~+0.7% (Mon Iran-deal rip → Tue Empire MISS → Wed FOMC hawk-dot SPX -1.21% to 7,420.10 → Thu modest recovery; Fri Juneteenth closed) |
+| Bot vs S&P | ~-0.8% |
+| Trades | 0 new (W:0 / L:0 / open:1 XLB carry-over) |
+| Win rate | n/a (no closed trades) |
+| Best trade | XLB +3.62% (Tue $52.72 — best on-cost mark since May 14 peak, only position) |
+| Worst trade | XLB +1.83% (Thu $51.81 / Fri $51.81 holiday hold, only position) |
+| Profit factor | n/a |
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+| — | — | — | — | None this week |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+| XLB | $50.88 | $51.81 | +$26.97 (+1.83%) | $47.979 (10% trail, hwm $53.31) |
+
+### What Worked
+- **XLB $52.77 hwm finally broke Mon 6/15 after 28 sessions** — Iran-deal-complete risk-on gap stretched hwm to $53.195; intraday Wed 6/17 print bumped hwm again to $53.31; trail stop stretched from $47.49 → $47.979 (first hwm update of the position since May 14). Operational win: "let the leader work" thesis vindicated structurally, not just on a single-day pop.
+- **Survived FOMC hawk-dot Wed -1.21% SPX flush with $21.46 give-back only** — Warsh first press conf + 2026 median dot rev to 3.8% from 3.4% + 9 of 18 dots projecting ≥1 hike was a clean Tier-1 binary; XLB -1.40% on the print held well above $50 and $4.66+ above manual cut. The binary did not break the position.
+- **Refused every Day-1 chase**: Mon Iran-deal risk-on rip (gap-and-fade trap), Wed FOMC dot-plot reveal (don't pre-position into binaries), Thu post-FOMC bounce into Juneteenth-closed Fri illiquid tape, Sat Iran-signing tail. Zero exposure to any single binary.
+- **Rule 12 Path-B executed for the 3rd consecutive week, freshness verified per 12a** — Mon 6/15 per-ticker disqualifiers rooted in this week's catalysts (Iran-deal Day 2/3 unwind, Mich expectations cool = duration not defensive, ORCL AH AI-guide-low, Empire State 13.2 cons cooling, FOMC Warsh-debut blackout active). No verbatim recycle from Mon 6/08. Rule 12a is doing its narrow job — keeping documentation honest.
+- GTC trail discipline intact; hwm $53.31 is the highest standing mark of the position's life and the trail floor is now $5.99 above the May entry cost basis.
+
+### What Didn't Work
+- **EIGHTH consecutive zero-new-entry week** — Mon 6/15's Iran-deal-complete risk-on gap with VIX -13.73% to 16.77 + RRG Materials Leading + XLB hwm break setup was arguably the cleanest "follow the leader" Path-A signal of the phase, and Path B was elected anyway. The Rule 12a freshness check passed, but the path-of-least-resistance default (disqualify > deploy) remains intact.
+- **EIGHTH consecutive ~85% cash week** — deployment-floor rule (75-85%) violated for the entire phase. Cumulative tracking error vs S&P now ~7% over 8 weeks. The pre-flagged "Rule 12 default-flip" amendment from last week's review (invert the default: deploy unless freshly-disqualified) was deferred this week to give 12a/12b a single week of data — that single week produced another no-action result.
+- **Operational add-trigger bypassed** — May 29's operational rule was explicit: "if XLB breaks + holds $52.77 hwm, consider partial add of 5% (~$500) to test the breakout commitment." Mon 6/15 broke hwm intraday to $53.195 AND closed above the prior hwm at $52.52; Tue 6/16 followed through to $52.72 (+3.62% on cost — best mark in 28 sessions). The add was not considered or documented in either day's research entry. The rule was forgotten, not declined.
+- **Lagged S&P ~0.8% in a modestly green tape** — even with the held position's best mark since May 14 peak (+3.62% Tue) and a structurally favorable hwm-break event, the bot still trailed because single-position 15% concentration cannot compete with broad-market participation. Same diagnosis as week 7: the math doesn't math.
+- **Wed FOMC hawk-dot was a sector-rotation signal not actioned** — Dow -500pts / NDX hit / 2y +16bps to 4.216% / duration-sensitive XLK/XLRE crushed = textbook curve-steepening favors XLF (Financials NIM) and cyclicals less reliant on duration. The rotation print was logged in Thu 6/18 research and skipped on "post-FOMC-hawk Day After + Juneteenth-closed Fri + Iran-signing Sat = wrong holding window" — fair tactical reason, but the bot now has TWO unresponded broad-rotation prints (5/29 Healthcare+Financials, 6/11 Materials/Financials/Utilities) plus this one.
+- Perplexity 401 persists 40 sessions running — stop-logging confirmed last week, WebSearch is the formal primary research path per TRADING-STRATEGY.md.
+
+### Key Lessons
+- **The XLB hwm break confirmed the held-position thesis but exposed the concentration cost.** The position printed +3.62% on cost Tue — the strongest mark of its life — and the book moved +0.53% phase. A second 15% sleeve at any uncorrelated Leading-quadrant ETF (XLF post-FOMC curve-steepener; SMH on post-ORCL consolidation if it had emerged) would have at minimum doubled the participation in the favorable tape. The math is now empirically validated, not theoretical: 1 position × 15% = ~6-7% of broad-tape participation. Confirmed for 8 weeks running.
+- **Rule 12a (disqualifier freshness) is doing its narrow job but the rule is structurally one-sided.** Mon 6/15 disqualifiers were fresh, rooted in this week's tape, no verbatim recycle — and Path B still resolved to "preserve all 3 slots." The Wed 6/17 and Thu 6/18 entries were not Path-B trigger days but were each fresh chances under 12b (intra-week flush trigger never met because XLB stayed +$4.66+ above manual cut). The path-of-least-resistance is now "fresh disqualifier" instead of "recycled disqualifier" — same destination, prettier documentation. **The default-flip amendment pre-flagged last week is now a 2-week-proven need; codifying next week if Mon 6/22 produces another fresh-Path-B no-action result.**
+- **Operational add-trigger discipline is missing.** May 29's operational rule for XLB hwm-break partial-add was the most specific actionable signal in the rulebook — a $0.05/$0.10/$0.20 break of $52.77 was a known-in-advance entry trigger. It fired Mon 6/15. The bot did not act and did not document declining to act. This is worse than the Rule 12 inertia: that rule has structural ambiguity, this one had a price level and a size. Rule 13 candidate: operational add-triggers require explicit Y/N logging on the trigger day, with the rationale, not silent passage.
+- **Holding through FOMC hawk-dot binary validated the GTC trail under a Tier-1 binary not centered on the position itself.** Wed 6/17 was duration-driven (2y +16bps) — XLB took -1.40% as a peripheral hit, recovered ground Thu/Fri. The exit-side architecture is now battle-tested across 3 distinct binary types: idiosyncratic (May 15 -2.65% post-PCE), geopolitical (Jun 10 Iran-strikes flush -2.40%), and macro (Jun 17 FOMC hawk-dot -1.40%). Trail held all three. Exit-side discipline grade A+.
+- **A Juneteenth-closed Fri is an asymmetric weekly tail** — the bot held into a 3-day weekend with Iran formal signing Sat 6/20 in Switzerland as a known headline binary, with zero ability to react before Mon 6/22 open. The "wrong holding window" reasoning was correct for fresh entries; the same logic should have driven a partial XLB trim if the position were larger or the trail were tighter, but at 15% sleeve and $4.66+ above cut, the risk was contained. Acceptable tactical hold; would not be acceptable at 4-position sizing.
+
+### Adjustments for Next Week
+- **Mon 6/22 is the 5th consecutive Forced-Action mandatory session AND the first post-Juneteenth post-Iran-signing session.** Per Rule 12 + 12a, fresh per-ticker disqualifiers required. Watchlist with leading edges to consider:
+  - **XLF (Financials)** — post-FOMC hawk-dot curve-steepener trade (2y +16bps); NIM tailwind; uncorrelated to XLB Materials. Fresh thesis, not on prior weeks' Path-B logs.
+  - **XLE (Energy)** — Iran deal SIGNED Sat 6/20 = oil-floor uncertainty resolves one way or the other; if Brent holds $78-80 post-signing into Mon, knife-catch becomes confirmation entry. Watch the open.
+  - **XLB add-on (partial 5%)** — operational rule from May 29 fired Mon 6/15 and was missed; if XLB holds $52 and reclaims $53 early week, the partial add is back on the table (max $500 sleeve only).
+  - **SMH** — post-ORCL/ACN post-FOMC duration crush digest; only on multi-day RS confirmation, no Day-1 chase.
+  - XLI **disqualified pre-emptively** (Rule 9 cyclical-stack with XLB).
+  - XLP / XLV / XLRE **disqualified pre-emptively** (hawk-dot duration unwind).
+- **Rule 12 default-flip amendment pre-flagged for codification at next Friday's review** if Mon 6/22 Path-B fresh-disqualifier result also produces no action. Proposed language: "If Rule 12 triggers (Path-B mandatory-action day) AND a Leading-quadrant uncorrelated ETF has a same-week catalyst-confirmed thesis (FOMC sector-rotation print, geopolitical resolution signature, RRG quadrant transition), Path A (deployment on highest-conviction such name) is the default. Path B requires the disqualifier to address the specific catalyst-confirmed thesis, not generic risk factors." This narrows the inertia loophole substantially.
+- **Rule 13 candidate (NEW)** — pre-flagging for codification in 1-2 weeks: "Any operational add-trigger explicitly defined in the prior week's review (e.g., XLB partial-add on hwm break) requires explicit Y/N logging in the research entry for the trigger day, with rationale. Silent passage of a known operational trigger = unforced procedural error." Mon 6/15's missed hwm-break add is exhibit A.
+- **XLB action plan**: hwm $53.31 stands; if Mon/Tue reclaims $53 and follows through, consider partial 5% add per the May 29 operational rule (explicit Y/N this time). If XLB rolls back below $51 and RRG Materials Velocity prints red OR loses $50 decisively → manually trim half toward the freed-capital Path-A entry. Trail $47.979 + manual cut $47.32 handle any whip.
+- Perplexity API: 40 sessions of 401 = unchanged. WebSearch primary. No further status logging.
+
+### Strategy Rule Change
+- **No formal TRADING-STRATEGY.md edits this review.** Rule 12 + 12a + 12b codified last week deserve a full week of post-codification data; this week was the first week with all three clauses active. 12a passed cleanly (fresh disqualifiers Mon 6/15), 12b did not trigger (no intra-week flush). Rule 12 itself produced no action, confirming the default-flip amendment is the right next intervention — but holding off on codification until Mon 6/22 produces one more datapoint. Pre-flagged this review for next Friday.
+
+### Overall Grade: C-
+Capital preserved (-0.11% week, modest give-back from $10,053-$10,059 phase plateau to $10,026.97), XLB hwm finally broke after 28 sessions to $53.31 (operational win), survived FOMC hawk-dot Wed -1.21% SPX without breaking the trail, every Tier-1 binary of a 3-binary week avoided. **But: eighth consecutive zero-new-entry week; eighth consecutive ~85% cash week; lagged S&P by ~0.8% in a +0.7% week**; the May 29 operational add-trigger (XLB hwm-break partial add) fired Mon 6/15 and was silently bypassed — first known-in-advance operational signal missed in the phase. Rule 12 + 12a + 12b passed their first post-codification week procedurally but produced the same no-action outcome, confirming the default-flip amendment pre-flagged last week is the structurally correct next intervention. The held position's hwm break is the entire alpha story of the week, exactly as it was in week 7, exactly as it will be next week if Mon 6/22 produces another fresh-Path-B no-action result. Defensive grade A+ (3 binary types battle-tested across the position's life: PCE, geopolitical, FOMC); rule-execution grade B (Rule 12a worked, May 29 operational trigger missed); participation grade F. **Mon 6/22 is the codification decision day for Rule 12 default-flip + Rule 13 operational-trigger logging.**
