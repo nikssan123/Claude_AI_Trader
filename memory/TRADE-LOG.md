@@ -316,3 +316,11 @@ No positions. No trades today. Trades this week: 0/3.
 | XLB | 29 | $50.88 | $51.81 | -0.40% | +$26.97 (+1.83%) | $47.979 (trail 10%, hwm $53.31) |
 
 **Notes:** Quiet drift session. XLB slipped -0.40% to $51.81, trimming unrealized to +$26.97 (+1.83%) from yesterday's +$31.90 — second straight red day after the four-day green streak, but the position remains comfortably above water. Broker trail unchanged at hwm $53.31 / stop $47.979 (price closed $1.50 below hwm). Manual -7% cut remains $47.32 ($4.49 of room — still ample). Account -$4.93 (-0.05%) day, +$26.97 (+0.27%) phase — holds the recent gains, well clear of the May 22 phase lows. No trades today; week 0/3 cap used (eighth straight no-trade week — patience continues). Cash 85.02% — dry powder fully intact. Position still well shy of +15% trail-tighten trigger ($58.51). Tomorrow (Friday): rerun premarket scan, watch XLB for reclaim of $52 / hold of $51.50, otherwise hold the GTC trail; hunt an uncorrelated RS leader (avoid cyclical stacking) — deploy only on a clean setup, otherwise prep weekly review.
+
+### Jun 19 — EOD Snapshot (Day 40, Friday)
+**Portfolio:** $10,026.97 | **Cash:** $8,524.48 (85.02%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** +$26.97 (+0.27%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+| XLB | 29 | $50.88 | $51.81 | 0.00% | +$26.97 (+1.83%) | $47.979 (trail 10%, hwm $53.31) |
+
+**Notes:** Flat session — XLB closed unchanged at $51.81, unrealized holds at +$26.97 (+1.83%). Broker trail unchanged at hwm $53.31 / stop $47.979 (price $1.50 below hwm). Manual -7% cut remains $47.32 ($4.49 of room — still ample). Account $0 (0.00%) day, +$26.97 (+0.27%) phase — gains held into the week-8 close. No trades today; week closes 0/3 cap used (eighth straight no-trade week — patience continues). Cash 85.02% — dry powder fully intact entering week 9. Position still well shy of +15% trail-tighten trigger ($58.51). Weekly review pending. Monday: rerun premarket scan, watch XLB for break of $53.31 hwm (would stretch the trail) / reclaim of $52, otherwise hold the GTC trail; hunt an uncorrelated RS leader (avoid cyclical stacking) — deploy only on a clean setup within risk rules.
