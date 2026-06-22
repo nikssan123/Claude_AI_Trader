@@ -324,3 +324,11 @@ No positions. No trades today. Trades this week: 0/3.
 | XLB | 29 | $50.88 | $51.81 | 0.00% | +$26.97 (+1.83%) | $47.979 (trail 10%, hwm $53.31) |
 
 **Notes:** Flat session — XLB closed unchanged at $51.81, unrealized holds at +$26.97 (+1.83%). Broker trail unchanged at hwm $53.31 / stop $47.979 (price $1.50 below hwm). Manual -7% cut remains $47.32 ($4.49 of room — still ample). Account $0 (0.00%) day, +$26.97 (+0.27%) phase — gains held into the week-8 close. No trades today; week closes 0/3 cap used (eighth straight no-trade week — patience continues). Cash 85.02% — dry powder fully intact entering week 9. Position still well shy of +15% trail-tighten trigger ($58.51). Weekly review pending. Monday: rerun premarket scan, watch XLB for break of $53.31 hwm (would stretch the trail) / reclaim of $52, otherwise hold the GTC trail; hunt an uncorrelated RS leader (avoid cyclical stacking) — deploy only on a clean setup within risk rules.
+
+### Jun 22 — EOD Snapshot (Day 41, Monday)
+**Portfolio:** $10,022.33 | **Cash:** $8,524.48 (85.06%) | **Day P&L:** -$4.64 (-0.05%) | **Phase P&L:** +$22.33 (+0.22%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+| XLB | 29 | $50.88 | $51.65 | -0.31% | +$22.33 (+1.51%) | $47.979 (trail 10%, hwm $53.31) |
+
+**Notes:** Quiet red open to week 9. XLB slipped -0.31% to $51.65, trimming unrealized to +$22.33 (+1.51%) from Friday's +$26.97 — third red close in the last four sessions but the position remains comfortably above water. Broker trail unchanged at hwm $53.31 / stop $47.979 (price closed $1.66 below hwm). Manual -7% cut remains $47.32 ($4.33 of room — still ample). Account -$4.64 (-0.05%) day, +$22.33 (+0.22%) phase — gains largely intact. No trades today; week opens 0/3 cap used. Cash 85.06% — dry powder fully intact. Position still well shy of +15% trail-tighten trigger ($58.51). Tomorrow: rerun premarket scan, watch XLB for hold of $51.50 / reclaim of $52, otherwise hold the GTC trail; hunt an uncorrelated RS leader (avoid cyclical stacking) — deploy only on a clean setup within risk rules.
