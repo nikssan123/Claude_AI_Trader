@@ -1759,3 +1759,46 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD — Path B disqualifier set documented (Rule 12 trigger compliant).** Day 41, Week 9 Day 1 (Monday — **XLB EX-DIVIDEND DAY $0.1932/sh = $5.60 cash payable Wed 6/24; mechanical ~$0.19 gap-down at open ≠ signal**), 1 position (XLB **+1.83% unrealized / +$26.97 pre-div basis; post-ex-div fair value ~$51.62; trail $47.979 GTC hwm $53.31; manual cut $47.32 = $4.30 cushion post-div**), 85.02% cash, equity **$10,026.97 (unchanged across Juneteenth)**. **Today's tape:** Iran-US Switzerland talks RESUMED — VP Vance Round 1 with Iran officials (deja-vu Day 1 strain restart after Thu cancel); Brent back >$80 ($80.84, +1%) / WTI $78.50 (+2%) on risk-premium return; ES futures slipping Sunday; VIX expanded 16.41→16.78; FOMC hawk-dot Day 4 hangover continues. **Rule 12 Forced-Action Protocol TRIGGER ACTIVE** (8 consecutive Fridays with deployment <75% + 0/3 used) — Path B disqualifier set logged: XLE (RRG officially downgraded Weakening this week — STRUCTURAL leadership lost; Vance Round-1 binary tail), XLK/SMH (RRG Lagging confirmed; MU Wed earnings; PCE Thu duration-crush risk), XLI (Rule 9 cyclical-stack with XLB; first real-time FOMC-hawk cyclical-compression print Wed -1.21%; oil bid back input-cost headwind), XLP (futures-slip + Iran-strain = defensive bid likely but PCE Thu hawk-headwind double-stack; candidate IF Thu PCE cool), XLF (curve dynamics chaotic 1-wk post-FOMC). **12a freshness PASS** — XLE RRG-demote is THIS-WEEK new; XLK MU-earnings-week + PCE-week are NEW; XLP direction-flip (futures-slip vs prior week's risk-on) NEW; XLI FOMC-hawk-print is NEW vs prior speculation. **12b NOT triggered** ($3.83 cushion to trail). Path A skipped because Path B disqualifier set valid; XLP is the lone uncorrelated Leading candidate but PCE Thu hawk-headwind risk = wait for Thu print. **Watchlist (intra-day Mon 6/22):** (a) XLB ex-div mechanic confirm — open ~$51.62 fair value, watch broker stop auto-adjust; (b) Iran-Vance Round-1 headline tape — equities + oil + USD reaction; (c) reclaim $52 / break $51 on XLB = direction read; (d) prep PCE Thu 6/25 8:30 ET scan in 3 sessions for Path-A re-eval. **Patience > activity — 8 closed no-trade weeks but equity +$26.97 positive on phase; $5.60 ex-div cash incoming Wed; no Rule 12b flush trigger; cash 85.02% intact for post-PCE asymmetry deployment if Thu prints cool.**
+
+## 2026-06-23 — Pre-market Research
+
+### Account
+- Equity: $10,008.70 (intraday MTM, last_equity $10,021.46)
+- Cash: $8,524.48 (85.17%)
+- Buying power: $38,253.74
+- Daytrade count: 0
+- Position: XLB 29 sh @ $50.88, current $51.18 (-0.85% pre-open), unrealized +$8.70 (+0.59%)
+- GTC trail: stop $47.979 / hwm $53.31 / trail 10% (price $3.20 above stop — outside 12b $3 trigger)
+- Manual -7% cut: $47.32 ($3.86 of room — 7.5% above)
+- **XLB ex-div Mon 6/22, $0.1932/sh payable Wed 6/24** — explains ~$5.60 of the recent share-price drag (accounting, not loss)
+
+### Market Context
+- **WTI ~$75.19** (-$1.41 from prior); Iran/Hormuz tape still active (Hezbollah/Lebanon sidebar) — oil whip risk persists
+- **S&P 500 futures:** weakened overnight on oil spike threat; tape choppy
+- **VIX 17.28** (6/22 close) — moderate, not stressed
+- **Today's catalysts (light slate):**
+  - GDP Q1 3rd release 8:30 ET (backward-looking)
+  - Michigan Sentiment Final 10:00 ET (prelim was 48.9, +9% MoM; 1y inflation 4.6%, 5-10y 3.4%)
+  - NY Fed Staff Nowcast 11:45 ET
+  - 4 econ events total — quiet day pre-PCE
+- **Earnings:** ~29 reports; FDX AMC (logistics/global-trade tell) — read-through to XLI/XLB
+- **THIS WEEK:** Thu 6/25 Core PCE — main macro event; quiet until then
+- **Sector momentum YTD:** XLV +22% (leader, defensive flight-to-safety) | XLE at ATH | XLP at ATH | XLK cooling (AI-capex doubts) | XLB cyclical-defensive blend
+
+### Trade Ideas
+1. **XLV (Healthcare)** — YTD leader +22%, defensive RS, uncorrelated to XLB Materials. Watch for entry on pullback / consolidation; no clean setup today pre-PCE.
+   - *Disqualifier (today's tape):* No fresh catalyst into Thu PCE; running into pre-data positioning vacuum — wait for post-PCE confirmation print.
+2. **XLP (Consumer Staples)** — at ATH, defensive RS, uncorrelated.
+   - *Disqualifier (today's tape):* Extended at ATH with no pullback structure; chase risk into earnings + PCE week.
+3. **XLE (Energy)** — at ATH with Iran/Hormuz oil whip as forward catalyst.
+   - *Disqualifier (today's tape):* Hormuz reopening = oil-spike-reversal whip risk both ways; binary headline tape — not a clean setup.
+
+### Risk Factors
+- Pre-PCE positioning vacuum (Thu 6/25 Core PCE = week's main event)
+- FDX AMC = XLI/XLB read-through; global-trade demand tell
+- Iran formal-signing logistics 6/19 + ongoing Hezbollah/Lebanon sidebar = headline-flow whip
+- XLB pre-open -0.85% on ex-div drag + soft tape — closer to GTC ($3.20 of room vs $3 trigger; just outside 12b)
+- Forced-Action Path-A trigger ACTIVE entering Mon 6/22 but Monday recycled disqualifiers (8th straight no-trade week) — pattern persists
+
+### Decision
+**HOLD.** Patience > activity into Thu PCE / FDX AMC. XLB GTC + manual cut intact; position above water on the phase. Path-A scan defaulted Mon 6/22 (Path-B re-used); Tue is not the mandatory-action session. Watch XLB for $52 reclaim / $53.31 hwm break (would stretch trail); $51 break = monitor toward $50/manual-cut. No new trades — week 0/3 cap, slot reserved for clean post-PCE setup.
