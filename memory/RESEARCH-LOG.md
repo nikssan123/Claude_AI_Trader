@@ -1802,3 +1802,65 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD.** Patience > activity into Thu PCE / FDX AMC. XLB GTC + manual cut intact; position above water on the phase. Path-A scan defaulted Mon 6/22 (Path-B re-used); Tue is not the mandatory-action session. Watch XLB for $52 reclaim / $53.31 hwm break (would stretch trail); $51 break = monitor toward $50/manual-cut. No new trades — week 0/3 cap, slot reserved for clean post-PCE setup.
+
+
+## 2026-06-24 — Pre-market Research (Wed — Week 9 Day 3; **MU earnings AMC — chip/AI sector binary tonight**; FDX -6% AH on FY27 transition-year guide = XLI/XLB headwind; **US grants Iran 60-day oil export license = WTI/Brent leg LOWER (not bounce)**; XLB ex-div PAY DATE today ($5.60 cash incoming); PCE Thu 6/25 8:30 ET = week catalyst; XLB hovering $2.47 above GTC trail — **Rule 12b prong (a) MET**)
+*(Perplexity API 401 invalid_api_key persists — WebSearch primary path per strategy.)*
+
+### Account
+- Equity: **$9,987.56 (first close below $10k since Jun 10 flush)**; last_equity $9,999.71
+- Cash: $8,524.48 (85.35%)
+- Buying power: $38,194.54 (RegT $18,512.04)
+- Daytrade count: 0
+- Position: XLB 29 sh @ $50.88, mark **$50.451** (Tue 6/23 close, -0.82% intraday from $50.87 prior), unrealized **-$12.44 (-0.84%) — fresh phase low; gives back the full +$26.97 cushion**
+- GTC trail: stop **$47.979** / hwm $53.31 / 10% trail / qty 29 active (no broker auto-adjust for $0.1932 ex-div observed)
+- Manual -7% cut: **$47.32** ($3.13 of room / 6.2% above spot — tightest in weeks; >2% above = 12b prong (b) NOT met)
+- **Rule 12b prong (a) MET — $50.451 − $47.979 = $2.47 < $3 GTC threshold.** Leading-quadrant oversold check: 20-day range hi $53.31 / lo $49.55 ($3.76 spread); lower 10% boundary = $49.93. XLB $50.45 sits in lower 14% of 20-day range — close but **NOT in lower 10%**, and 21-EMA standard-dev test not satisfied at one-day pullback. **12b oversold prong NOT met → 12b not fully triggered today; arms tomorrow if XLB closes ≤$49.93**
+- $5.60 XLB cash dividend payable today (29 sh × $0.1932 ex-div Mon 6/22) — settles into cash balance EOD
+
+### Market Context
+- **WTI ~$73.40 (-$1.41 / 3-mo low), Brent ~$76.68 (-$0.84 from $77.52)** — **US granted Iran 60-day oil export license** = structural supply increase priced in = deal-fade re-accelerates (NOT a bounce on Vance-Round-1 strain). Brent broke $80 down. Energy sector double-headwind: deal-fade + 60-day OFAC license
+- **S&P 500 / Nasdaq futures modestly higher premarket** after 2 sessions of declines (NDX 100 lost >$1T mcap on hyperscaler-capex doubts + FOMC-hawk-dot repricing). Memory chips bounce — MU +3.8% / Sandisk +3.5% premarket
+- **VIX 19.49** (prior close, 10:08 ET print 6/24) — meaningfully expanded from Mon 16.78 → Tue 17.28 → now 19.49 = stress regime re-engaged. Sub-18 compressed regime broken; first 19+ print in ~4 weeks
+- **2-year Treasury 4.18% (off 52-week-high 4.21% Tue)** — FOMC-hawk-dot repricing fully visible in curve; PCE Thu = next leg trigger
+- **Today's catalysts (5):** Current Account Balance, EIA Crude Inventories, MBA mortgage apps (light slate); Q1 GDP 3rd revision Wed mid-am; 21 econ events / 16 earnings scheduled
+- **MU EARNINGS AMC 6/24 (THE binary tonight):** consensus $19.72 EPS / $34.5B rev; co. guided $33.5B / 81% GM; HBM4 capacity sold out into early 2027; **10-day IV ~120% = extreme premium; analysts flag "asymmetric DOWNSIDE risk" due to extreme bullish call positioning** — needs beat+raise of unusual magnitude or selloff likely. Sets XLK/SMH/AI-complex tone for end of week
+- **FDX 6/23 PRINT (AMC):** Q4 EPS **$6.31 vs $5.92 est** beat / Rev $25.0B vs $24.01B est beat / FY26 EPS $20.24 (+11%). **AH -6.16% to $297.70** (closed -3.63% at $316.83 regular). Sell catalyst: **transition-year FY27 guide + Freight-spinoff stranded costs + pilot-contract headwinds** = freight/logistics outlook softening = XLI/XLB cyclical-multiple compression confirmed
+- **Earnings BMO/AMC today:** MU AMC (megacap); Jefferies (JEF), Levi (LEVI), Trip.com (TCOM), H.B. Fuller (FUL), Daktronics (DAKT), NovaGold (NG)
+- **PCE Thu 6/25 8:30 ET (week's #1 catalyst):** Core PCE est **+0.37% MoM / +3.3% YoY** (sticky-elevated post-CPI June 4.2% prior). Hawk-confirm = duration crush extension + XLK/XLY/XLRE headwind; cool surprise = bounce-back trade
+- Sector momentum YTD (Tue 6/23 close basis, fresh):
+  - **Leading: XLP (+7%), XLI (+12%), XLB (+13%), XLE (+26-27% but now FADING — license)** — note: prior week's XLE-demote-to-Weakening confirmed; smartreversals lists Leading set but stockcharts RS-momentum has XLE in decline
+  - **Mega-leader: XLK +32-33% YTD** but **2-day flush + MU binary tonight = Lagging RRG quadrant per tradewithmaya read; selling-exhaustion signal NOT a buy trigger**
+  - **Weakening: XLE (Iran-license = structural unwind Day 1 of 60-day window)**
+  - **Lagging: XLV (-3% YTD), XLF (-5% YTD), XLY (CHWY drag + FDX freight tell)**
+- XLB technicals (6/23): **pivot high $52.06 / pivot low $51.39 (DeMark)**; ETF mark $51.29 per news source vs Alpaca position mark $50.451; price discovery between sources suggests intraday low ~$50.40; spread observed at close: bid $49.50 / ask $52.45 = wide-illiquid stub quote, normal at 4pm tape
+
+### Rule 12 Forced-Action Protocol — STATUS
+- Week 9 cap: **0/3 used** (still — Tue's HOLD continued patience)
+- Friday (6/19) deployment: 85.02% cash (<75% MET — but holiday week, no scan)
+- **Rule 12 mandatory-action session was Monday 6/22** — Path B disqualifier-log elected and verified fresh per 12a. **Wed 6/24 is NOT a forced-action session** (Path B already documented for Week 9). Discretionary scan only
+- **Rule 12b status:** prong (a) MET ($50.45 within $3 of $47.979 trail). Oversold prong NOT met today (XLB 14% from 20-day low, not in lower 10%). **12b arms if XLB closes ≤$49.93** (lower-10% boundary)
+
+### Trade Ideas
+1. **XLB (held) — HOLD.** No add (Rule 5/9). $5.60 ex-div cash settles today. Watch for: (a) **decisive break of $50 + close ≤$49.93 = 12b full trigger** (mandatory Path-A scan next session); (b) manual cut $47.32 ($3.13 of room — close watch); (c) reclaim $51.39 pivot-low / $52.06 pivot-high = stabilization confirm and stretches trail back from threshold
+2. **XLP (Consumer Staples) — DISQUALIFIED (Path B, fresh).** VIX expansion 17→19.5 + tech selloff = textbook XLP defensive bid setup BUT **PCE Thu hawk-confirm = yield-up = duration-sensitive defensive double-headwind**; ATH chase post-bid; reconsider IF Thu PCE prints COOL (≤+0.30% MoM). Skip today; arms for Thu post-print scan
+3. **XLV (Healthcare) — DISQUALIFIED (Path B, fresh).** Recent reads show **-3% YTD = Lagging/Weakening RRG** (smartreversals); no Leading status to trigger Path A; defensive-bid migration unlikely with negative YTD print. Skip
+4. **XLE (Energy) — DISQUALIFIED (Path B, fresh & escalated).** **US granted Iran 60-day oil license TODAY = structural supply increase priced** = deal-fade Day-1 of 60-day window (not just Vance-Round-1 sentiment) = WTI 3-month low confirms; **knife-catch into start of OFAC-license unwind = bottom-decile R:R**. Skip
+5. **XLK / SMH (Tech) — DISQUALIFIED (Path B, fresh).** **MU AMC tonight, 10-day IV ~120%, analysts flag asymmetric DOWNSIDE risk** from extreme bullish call positioning. Entering MU print = single-name binary inside 24-hour holding window. Skip — re-eval Fri 6/26 post-MU print + post-PCE Thu
+6. **XLI (Industrials) — DISQUALIFIED (Path B, fresh & strengthened).** **FDX -6.16% AH on FY27 transition-year guide + Freight stranded-cost confirms cyclical multiple-compression Day 1**; Rule 9 cyclical-stack with held XLB violation; FOMC-hawk + freight-guide-down stack into PCE. Skip
+7. **XLF (Financials) — DISQUALIFIED (Path B, fresh).** YTD -5% Lagging; 2y at 52-wk hi cut to 4.18% Wed = curve dynamics chaotic post-FOMC; PCE Thu hawk-extend risk; no near-term single-name catalyst. Skip
+8. **Path A scan:** Leading set today = {XLB held, XLI cyclical-stacked + FDX-tell, XLP defensive-but-PCE-headwind}. **XLP remains the lone uncorrelated Leading candidate; Path B disqualifier above is FRESH (PCE-Thu-headwind, ATH chase, VIX-expansion-yet-defensive-double-stack) and passes 12a.** Path A skipped — wait Thu PCE print for cleaner asymmetry window
+
+### Risk Factors
+- **MU AMC binary tonight** — single-name AI-memory binary; 10-day IV ~120%; analyst-warned asymmetric DOWNSIDE on positioning; can ignite Thu sector-wide gap risk-on or risk-off (XLK/SMH/AI complex)
+- **PCE Thu 6/25 8:30 ET** — hawk-confirm extends FOMC dot-plot rate-hike repricing → duration crush, yield surge, XLK/XLY/XLRE mixed; cool surprise = bounce-back risk-on (XLK/SMH primary beneficiary)
+- **FDX -6.16% AH signal Wed open gap risk for XLI; XLB cyclical-multiple compression by association** — held XLB at $2.47 above trail = no buffer for sympathy selloff
+- **Iran 60-day oil license = OFAC-blessed supply increase** — XLE deal-fade Day 1 of 60-day structural window; oil-bid back impossible without geopolitical reversal — bias DOWN for crude; XLB chemical/metals input-cost relief offset but cyclical-demand softening dominates if FDX-guide read-through valid
+- **VIX 19.49 expansion** — first 19+ print since pre-FOMC-blackout; vol-shorting flow being unwound (NDX -$1T mcap 2 days); positioning-shock force-deleverage tail
+- **2y at 4.18% (off 4.21% 52-wk hi)** — rate-cut bid gone; refinancing/duration pressure broad
+- **XLB held: $3.13 to manual cut, $2.47 to trail — both tightest in ≥2 months** — 12b prong (a) ACTIVE; one more red close <$49.93 = full 12b mandatory Path-A
+- **Trade slot pressure: Week 9 Day 3 with 0/3 used; 8+ consecutive no-trade weeks** — Rule 12 discipline cost real but Path B for Week 9 already documented Mon 6/22; today is discretionary HOLD
+- **BofA pre-peak checklist elevation persisting** into PCE + MU binary stack
+
+### Decision
+**HOLD — Wed not a forced-action session; XLB GTC trail does its job into MU AMC + PCE Thu.** Day 43, Week 9 Day 3 (Wed — **MU earnings AMC + XLB ex-div pay date $5.60**). 1 position (XLB 29 sh, mark $50.451, unrealized **-$12.44 (-0.84%) — full +$26.97 phase cushion gone; first sub-$10k close since Jun 10**), 85.35% cash, equity **$9,987.56**. **Today's tape:** US grants Iran 60-day oil export license = WTI 3-month low ($73.40) / Brent $76.68 — structural deal-fade Day 1 of OFAC window (NOT Vance-strain bounce); ES/NQ futures modest green after 2-day flush (NDX -$1T mcap); VIX 19.49 (sub-18 compressed regime broken); 2y 4.18%; FDX -6.16% AH on FY27 transition-guide = XLI/XLB cyclical-compression tell. **Rule 12b prong (a) MET** (XLB $2.47 above trail < $3 threshold) BUT oversold prong NOT met (lower 14% not lower 10% of 20-day range) → **12b arms tomorrow if XLB closes ≤$49.93**. **Rule 12 not in effect Wed** (Path B documented Mon for Week 9 cycle). **Path B disqualifier set (informational, all FRESH per 12a):** XLE (60-day OFAC license = structural unwind start, not knife-catch), XLK/SMH (MU AMC 10-day IV ~120% + asymmetric downside flag), XLI (FDX -6% AH FY27 guide + Rule 9 cyclical-stack), XLP (PCE Thu hawk-headwind + ATH chase), XLV (-3% YTD no Leading status), XLF (-5% YTD curve chaos). **Path A scan:** XLP lone uncorrelated Leading candidate but PCE-Thu hawk-headwind disqualifies — wait Thu print. **Watchlist (intra-day Wed 6/24):** (a) XLB hold of $50 / break of $49.93 (12b arm); (b) FDX premarket gap = XLI/XLB sympathy gauge; (c) MU AMC tonight = Fri sector-tone setter; (d) prep PCE Thu scan post-print for Path-A re-eval; (e) ex-div $5.60 cash settles EOD. **Patience > activity — phase cushion fully erased but trail intact, cash 85.35% preserved for post-PCE/post-MU asymmetry deployment if Thu prints cool OR XLB stabilizes above $51.**
