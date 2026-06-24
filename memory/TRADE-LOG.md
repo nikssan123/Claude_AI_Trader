@@ -340,3 +340,11 @@ No positions. No trades today. Trades this week: 0/3.
 | XLB | 29 | $50.88 | $50.87 | -1.45% | -$0.29 (-0.02%) | $47.979 (trail 10%, hwm $53.31) |
 
 **Notes:** Ugly red follow-through. XLB shed -1.45% to $50.87, flipping the position back to essentially flat (-$0.29 / -0.02%) — erases the +$22.33 gain logged yesterday and the +$53.36 peak from Jun 16. Account also reverts to dead flat on the phase at -$0.29 (-0.00%) — gives back the +0.27% buffer carried into the week. Broker trail unchanged at hwm $53.31 / stop $47.979 (price closed $2.44 below hwm — widest gap in two weeks). Manual -7% cut remains $47.32 ($3.55 of room — still ample). Account -$22.62 (-0.23%) day — fourth red close in five sessions, momentum clearly fading. No trades today; week 0/3 cap used. Cash 85.25% — dry powder fully intact. Position still well shy of +15% trail-tighten trigger ($58.51). Tomorrow: rerun premarket scan, watch XLB for hold of $50.50 / reclaim of $51.50, otherwise hold the GTC trail — if $50 breaks decisively, prep for manual -7% cut at $47.32; hunt an uncorrelated RS leader (avoid cyclical stacking) — deploy only on a clean setup within risk rules.
+
+### Jun 24 — EOD Snapshot (Day 43, Wednesday)
+**Portfolio:** $10,008.41 | **Cash:** $8,524.48 (85.17%) | **Day P&L:** +$8.70 (+0.09%) | **Phase P&L:** +$8.41 (+0.08%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+| XLB | 29 | $50.88 | $51.17 | +0.59% | +$8.41 (+0.57%) | $47.979 (trail 10%, hwm $53.31) |
+
+**Notes:** Quiet green bounce after yesterday's flush. XLB ticked +0.59% to $51.17, lifting unrealized from -$0.29 back to +$8.41 (+0.57%) and nudging the account back into the green at +$8.41 (+0.08%) phase. Broker trail unchanged at hwm $53.31 / stop $47.979 (price closed $2.14 below hwm). Manual -7% cut remains $47.32 ($3.85 of room — still ample). Account +$8.70 (+0.09%) day — first green close in three sessions, but small magnitude — no thrust. No trades today; week 0/3 cap used. Cash 85.17% — dry powder fully intact. Position still well shy of +15% trail-tighten trigger ($58.51). Tomorrow: rerun premarket scan, watch XLB for follow-through above $51.50 / reclaim of $52, otherwise hold the GTC trail; hunt an uncorrelated RS leader (avoid cyclical stacking) — deploy only on a clean setup within risk rules.
