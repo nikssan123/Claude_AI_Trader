@@ -1864,3 +1864,65 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD — Wed not a forced-action session; XLB GTC trail does its job into MU AMC + PCE Thu.** Day 43, Week 9 Day 3 (Wed — **MU earnings AMC + XLB ex-div pay date $5.60**). 1 position (XLB 29 sh, mark $50.451, unrealized **-$12.44 (-0.84%) — full +$26.97 phase cushion gone; first sub-$10k close since Jun 10**), 85.35% cash, equity **$9,987.56**. **Today's tape:** US grants Iran 60-day oil export license = WTI 3-month low ($73.40) / Brent $76.68 — structural deal-fade Day 1 of OFAC window (NOT Vance-strain bounce); ES/NQ futures modest green after 2-day flush (NDX -$1T mcap); VIX 19.49 (sub-18 compressed regime broken); 2y 4.18%; FDX -6.16% AH on FY27 transition-guide = XLI/XLB cyclical-compression tell. **Rule 12b prong (a) MET** (XLB $2.47 above trail < $3 threshold) BUT oversold prong NOT met (lower 14% not lower 10% of 20-day range) → **12b arms tomorrow if XLB closes ≤$49.93**. **Rule 12 not in effect Wed** (Path B documented Mon for Week 9 cycle). **Path B disqualifier set (informational, all FRESH per 12a):** XLE (60-day OFAC license = structural unwind start, not knife-catch), XLK/SMH (MU AMC 10-day IV ~120% + asymmetric downside flag), XLI (FDX -6% AH FY27 guide + Rule 9 cyclical-stack), XLP (PCE Thu hawk-headwind + ATH chase), XLV (-3% YTD no Leading status), XLF (-5% YTD curve chaos). **Path A scan:** XLP lone uncorrelated Leading candidate but PCE-Thu hawk-headwind disqualifies — wait Thu print. **Watchlist (intra-day Wed 6/24):** (a) XLB hold of $50 / break of $49.93 (12b arm); (b) FDX premarket gap = XLI/XLB sympathy gauge; (c) MU AMC tonight = Fri sector-tone setter; (d) prep PCE Thu scan post-print for Path-A re-eval; (e) ex-div $5.60 cash settles EOD. **Patience > activity — phase cushion fully erased but trail intact, cash 85.35% preserved for post-PCE/post-MU asymmetry deployment if Thu prints cool OR XLB stabilizes above $51.**
+
+
+## 2026-06-25 — Pre-market Research (Thu — Week 9 Day 4; **PCE 8:30 ET = week catalyst**; **MU CRUSHED AMC = AI/chip risk-on premarket — NQ +2.2%**; **WTI ~$70 / Brent <$74 = 4-mo low on Iran ceasefire + Hormuz traffic**; XLB rebounded $51.16 vs Tue $50.45 = back above 12b $3 prong threshold)
+*(Perplexity API 401 invalid_api_key persists — WebSearch primary path per strategy.)*
+
+### Account
+- Equity: **$10,008.12** (back above $10k after Tue's $9,987.56 dip)
+- Cash: $8,524.48 (85.18%)
+- Buying power: $38,252.11 (RegT $18,532.60)
+- Daytrade count: 0
+- Position: XLB 29 sh @ $50.88, mark **$51.16** (Wed 6/24 close, +0.59% from $50.87 prior), unrealized **+$8.12 (+0.55%)** — recovers from Tue's -$12.44 flush
+- GTC trail: stop **$47.979** / hwm $53.31 / 10% trail / qty 29 active
+- Manual -7% cut: **$47.32** ($3.84 of room / 7.5% above spot — restored from Tue's $3.13 squeeze)
+- **Rule 12b prong (a) NOT met** — $51.16 − $47.979 = $3.18 > $3 trail threshold; back outside trigger zone after Wed bounce
+- $5.60 XLB ex-div cash settles today (pay date 6/24)
+
+### Market Context
+- **MU EARNINGS BLOWOUT (AMC Wed 6/24):** Q3 EPS **$25.11 vs $20.60 est** beat; **Rev $41.5B vs $35.59B est (+346% YoY)**; **Q4 guide $49-51B vs $43.2B est** = monster raise. MU **+6 to +17% premarket** (extended-hours spread wide). Qualcomm +11.7% on FY29 non-handset guide raise. **Memory/AI capex narrative reignited** post-2-day flush
+- **S&P 500 futures +0.8% / Nasdaq 100 futures +2.2% premarket** — chip-complex sympathy rally; reverses 2-day NDX -$1T mcap flush
+- **VIX 18.24 (-6.41% from Wed 19.49)** — compressing back below 19; pre-PCE positioning unwind already started. Range 18.24-19.54; open 19.13
+- **WTI ~$70-73 / Brent <$74 (lowest since late Feb)** — **US-Iran "peace talks progress" + Strait of Hormuz tanker traffic increasing** = supply fears ease further. WTI dropped sharply from Tue $73.40 → trading low $69.65 today. Iran 60-day OFAC license Day 2 of structural unwind
+- **2y Treasury ~4.18%** — curve unchanged into PCE binary
+- **TODAY's high-impact 8:30 ET data dump (3 prints simultaneous):**
+  - **Core PCE (May) — est +0.37% MoM / +3.3% YoY** (Fed's preferred gauge; sticky-elevated; analysts say May = peak inflation this year per BofA/GS/UBS)
+  - **Final Q1 GDP — est +1.6%**
+  - **Initial Jobless Claims — est 225K**
+  - **Advance Durable Goods (May) — est +0.2%**
+- **Earnings today:** 33 scheduled. MU print already digested via premarket; Levi/JEF/TCOM among notable AMC names
+- **Sector momentum YTD (Wed 6/24 close basis):**
+  - **Leading: XLB ~+14% (mark $51.37), XLI ~+12%, XLP ~+7%**
+  - **Mega-leader: XLK +32-33% YTD** but **MU blowout = re-engagement signal; AI-capex doubts of last 2 sessions reversed in 1 print**
+  - **Weakening: XLE** (Iran-license Day 2 + 4-mo oil low confirms structural unwind)
+  - **Lagging: XLV (-3% YTD), XLF (-5%), XLY (FDX freight tell + CHWY drag)**
+- XLB technicals: pivot high $52.06 / pivot low $51.39 (DeMark, 6/23 basis); Wed close $51.16 below pivot-low = needs $51.39 reclaim for stabilization
+
+### Rule 12 Forced-Action Protocol — STATUS
+- Week 9 cap: **0/3 used**
+- **Path B disqualifier set documented Mon 6/22 for Week 9 cycle** (fresh per 12a — verified XLE structural-demote, MU binary, FDX guide, PCE-headwind for XLP)
+- **Thu 6/25 is NOT a forced-action session** — discretionary scan only
+- **Rule 12b status:** prong (a) NOT met ($3.18 cushion > $3 threshold); arms again if XLB closes below ~$50.98 post-PCE. Oversold prong also not met (XLB 30% of 20-day range from low)
+
+### Trade Ideas
+1. **XLB (held) — HOLD.** No add (Rule 5/9). $5.60 ex-div settles today. Watch for: (a) reclaim of $51.39 pivot-low + $52.06 pivot-high = stabilization/extension above hwm $53.31 = trail re-stretch; (b) hold of $51 + bounce on cool PCE = chip-complex risk-on coattail benefit (XLB has duration-sensitive component); (c) hot PCE + break of $50.98 = 12b re-arm + manual cut $47.32 watch ($3.84 of room)
+2. **XLK / SMH (Tech) — DEFERRED to post-PCE digest.** MU blowout reverses AI-capex doubts; NQ +2.2% premarket = sympathy gap. **BUT entry into PCE 8:30 binary on +17% MU gap = chase risk + hot-print duration-crush risk.** R:R bad today. Re-eval Friday 6/26 post-PCE print: if PCE cool (≤+0.30% MoM) + MU follow-through holds = potential Path-A candidate (XLK +32% YTD Leading momentum + AI-capex re-engagement = uncorrelated to XLB Materials). Path B disqualifier today: **PCE binary inside intraday holding window + extended-gap chase = wait for Fri confirmation print**
+3. **XLE (Energy) — DISQUALIFIED (Path B, fresh).** **Iran OFAC 60-day license Day 2 + WTI ~$70 = 4-mo low** = structural unwind confirmed. Hormuz tanker traffic increasing = supply-fear unwind continues. Knife-catch into deepening flush. Skip
+4. **XLP (Consumer Staples) — DISQUALIFIED (Path B, fresh).** PCE 8:30 hot-print risk = duration-sensitive defensive headwind; ATH chase; chip-rally risk-on rotation OUT of defensives today. Skip — re-eval Fri if PCE hot + chip-rally fades
+5. **XLI (Industrials) — DISQUALIFIED (Path B, fresh).** FDX -6% AH Tue + FY27 transition-year guide overhang = cyclical multi-compression Day 2; Rule 9 cyclical-stack with held XLB. Skip
+6. **XLV (Healthcare) — DISQUALIFIED.** -3% YTD = no Leading status; no Path A eligibility. Skip
+7. **XLF (Financials) — DISQUALIFIED (Path B, fresh).** -5% YTD Lagging; PCE binary on curve dynamics; no near-term catalyst leverage. Skip
+8. **Path A scan:** Leading set today = {XLB held, XLI cyclical-stacked + FDX-tell, XLP defensive-but-PCE-headwind}. **XLP lone uncorrelated Leading candidate, but Path B disqualifier above is FRESH (MU-rally rotation-out + PCE-hot-risk + ATH-chase combo = NEW today vs prior week)** and passes 12a. Path A skipped. **XLK NOT in formal Leading set per RRG read (was Lagging on Wed close basis) — MU print is the catalyst that may flip it Fri post-confirmation, NOT today**
+
+### Risk Factors
+- **PCE 8:30 ET binary (TODAY)** — hot-confirm (>+0.40% MoM core) = duration crush extension + chip-rally fade + USD-up + oil-down; cool surprise (≤+0.30% MoM) = bounce-back risk-on + chip-rally amplification + XLK/SMH risk-on extension. **3 other prints same 8:30 slot** (GDP/Claims/Durable) = noise amplification
+- **MU +17% premarket gap chase risk** — analyst pre-print flagged "asymmetric DOWNSIDE risk" turned out wrong; positioning unwind today = FOMO bid risk; first-day-gap exhaustion possible if PCE hot
+- **Oil 4-month low = Iran-license unwind continuing** — XLE Day 2 of 60-day window; chemical-input-cost relief offsets XLB cyclical-demand softening
+- **XLB held: $3.84 cushion to manual cut, $3.18 to trail (just above 12b $3 threshold)** — needs $51.39 reclaim for stabilization; hot PCE = drop below $50.98 re-arms 12b
+- **VIX 18.24 contraction pre-PCE** = vol-selling re-engaging post-Wed 19.49 spike; force-deleverage risk if PCE shock both directions
+- **Trade slot pressure: Week 9 Day 4 with 0/3 used; 8+ consecutive no-trade weeks** — Path B for Week 9 documented Mon; today discretionary HOLD into binary
+- **PDT cap: daytrade_count 0** — clean for any same-session reversal if needed (not planning)
+
+### Decision
+**HOLD into PCE 8:30 ET binary — patience > activity; chip-complex re-engagement signal but wait for post-print confirmation.** Day 44, Week 9 Day 4 (Thu — **PCE day**, MU post-blowout, ex-div $5.60 settles). 1 position (XLB 29 sh, mark $51.16, unrealized **+$8.12 (+0.55%)** — recovered from Tue flush), 85.18% cash, equity **$10,008.12**. **Today's tape (premarket):** MU EPS $25.11 vs $20.60 / Rev $41.5B vs $35.59B (+346% YoY) / Q4 guide $49-51B vs $43.2B = monster raise → NQ +2.2% / ES +0.8% premarket; chip complex risk-on (MU +6-17%, QCOM +11.7%); WTI ~$70 / Brent <$74 (4-mo low) on Iran ceasefire + Hormuz traffic; VIX 18.24 (-6.41%) compressing pre-PCE; 2y 4.18%. **8:30 ET prints (3 simultaneous):** Core PCE est +0.37%/3.3%, Final GDP +1.6%, Claims 225K, Durable +0.2%. **Rule 12b prong (a) NOT met today** ($3.18 cushion). **Rule 12 not forced-session Thu** (Path B documented Mon for Week 9 cycle). **Path A scan:** XLP lone uncorrelated Leading candidate but PCE-binary + chip-rotation-out risk = wait for Fri post-print. **XLK NOT formal Leading on Wed-close basis** but MU may flip it Fri post-confirmation — primary post-PCE candidate IF PCE cool + chip-rally confirms in regular session. **Watchlist (intra-day Thu 6/25):** (a) 8:30 ET PCE/GDP/Claims/Durable simultaneous = direction read; (b) XLB reclaim $51.39 pivot-low / $52.06 pivot-high = stabilization confirm; (c) XLB hold of $50.98 = 12b remains armed off; (d) chip-complex regular-session follow-through to MU gap = post-print sustainability test; (e) prep Fri 6/26 Path-A re-eval scan with PCE result + chip-rally confirmation as inputs. **Patience > activity — 8 closed no-trade weeks but equity back above $10k, position recovered, trail intact, cash 85.18% intact for post-PCE asymmetry deployment if Fri prints cleanly.**
