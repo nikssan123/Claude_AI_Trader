@@ -348,3 +348,11 @@ No positions. No trades today. Trades this week: 0/3.
 | XLB | 29 | $50.88 | $51.17 | +0.59% | +$8.41 (+0.57%) | $47.979 (trail 10%, hwm $53.31) |
 
 **Notes:** Quiet green bounce after yesterday's flush. XLB ticked +0.59% to $51.17, lifting unrealized from -$0.29 back to +$8.41 (+0.57%) and nudging the account back into the green at +$8.41 (+0.08%) phase. Broker trail unchanged at hwm $53.31 / stop $47.979 (price closed $2.14 below hwm). Manual -7% cut remains $47.32 ($3.85 of room — still ample). Account +$8.70 (+0.09%) day — first green close in three sessions, but small magnitude — no thrust. No trades today; week 0/3 cap used. Cash 85.17% — dry powder fully intact. Position still well shy of +15% trail-tighten trigger ($58.51). Tomorrow: rerun premarket scan, watch XLB for follow-through above $51.50 / reclaim of $52, otherwise hold the GTC trail; hunt an uncorrelated RS leader (avoid cyclical stacking) — deploy only on a clean setup within risk rules.
+
+### Jun 25 — EOD Snapshot (Day 44, Thursday)
+**Portfolio:** $10,029.58 | **Cash:** $8,524.48 (85.00%) | **Day P&L:** +$21.17 (+0.21%) | **Phase P&L:** +$29.58 (+0.30%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+| XLB | 29 | $50.88 | $51.90 | +1.45% | +$29.58 (+2.01%) | $47.979 (trail 10%, hwm $53.31) |
+
+**Notes:** Green follow-through. XLB tacked on +1.45% to $51.90, lifting unrealized to +$29.58 (+2.01%) from yesterday's +$8.41 — second straight green close erases Tuesday's flush and reclaims the prior week's range. Broker trail unchanged at hwm $53.31 / stop $47.979 (price closed $1.41 below hwm). Manual -7% cut remains $47.32 ($4.58 of room — still ample). Account +$21.17 (+0.21%) day, +$29.58 (+0.30%) phase — best phase mark in over a week. No trades today; week 0/3 cap used. Cash 85.00% — dry powder fully intact. Position still well shy of +15% trail-tighten trigger ($58.51). Tomorrow (Friday): rerun premarket scan, watch XLB for follow-through above $52 / break of $53.31 hwm (would stretch the trail), otherwise hold the GTC trail; hunt an uncorrelated RS leader (avoid cyclical stacking) — deploy only on a clean setup, otherwise prep weekly review.
