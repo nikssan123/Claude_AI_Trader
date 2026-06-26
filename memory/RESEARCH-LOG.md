@@ -1926,3 +1926,65 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD into PCE 8:30 ET binary — patience > activity; chip-complex re-engagement signal but wait for post-print confirmation.** Day 44, Week 9 Day 4 (Thu — **PCE day**, MU post-blowout, ex-div $5.60 settles). 1 position (XLB 29 sh, mark $51.16, unrealized **+$8.12 (+0.55%)** — recovered from Tue flush), 85.18% cash, equity **$10,008.12**. **Today's tape (premarket):** MU EPS $25.11 vs $20.60 / Rev $41.5B vs $35.59B (+346% YoY) / Q4 guide $49-51B vs $43.2B = monster raise → NQ +2.2% / ES +0.8% premarket; chip complex risk-on (MU +6-17%, QCOM +11.7%); WTI ~$70 / Brent <$74 (4-mo low) on Iran ceasefire + Hormuz traffic; VIX 18.24 (-6.41%) compressing pre-PCE; 2y 4.18%. **8:30 ET prints (3 simultaneous):** Core PCE est +0.37%/3.3%, Final GDP +1.6%, Claims 225K, Durable +0.2%. **Rule 12b prong (a) NOT met today** ($3.18 cushion). **Rule 12 not forced-session Thu** (Path B documented Mon for Week 9 cycle). **Path A scan:** XLP lone uncorrelated Leading candidate but PCE-binary + chip-rotation-out risk = wait for Fri post-print. **XLK NOT formal Leading on Wed-close basis** but MU may flip it Fri post-confirmation — primary post-PCE candidate IF PCE cool + chip-rally confirms in regular session. **Watchlist (intra-day Thu 6/25):** (a) 8:30 ET PCE/GDP/Claims/Durable simultaneous = direction read; (b) XLB reclaim $51.39 pivot-low / $52.06 pivot-high = stabilization confirm; (c) XLB hold of $50.98 = 12b remains armed off; (d) chip-complex regular-session follow-through to MU gap = post-print sustainability test; (e) prep Fri 6/26 Path-A re-eval scan with PCE result + chip-rally confirmation as inputs. **Patience > activity — 8 closed no-trade weeks but equity back above $10k, position recovered, trail intact, cash 85.18% intact for post-PCE asymmetry deployment if Fri prints cleanly.**
+
+
+## 2026-06-26 — Pre-market Research (Fri — Week 9 Day 5; **PCE PRINTED HOT — Core PCE +0.4% MoM / 3.4% YoY (vs +0.3%/3.3% est) = rate-cuts dead, hike-by-YE in play**; **MU rally FAILED in regular session — chip selloff resumed overnight, KOSPI -8% circuit-breaker**; XLB recovered to $51.85 mark, ex-div settled)
+*(Perplexity API 401 invalid_api_key persists — WebSearch primary path per strategy.)*
+
+### Account
+- Equity: **$10,028.13** (fresh phase high — +$28.13 absolute)
+- Cash: $8,524.48 (85.00%)
+- Buying power: $38,308.14 (RegT $18,552.61)
+- Daytrade count: 0
+- Position: XLB 29 sh @ $50.88, mark **$51.85** (Thu 6/25 close, +1.33% from $51.16), unrealized **+$28.13 (+1.91%)** — best mark since Jun 16 peak ($53.36)
+- GTC trail: stop **$47.979** / hwm $53.31 / 10% trail / qty 29 active
+- Manual -7% cut: **$47.32** ($4.53 of room / 8.7% above spot — comfortable)
+- **Rule 12b prong (a) NOT met** — $51.85 − $47.979 = **$3.87 cushion > $3 trail threshold**; well outside trigger zone
+- $5.60 XLB ex-div cash settled Wed (already in $8,524.48 cash line)
+
+### Market Context
+- **PCE PRINTED HOT (Thu 8:30 ET):** **Headline PCE +0.4% MoM / 4.1% YoY** (3-yr high since Apr-23); **Core PCE +0.3% MoM / 3.4% YoY** (highest since Oct-23, vs +0.37%/3.3% est). **May data eliminates remaining 2026 rate-cut hopes — quarter-point HIKE by YE now base case**; 9 FOMC members projecting ≥1 hike pre-YE (per Warsh-era SEP); FFR stays 3.50-3.75% near-term. Some economists call May "peak inflation" given June oil collapse — narrative live but Fed-on-hold reaction dominates
+- **CHIP-RALLY DIED:** Samsung Electronics + SK Hynix overnight SOLD OFF hard, dragging MU / Western Digital / Sandisk red premarket; **KOSPI -8% intraday → circuit breaker tripped**. AI-capex doubts resurgent; MU monster print + Q4 guide raise FAILED in regular session — Thu Nasdaq Composite closed -0.46% (4th straight day of losses)
+- **Megacap tech bloodbath premarket:** AAPL -6.1%, NVDA -1.6%, MSFT -3.5%, AMZN -3.1%, META -2.7%. **NQ futures -1.2% / ES -0.5% / Dow -67 (-0.1%)** — risk-off bias with defensive bid
+- **VIX 18.68** (+0.27% from prior session 19.49 → 18.68; intraday range 17.72-19.95) — sub-20 holding but vol-spike risk live with KOSPI circuit-breaker + AI-capex panic
+- **Oil 4-month low EXTENDED:** **WTI ~$69-73 / Brent $74.43 (-1.11%)** = Iran 60-day OFAC license Day 3 + Hormuz traffic resumption + US-Iran peace talks progress. Brent down 19.32% MoM — structural unwind clearly priced
+- **2y Treasury ~4.18%** — flat post-PCE (already at hawkish levels pre-print)
+- **Today's catalysts (light slate):** **UMich Final June Consumer Sentiment** (only meaningful US print); 4 earnings scheduled; quad-witch + Russell rebalance rebuilt last Fri so no flow-driven imbalance today
+- **Defensive bid Thu:** XLP (Consumer Staples) +1.7% in midday Thu = best of 11 sectors; rotation OUT of tech INTO staples ongoing
+- **Sector momentum YTD (Thu 6/25 close basis):**
+  - **Leading: XLB Materials ~+14% YTD (top YTD performer per multi-source RRG; "hedge vs sticky inflation"), XLI ~+12%, XLP ~+7%, XLE +20-25% (FADING — 4-mo oil low Day 3)**
+  - **Lagging: XLK Tech (AI-capex doubts ESCALATED post-MU-failure), XLC Comms, XLY Discretionary, XLF Financials**
+  - **Weakening: XLV Healthcare**
+  - **Improving: XLRE Real Estate, XLU Utilities** (defensive duration-bid candidates but hot PCE = duration crush headwind)
+- **XLB technicals (6/25 basis):** **pivot high $51.72 / pivot low $50.97** (gurufocus); Thu close $51.85 = **ABOVE pivot high** = stabilization confirmed, reclaimed $51.39 prior-session pivot-low + extended; needs break of $52.06 (Jun 16 pivot) + $53.31 hwm to stretch trail
+
+### Rule 12 Forced-Action Protocol — STATUS
+- Week 9 cap: **0/3 used** entering Day 5
+- **Path B disqualifier set documented Mon 6/22 for Week 9 cycle** (fresh per 12a — verified XLE structural-demote, MU binary, FDX guide, PCE-headwind for XLP, all confirmed by tape)
+- **Fri 6/26 NOT a forced-action session** — discretionary scan only
+- **Rule 12b status:** prong (a) NOT met ($3.87 cushion > $3 threshold); oversold prong also not met (XLB ~70% of 20-day range, not lower 10%). 12b arms again if XLB closes ≤$50.98 today
+- **NEXT-WEEK FORCED-ACTION FORECAST:** Fri 6/19 closed 85.02% cash + 0/3 used (trigger conditions met). If Fri 6/26 closes ≥75% cash (will — no trades planned) + 0/3 used (will — see HOLD decision) = **2 consecutive Fridays of trigger conditions = Mon 6/29 is mandatory-action session**. Path A (deploy single highest-conviction Leading-quadrant uncorrelated ETF) OR Path B (per-ticker fresh disqualifiers, all rooted in this week's tape) required Monday
+
+### Trade Ideas
+1. **XLB (held) — HOLD.** No add (Rule 5/9). Position recovered to fresh phase high $28.13 unrealized; close ABOVE $51.72 pivot-high = stabilization confirmed. Watch for: (a) **break of $52.06 (Jun 16 pivot-high) + $53.31 hwm** = trail re-stretches and approaches +5% above entry zone; (b) **risk-off rotation INTO Materials as inflation-hedge per Schwab read** = lifts XLB on hot PCE narrative (Materials is the "sticky-inflation hedge" Leading sector); (c) downside: chip-led broad selloff drags cyclicals = test of $50.97 pivot-low / $50 round number; manual cut $47.32 ($4.53 of room — ample)
+2. **XLK / SMH (Tech) — DISQUALIFIED (Path B, fresh).** MU monster print FAILED to hold in regular session (Thu NDX -0.46%, 4th red day); Samsung/SK Hynix overnight selloff + KOSPI 8% circuit-breaker = AI-capex panic re-engaged premarket. NQ -1.2%, AAPL -6.1%. **Knife-catch into 4-day downtrend extension with vol-event risk = bottom-decile R:R**. Skip
+3. **XLP (Consumer Staples) — DISQUALIFIED (Path B, fresh — hot PCE).** Thu defensive bid +1.7% midday = textbook risk-off rotation BUT **PCE hot print = duration crush headwind** (XLP holdings PE 22x = rate-sensitive); ATH chase post-defensive-bid; hot-PCE + 9 FOMC members projecting hike = staples-multiple-compression risk. Skip
+4. **XLE (Energy) — DISQUALIFIED (Path B, fresh & escalated Day 3).** WTI $69-73 / Brent $74.43 = 4-mo low EXTENDED on Iran OFAC license Day 3 + Hormuz traffic + peace talks progress. Brent -19.32% MoM = structural unwind firmly priced. Knife-catch deepening. Skip
+5. **XLI (Industrials) — DISQUALIFIED (Path B, fresh).** FDX -6% AH Tue overhang persists Day 4; FY27 transition-year guide + Freight stranded costs = cyclical multiple-compression; Rule 9 cyclical-stack with held XLB. Skip
+6. **XLV (Healthcare) — DISQUALIFIED.** -3% YTD Weakening; no Path A eligibility. Skip
+7. **XLF (Financials) — DISQUALIFIED (Path B, fresh).** -5% YTD Lagging; PCE hot = curve still hawkish; broader risk-off bias. Skip
+8. **XLU (Utilities) / XLRE (Real Estate) — DISQUALIFIED.** RRG Improving quadrant BUT **hot PCE = duration-sensitive double-headwind**; not yet formal Leading. Skip
+9. **Path A scan:** Leading set today = {XLB held, XLI cyclical-stacked + FDX-tell, XLP defensive-but-PCE-headwind, XLE structural-unwind}. **NO uncorrelated Leading-quadrant ETF with clean R:R passes the screen today.** Path B disqualifier above is FRESH (PCE-hot-confirmed Thu morning + KOSPI-circuit-breaker overnight + Brent -1.1% Day 3 = all NEW today vs prior week's set) and passes 12a. Path A skipped today
+
+### Risk Factors
+- **KOSPI -8% circuit-breaker overnight** = AI-capex panic at index-level; vol-spike contagion risk into US open if SPX gaps below 200-DMA or NDX breaks key support
+- **Hot PCE + Fed-on-hold-pivot-to-hike** = duration crush across rate-sensitive sectors (REIT, Utilities, Staples-multiples); USD bid + commodity-down extension
+- **MU monster-print regular-session FAILURE = positioning-shock signal** — even +346% YoY rev + +14% guide raise couldn't hold; risk that valuation reset thesis dominates this week
+- **XLB held: $4.53 cushion to manual cut, $3.87 to trail** — comfortable but susceptible to risk-off cyclical drag; +1.91% unrealized phase-high needs $52.06 break to stretch trail
+- **Friday quad-witch hangover** — Fri 6/19 was quad-witch + Russell rebal; this Fri can see clean-up flows + month-end / quarter-end positioning starts to bleed in (Q2 ends Tue 6/30)
+- **Trade slot pressure: Week 9 Day 5 with 0/3 used; 8+ consecutive no-trade weeks** — Path B for Week 9 documented Mon; today discretionary HOLD; **Mon 6/29 = Rule 12 forced-action session forecast (Path A or fresh Path B mandatory)**
+- **PDT cap: daytrade_count 0** — clean
+- **Q2 end Tue 6/30** — last 2 trading days of the quarter; window-dressing flows possible; potential bid into Leading-sector ETFs (Materials, Industrials)
+
+### Decision
+**HOLD — patience > activity; no clean uncorrelated Leading-quadrant Path A today; XLB GTC trail intact at fresh phase-high.** Day 45, Week 9 Day 5 (Fri — **post-PCE-hot tape, KOSPI circuit-breaker, MU-rally-failure**). 1 position (XLB 29 sh, mark $51.85, unrealized **+$28.13 (+1.91%) — best mark since Jun 16 peak**), 85.00% cash, equity **$10,028.13 (fresh phase high)**. **Today's tape (premarket):** Core PCE printed HOT (+0.3% MoM / 3.4% YoY vs +0.37%/3.3% est) Thu = rate-cuts dead + hike-by-YE base case; Samsung/SK Hynix overnight crushed + KOSPI -8% circuit-breaker = chip-rally completely reversed; AAPL -6.1%, NVDA -1.6%, MSFT -3.5% premarket; NQ -1.2% / ES -0.5%; WTI ~$70 / Brent $74.43 (-1.11%, 4-mo low Day 3); VIX 18.68 (mild expand); 2y 4.18% flat. **Rule 12b prong (a) NOT met today** ($3.87 cushion). **Rule 12 not forced-session Fri**. **Path A scan:** NO uncorrelated Leading-quadrant ETF clears the screen — XLP / XLI / XLE all carry fresh Path B disqualifiers (PCE-hot defensive-headwind, FDX cyclical-stack, oil-license Day 3 structural unwind). XLK Lagging + chip-panic re-engaged = knife-catch. **Path B documented this week and FRESH per 12a — 100% rooted in this week's tape**. **FORECAST: Mon 6/29 = Rule 12 forced-action session** (2nd consecutive Friday of >75% cash + 0/3 used trigger) — Path A or fresh Path B mandatory; prep XLP / XLI / XLU re-screen with weekend-data updates. **Watchlist (intra-day Fri 6/26):** (a) XLB hold of $51.39 pivot / $50.97 (would arm 12b if breaks $50.98 close); (b) chip-led broad selloff = SPX 200-DMA test risk; (c) UMich sentiment final = late-am tape mover; (d) Q2 month/quarter-end window-dressing into Leading sectors as supportive; (e) prep weekly review entry + Mon 6/29 forced-action scan. **Patience > activity — Friday closes the 9th straight no-trade week BUT equity at fresh phase high $10,028.13, position recovered, trail intact, cash 85.00% intact entering forced-action Monday with maximum optionality.**
