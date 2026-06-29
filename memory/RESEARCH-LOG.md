@@ -1988,3 +1988,72 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD — patience > activity; no clean uncorrelated Leading-quadrant Path A today; XLB GTC trail intact at fresh phase-high.** Day 45, Week 9 Day 5 (Fri — **post-PCE-hot tape, KOSPI circuit-breaker, MU-rally-failure**). 1 position (XLB 29 sh, mark $51.85, unrealized **+$28.13 (+1.91%) — best mark since Jun 16 peak**), 85.00% cash, equity **$10,028.13 (fresh phase high)**. **Today's tape (premarket):** Core PCE printed HOT (+0.3% MoM / 3.4% YoY vs +0.37%/3.3% est) Thu = rate-cuts dead + hike-by-YE base case; Samsung/SK Hynix overnight crushed + KOSPI -8% circuit-breaker = chip-rally completely reversed; AAPL -6.1%, NVDA -1.6%, MSFT -3.5% premarket; NQ -1.2% / ES -0.5%; WTI ~$70 / Brent $74.43 (-1.11%, 4-mo low Day 3); VIX 18.68 (mild expand); 2y 4.18% flat. **Rule 12b prong (a) NOT met today** ($3.87 cushion). **Rule 12 not forced-session Fri**. **Path A scan:** NO uncorrelated Leading-quadrant ETF clears the screen — XLP / XLI / XLE all carry fresh Path B disqualifiers (PCE-hot defensive-headwind, FDX cyclical-stack, oil-license Day 3 structural unwind). XLK Lagging + chip-panic re-engaged = knife-catch. **Path B documented this week and FRESH per 12a — 100% rooted in this week's tape**. **FORECAST: Mon 6/29 = Rule 12 forced-action session** (2nd consecutive Friday of >75% cash + 0/3 used trigger) — Path A or fresh Path B mandatory; prep XLP / XLI / XLU re-screen with weekend-data updates. **Watchlist (intra-day Fri 6/26):** (a) XLB hold of $51.39 pivot / $50.97 (would arm 12b if breaks $50.98 close); (b) chip-led broad selloff = SPX 200-DMA test risk; (c) UMich sentiment final = late-am tape mover; (d) Q2 month/quarter-end window-dressing into Leading sectors as supportive; (e) prep weekly review entry + Mon 6/29 forced-action scan. **Patience > activity — Friday closes the 9th straight no-trade week BUT equity at fresh phase high $10,028.13, position recovered, trail intact, cash 85.00% intact entering forced-action Monday with maximum optionality.**
+
+
+## 2026-06-29 — Pre-market Research (Mon — Week 10 Day 1; **RULE 12 FORCED-ACTION SESSION** — 2nd consecutive Friday of >75% cash + 0/3 used confirmed; **US-Iran CEASEFIRE confirmed = risk-on premarket**; **Alphabet replaces Verizon in DJIA today**; WTI ~$69 / Brent ~$72 = 4-mo low Day 4 extension on ceasefire; NFP early Thu 7/2 due to Jul 4)
+*(Perplexity API 401 invalid_api_key persists — WebSearch primary path per strategy.)*
+
+### Account
+- Equity: **$10,022.04** (off Fri high $10,028.13 by $6.09; phase +$22.04 / +0.22%)
+- Cash: $8,524.48 (**85.06%**)
+- Buying power: $38,291.09 (RegT $18,546.52)
+- Daytrade count: 0
+- Position: XLB 29 sh @ $50.88, mark **$51.64** (Fri 6/26 close, -0.39% from $51.85), unrealized **+$22.04 (+1.49%)**
+- GTC trail: stop **$47.979** / hwm $53.31 / 10% trail / qty 29 active (no fresh hwm in 9+ sessions)
+- Manual -7% cut: **$47.32** ($4.32 of room / 8.4% above spot — comfortable)
+- **Rule 12b prong (a) NOT met** — $51.64 − $47.979 = $3.66 cushion > $3 trail threshold
+- $5.60 XLB ex-div settled prior week (already in cash line)
+
+### Market Context
+- **US-IRAN CEASEFIRE confirmed Mon (NEW catalyst):** "U.S. and Iran stand down for now, talks on track" per CNN citing two US officials after trade-fire near Strait of Hormuz. **Risk-on premarket reaction across global indices**
+- **S&P 500 futures +0.6%** at ~7,455 / **Nasdaq 100 futures climbing** at ~29,368 (off opening 29,742, mild fade off premarket high) — ceasefire bid reverses Fri risk-off
+- **Comcast (CMCSA) +25% premarket** — announces tax-free spin-off of NBCUniversal + Sky into separate publicly-traded co; XLC single-name binary event
+- **Alphabet (GOOGL) REPLACES Verizon (VZ) in DJIA effective today's open** — Dow flow event; VZ Lagging-set selling pressure, GOOGL inclusion bid
+- **VIX 18.41 (-2.54% from Fri 18.68)** — compressed back to mid-18s on ceasefire; intraday range 15.18-23.34 over past month, current sits below avg 17.87 — vol-selling re-engaging
+- **WTI $68.86 (lowest since Feb 2026) / Brent ~$72 (lowest since Feb 27)** — 4-month low Day 4 of OFAC license window + Hormuz traffic resumption + ceasefire confirmed. WTI -22.2% past 4 weeks. **XLE structural-unwind accelerated, NOT mean-reversion**
+- **2y Treasury ~4.18%** — flat post-PCE-hot; Fed-on-hold-pivot-to-hike base case persists per 9 FOMC members at SEP
+- **THIS WEEK's catalysts (holiday-shortened):**
+  - **Mon 6/29:** no major data; Warsh speaks at Sintra ECB conference (hawk-dovish read into Sept hike odds)
+  - **Tue 6/30:** Q2 quarter-end; window-dressing flows likely into Leading sectors (Materials/Industrials/Staples); NKE + STZ earnings
+  - **Wed 7/1:** ISM Manufacturing PMI (data slate)
+  - **Thu 7/2:** **NFP released EARLY** (consensus +172K) — usually-Friday print on Thu due to Jul 4 close; Tony's "Fed cover for hike" test
+  - **Fri 7/3:** US market CLOSED for Independence Day observance
+- **No noteworthy earnings BMO 6/29** — first earnings of holiday week are NKE/STZ Tue AMC
+- **Sector momentum YTD (Fri 6/26 close basis, multi-source):**
+  - **Leading (broad confirmation):** **XLB Materials +22% YTD** (multi-source top YTD performer; breakout of long-term consolidation per Schwab); XLI Industrials ~+12%; XLP Consumer Staples ~+7% (at ATH); **XLE Energy** (Schwab shows ATH but tape says structural unwind Day 4)
+  - **Conflict note:** Schwab read shows "Healthcare surprising top performer YTD as flight-to-safety play" — conflicts with prior-week multi-source -3% Lagging read. **NOT actionable today without weekend RRG validation**
+  - **Lagging:** XLK Tech (AI-capex doubts post-MU-failure, NQ premarket bounce = chase risk not regime shift); XLF Financials (-5%); XLY Discretionary (FDX freight tell + CHWY drag); XLC (CMCSA single-name distortion today)
+- **XLB technicals (6/26 basis):** Fri close $51.64 in zone between pivot-low $51.39 (DeMark 6/23) and pivot-high $52.06 (Jun 16); reclaim of $52.06 + break of $53.31 hwm needed to stretch trail; +14% YTD = stays in Leading top-decile
+
+### Rule 12 Forced-Action Protocol — STATUS
+- **TODAY IS FORCED-ACTION SESSION** — Fri 6/19 closed 85.02% cash / 0/3 used + Fri 6/26 closed 85.00% cash / 0/3 used = **2 consecutive Fridays of trigger conditions met**; Mon 6/29 = mandatory Path A OR fresh Path B per rule
+- Week 10 cap: **0/3 used** entering Day 1
+- **12a freshness check:** today's per-ticker disqualifiers must be >50% non-verbatim vs prior-week Path-B (Mon 6/22 + Fri 6/26 set) and rooted in this week's tape
+- **Rule 12b status:** prong (a) NOT met ($3.66 cushion > $3); oversold prong not met. 12b dormant unless XLB closes ≤$49.93 today
+
+### Trade Ideas
+1. **XLB (held) — HOLD.** No add (Rule 5/9). Position +1.49% unrealized at $51.64. Watch: (a) break of $52.06 pivot-high + $53.31 hwm = trail re-stretch; (b) ceasefire risk-on + Q2 window-dressing bid into top YTD sector = supportive; (c) downside: hot-NFP Thu = duration crush ripple; manual cut $47.32 ($4.32 room — ample)
+2. **XLP (Consumer Staples) — DISQUALIFIED (Path B, FRESH).** **NEW today vs prior week:** US-Iran ceasefire risk-on Day 1 = textbook rotation OUT of defensives (Fri's defensive bid was the prior-day mirror); ATH chase compounding; hot-PCE-confirmed multiple-compression persists; +7% YTD but ceasefire-day timing-mismatch = bottom-half R:R on Day 1 of risk-on regime
+3. **XLE (Energy) — DISQUALIFIED (Path B, FRESH & ESCALATED Day 4).** **NEW:** US-Iran CEASEFIRE confirmed Mon (Fri was "talks progress" — Mon is signed-deal-level Day 1); WTI $68.86 4-mo low + Brent ~$72 broke Feb-27 floor; OFAC license Day 4 + Hormuz traffic resumption confirmed = structural supply increase fully priced and EXTENDING. Knife-catch into deepening structural unwind = bottom-decile R:R. Schwab claims XLE at ATH conflicts with tape read — using tape over secondary
+4. **XLI (Industrials) — DISQUALIFIED (Path B, FRESH-ish).** FDX FY27 transition-overhang Day 5; **NEW today:** ceasefire-cyclical-bid could lift XLI BUT held XLB already provides cyclical exposure = Rule 9 sector-momentum stacking violation. NFP Thu = cyclical-binary into holiday-thin tape Day 4
+5. **XLK / SMH (Tech) — DISQUALIFIED (Path B, FRESH).** **NEW:** NQ premarket climb on ceasefire after Fri 4th-red-day = potential reversal but NOT regime shift (still RRG Lagging on Fri close basis); KOSPI overnight stayed weak post-Fri circuit-breaker; one-day ceasefire bounce ≠ confirmation. Holiday-thin Wed-Thu tape + NFP-Thu binary = chase-into-low-liquidity setup
+6. **XLV (Healthcare) — DISQUALIFIED (cannot validate).** Schwab read claims "surprising top performer YTD" conflicts with prior-week multi-source -3% YTD Lagging read. **No actionable RRG signal today without weekend validation**; deployment on conflicting data violates conviction bar
+7. **XLF (Financials) — DISQUALIFIED.** -5% YTD Lagging persists; 2y 4.18% curve hawkish; no near-term catalyst
+8. **XLU / XLRE — DISQUALIFIED.** RRG Improving, **NEW today:** ceasefire risk-on = duration-rotation-OUT compounds hot-PCE duration crush; double-headwind
+9. **GOOGL single-name (Dow inclusion) — DISQUALIFIED.** Single-name flow event, not ETF; XLC-distorted by CMCSA NBCU spin +25%; chase into Dow-inclusion known-event = post-event fade risk
+10. **Path A scan:** Leading set today = {XLB held, XLI cyclical-stack with XLB violates Rule 9, XLP ceasefire-risk-on-rotation-out timing-mismatch, XLE structural-unwind Day 4 knife-catch}. **NO uncorrelated Leading-quadrant ETF clears the high-conviction bar today.** XLP is the nominal lone uncorrelated Leading candidate but Day-1-of-confirmed-ceasefire-rotation-out frame is a FRESH disqualifier (vs Fri's PCE-hot frame) that wasn't documented prior week. **Path A skipped; Path B fresh per 12a — trigger satisfied**
+
+### Risk Factors
+- **Ceasefire-bounce sustainability** — Mon-only one-day reaction; risk of headline reversal mid-session (Iran-policy fluid); ES/NQ premarket gap could fade into NY session
+- **Alphabet/Verizon DJIA swap** — flow-driven gap on GOOGL (bid) / VZ (offer) at open; XLC bullish skew today; risk of post-inclusion exhaustion
+- **CMCSA +25% NBCU split** — XLC distortion; not actionable single-name binary
+- **Holiday-thin Wed-Thu tape + NFP Thu early** — low-liquidity ceasefire-fade risk; positioning shock potential
+- **WTI $68.86 4-mo low Day 4** — XLE structural-unwind extension; relief for chemical-input-cost (positive XLB chemicals sub-sector); negative for cyclical-demand read across XLI/cyclical-stack
+- **Quarter-end Tue 6/30 window-dressing** — supportive into Leading-sector ETFs (XLB held); bid-skew should help phase mark Mon-Tue
+- **Hot PCE persists from Thu print** — Fed-on-hold-pivot-to-hike base case live; 2y 4.18%; duration crush risk on rate-sensitive sectors (XLU/XLRE/XLP staples-multiples)
+- **XLB held: $4.32 cushion to manual cut, $3.66 to trail (12b prong-a dormant)** — comfortable; needs $52.06 break for trail re-stretch; +14% YTD top-decile = quarter-end bid candidate
+- **Trade slot pressure: Week 10 Day 1 with 0/3 used; 10 consecutive no-trade weeks** — Rule 12 forced-action mandates Path A or FRESH Path B today; Path B documented above and passes 12a freshness bar (ceasefire confirmed = NEW catalyst, Alphabet-Dow swap NEW, oil Day 4 extension NEW, NFP-Thu calendar position NEW, ceasefire-risk-on-rotation-out frame NEW for XLP/XLE/XLU)
+- **PDT cap: daytrade_count 0** — clean
+
+### Decision
+**HOLD — Rule 12 forced-action satisfied via Path B with FRESH per-12a disqualifiers; no uncorrelated Leading-quadrant Path A clears high-conviction bar on Day-1-of-confirmed-ceasefire.** Day 46, Week 10 Day 1 (Mon — **forced-action session**, US-Iran ceasefire Day 1, Alphabet/Verizon DJIA swap, WTI 4-mo low Day 4). 1 position (XLB 29 sh, mark $51.64, unrealized **+$22.04 (+1.49%)**), 85.06% cash, equity **$10,022.04**. **Today's tape (premarket):** US-Iran ceasefire confirmed = ES +0.6% / NQ climbing premarket; WTI $68.86 / Brent ~$72 (4-mo low Day 4 on ceasefire + Hormuz traffic); VIX 18.41 (-2.54%) compressed; CMCSA +25% on NBCU spin; GOOGL replaces VZ in DJIA today; 2y 4.18% flat; light data slate Mon/Tue, NFP early Thu 7/2 (consensus +172K). **Rule 12b prong (a) NOT met today** ($3.66 cushion). **Path A scan:** XLP defensive-timing-mismatch on Day-1-ceasefire-risk-on (FRESH frame); XLE knife-catch into Day-4 structural unwind (FRESH escalation); XLI Rule-9-cyclical-stack with XLB (cyclical-bid notwithstanding); XLK Lagging + KOSPI fragile + holiday-thin chase risk; XLV conflicting RRG read (Schwab vs memory) = no conviction. **No uncorrelated Leading-quadrant deployment today; Path B fresh disqualifiers documented per 12a — forced-action satisfied without forced deployment.** **Watchlist (intra-day Mon 6/29):** (a) XLB break of $52.06 pivot / $53.31 hwm = trail re-stretch; (b) ceasefire-bounce sustainability — headline-reversal risk; (c) Warsh Sintra hawk-dove read; (d) GOOGL Dow-inclusion gap fade test; (e) WTI hold of $68 / break to $67 = XLE accelerating; (f) quarter-end Tue 6/30 window-dressing pre-position. **Patience > activity — 10th week begins with phase +$22.04 / +0.22%, cash 85.06%, trail intact; forced-action satisfied via FRESH Path B without compromise on conviction bar.**
