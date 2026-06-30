@@ -2057,3 +2057,78 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD — Rule 12 forced-action satisfied via Path B with FRESH per-12a disqualifiers; no uncorrelated Leading-quadrant Path A clears high-conviction bar on Day-1-of-confirmed-ceasefire.** Day 46, Week 10 Day 1 (Mon — **forced-action session**, US-Iran ceasefire Day 1, Alphabet/Verizon DJIA swap, WTI 4-mo low Day 4). 1 position (XLB 29 sh, mark $51.64, unrealized **+$22.04 (+1.49%)**), 85.06% cash, equity **$10,022.04**. **Today's tape (premarket):** US-Iran ceasefire confirmed = ES +0.6% / NQ climbing premarket; WTI $68.86 / Brent ~$72 (4-mo low Day 4 on ceasefire + Hormuz traffic); VIX 18.41 (-2.54%) compressed; CMCSA +25% on NBCU spin; GOOGL replaces VZ in DJIA today; 2y 4.18% flat; light data slate Mon/Tue, NFP early Thu 7/2 (consensus +172K). **Rule 12b prong (a) NOT met today** ($3.66 cushion). **Path A scan:** XLP defensive-timing-mismatch on Day-1-ceasefire-risk-on (FRESH frame); XLE knife-catch into Day-4 structural unwind (FRESH escalation); XLI Rule-9-cyclical-stack with XLB (cyclical-bid notwithstanding); XLK Lagging + KOSPI fragile + holiday-thin chase risk; XLV conflicting RRG read (Schwab vs memory) = no conviction. **No uncorrelated Leading-quadrant deployment today; Path B fresh disqualifiers documented per 12a — forced-action satisfied without forced deployment.** **Watchlist (intra-day Mon 6/29):** (a) XLB break of $52.06 pivot / $53.31 hwm = trail re-stretch; (b) ceasefire-bounce sustainability — headline-reversal risk; (c) Warsh Sintra hawk-dove read; (d) GOOGL Dow-inclusion gap fade test; (e) WTI hold of $68 / break to $67 = XLE accelerating; (f) quarter-end Tue 6/30 window-dressing pre-position. **Patience > activity — 10th week begins with phase +$22.04 / +0.22%, cash 85.06%, trail intact; forced-action satisfied via FRESH Path B without compromise on conviction bar.**
+
+
+## 2026-06-30 — Pre-market Research (Tue — Week 10 Day 2; **Q2 QUARTER-END / window-dressing day**; Mon 6/29 close: **DJIA fresh ATH 52,182.74 + S&P +1.2% + NDX +2.3% — tech-led rip + AI-trade reassessment**; XLB FADED -1.82% on the rip = clean sector-rotation OUT of Materials INTO Tech; US-Iran Doha talks resumed but tankers slowed weekend after fresh Hormuz incident; light data slate ahead of NFP early Thu 7/2)
+*(Perplexity API 401 invalid_api_key persists — WebSearch primary path per strategy.)*
+
+### Account
+- Equity: **$9,992.46** (intraday; slips below $10k psych mark; phase -$7.54 / -0.08% — back below water)
+- Cash: $8,524.48 (**85.31%** of equity)
+- Buying power: $38,208.26 (RegT $18,516.94)
+- Daytrade count: 0
+- Position: XLB 29 sh @ $50.88, mark **$50.62** (intraday, -0.08% from Mon close $50.66), unrealized **-$7.54 (-0.51%)** — back red after Mon -1.82% flush
+- GTC trail: stop **$47.979** / hwm $53.31 / 10% trail / qty 29 active (no fresh hwm in 10 sessions)
+- Manual -7% cut: **$47.32** ($3.30 of room / 6.5% above spot — **narrowing**)
+- **Rule 12b prong (a) WATCH — $50.62 − $47.979 = $2.64 cushion < $3 trail threshold = prong (a) MET intraday.** But 12b requires BOTH prongs (a) AND oversold (>2σ below 21-EMA OR lower-10%-of-20-day-range Leading-quadrant ETF). Oversold prong NOT triggered today (no Leading-quadrant ETF in lower-10%-of-20DR — XLB ~30% of 20DR after Mon flush but not extreme; XLP/XLI/XLE all elevated). **12b dormant unless XLB closes ≤$47.979 cash territory AND Leading-quadrant oversold lights up**
+- $5.60 XLB ex-div settled prior week (already in cash line)
+
+### Market Context
+- **MON 6/29 CLOSE: TECH-LED RIP / AI-TRADE REASSESSMENT** — S&P +1.2% (7,440.43), NDX +2.3%, DJIA +307pt to fresh ATH $52,182.74; market reassessed AI selloff narrative on Iran-ceasefire risk-on + Alphabet/VZ Dow inclusion + Warsh Sintra digest. **XLB closed -1.82% — clear sector-rotation OUT of Leading-Materials INTO previously-Lagging-Tech**. AAPL/NVDA/MSFT rebounded sharply from Fri lows
+- **Premarket Tue 6/30:** ES futures **+0.2%** at fresh highs (modest follow-through to Mon rip); NDX mildly positive; Dow holds ATH
+- **WTI ~$70 / Brent ~$73** (Brent off Mon lows) — **Doha US-Iran talks resumption ON but mixed signals**; Hormuz tanker traffic **slowed weekend after 2 vessels damaged in fresh incident**, though operators willing to continue transit. Brent on track for **~-20% MoM, -23% QoQ** — biggest quarterly drop in years. XLE structural-unwind narrative still dominant despite intraday bid
+- **VIX ~17.53 (-0.68%)** — further compressed from Fri 18.68; sits below the avg 17.87 — vol-selling re-engaged post-ceasefire + tech-rip
+- **2y Treasury ~4.18%** — flat; rate-cut pricing dead, hike-by-YE base case persists (9 FOMC SEP members projecting ≥1)
+- **TODAY's data slate (3 prints + earnings):**
+  - **9:45 ET: Chicago PMI (June)** — manufacturing pulse, market-mover
+  - **10:00 ET: JOLTS Job Openings (May)** — NFP pre-read
+  - **10:00 ET: Conference Board Consumer Confidence (June)** — sentiment
+  - **FHFA Home Price Index (April)** — secondary
+- **Earnings:**
+  - **NKE Q4 AMC** (consensus rev $10.85B / -2% YoY, EPS $0.13 / -7% YoY, op income $253M / -21% YoY) — discretionary/sentiment proxy
+  - **STZ (Constellation Brands)** Tue — staples/beverages (timing unclear, likely BMO based on historic)
+- **THIS WEEK's catalysts (holiday-shortened, accelerated):**
+  - **Tue 6/30:** Q2 quarter-end + above data + NKE/STZ
+  - **Wed 7/1:** ISM Manufacturing PMI
+  - **Thu 7/2:** **NFP EARLY** (consensus +172K) — week's main event
+  - **Fri 7/3:** US markets CLOSED for Independence Day observance
+- **Sector momentum YTD (Mon 6/29 close basis, Tue 6/30 intraday):**
+  - **Leading:** XLB Materials **~+14.9% YTD** (multi-source confirmation: still top YTD performer despite Mon -1.82% flush; MACD turned negative Jun 8 — momentum technical weakening though YTD print intact); XLI ~+12% (cyclical-stack risk); XLP ~+7% (defensive); XLE +20-25% (FADING — quarterly -23%)
+  - **Reassessed / Improving:** **XLK Tech — Mon NDX +2.3% rip = potential regime shift signal post-MU/AI-capex-panic resolution**; needs confirmation Day 2 (today). NOT yet formal Leading on Mon-close basis but on the cusp
+  - **Lagging:** XLF Financials (-5%); XLY Discretionary (NKE earnings binary AMC); XLC Comms (post-CMCSA spin distortion)
+  - **Conflict note:** XLV / XLU / XLRE positioning remains ambiguous (Schwab vs multi-source RRG conflict from Mon entry persists)
+- **XLB technicals (Mon 6/29 basis):** close $50.66 = **broke below $50.97 (DeMark pivot-low 6/23)** = bearish read; $50 round-number now the next pivot support; reclaim of $51.39 / $52.06 needed to stabilize. MACD negative (Jun 8) + Momentum <0 (Jun 8) = sub-technical bearish bias. **Q2 window-dressing typically supportive to top YTD performers — Tue/last-day-of-Q2 = potential late-day bid into XLB / XLI**
+
+### Rule 12 Forced-Action Protocol — STATUS
+- Week 10 cap: **0/3 used** entering Day 2
+- **Mon 6/29 forced-action session satisfied via FRESH Path B disqualifiers (passed 12a)** — Tue is discretionary scan, not forced
+- **12a freshness:** Tue's per-ticker disqualifiers may carry forward from Mon if events haven't shifted; new shifts (Mon tech rip, oil intraday bid) refresh applicable Path B lines
+- **Rule 12b status:** prong (a) **MET intraday at $50.62** (cushion $2.64 < $3) but oversold prong NOT triggered today (no Leading-quadrant ETF >2σ below 21-EMA or in lower-10%-of-20DR). 12b **dormant** unless both prongs simultaneously satisfied at a close
+- **Critical level for 12b full-arm:** XLB close ≤$49 area AND simultaneous Leading-quadrant ETF in lower 10% of 20DR — neither imminent today
+
+### Trade Ideas
+1. **XLB (held) — HOLD.** No add (Rule 5/9). Position -0.51% intraday at $50.62; broke below $50.97 pivot-low Mon = technical degradation. Watch: (a) **Q2 window-dressing bid into top YTD performer** = potential late-Tue close bid (supportive); (b) reclaim of $51.39 / $52.06 pivots = stabilization re-establishment; (c) downside: close ≤$50 round-number = momentum-weakening confirmation + tightens 12b prong (a) further. Manual cut $47.32 ($3.30 of room — narrowed)
+2. **XLK / SMH (Tech) — DISQUALIFIED (Path B, FRESH-refined).** Mon NDX +2.3% rip = first day of potential regime shift, NOT confirmation. **Single-day reversal post-MU/AI-panic-resolution = chase risk into NFP-Thu binary** (NFP early Thu = hot-print risk re-arms hawkish pressure on duration-heavy tech multiples). Holiday-thin Wed-Thu liquidity + 2-day rip-confirmation needs both Tue + Wed green for formal RRG promotion. **Day 1+1 of reversal = bottom-half R:R, asymmetric DOWNSIDE on NFP miss**. Skip
+3. **XLP (Consumer Staples) — DISQUALIFIED (Path B, FRESH).** **NEW today vs prior week:** Mon's tech-rip = textbook risk-on rotation OUT of defensives Day 1; XLP at ATH chase; hot-PCE multiple-compression persists; ceasefire risk-on Day 2 of regime. Bottom-decile timing R:R
+4. **XLE (Energy) — DISQUALIFIED (Path B, FRESH).** Doha-talks-resumption uncertainty Day 1 = modest oil intraday bid BUT structural unwind dominates (Brent -23% QoQ confirmed); 2 vessels damaged weekend = noise inside structural unwind. Knife-catch into deepening Q-end print. Skip
+5. **XLI (Industrials) — DISQUALIFIED.** Cyclical-stack with held XLB (Rule 9); FDX overhang Day 5; cyclical-bid Mon notwithstanding. Skip
+6. **XLV (Healthcare) — DISQUALIFIED (cannot validate).** Same conflicting RRG read (Schwab "top performer" vs multi-source -3% YTD Lagging). Deployment on conflicting data violates conviction bar. Skip
+7. **XLF (Financials) — DISQUALIFIED.** -5% YTD Lagging; curve hawkish; no near-term catalyst
+8. **XLU / XLRE — DISQUALIFIED.** Tech-rip Day 1 + ceasefire risk-on Day 2 = duration rotation-OUT compounds hot-PCE duration crush; double-headwind
+9. **NKE (single-name) — DISQUALIFIED.** Single-name binary AMC earnings into already-negative consensus revisions; -7% EPS / -21% op-income decline expected; binary positioning ≠ thematic deployment
+10. **Path A scan:** Leading set today = {XLB held / weakening, XLI cyclical-stack, XLP defensive-rotation-out, XLE structural-unwind}. **NO uncorrelated Leading-quadrant ETF with clean R:R today.** Path A skipped. Path B fresh per 12a (Mon tech-rip Day 1 frame + oil intraday-bid frame are NEW shifts vs Mon's Path B set)
+
+### Risk Factors
+- **Mon's tech rip 1-day vs regime shift** — NDX +2.3% on AI-reassessment + ceasefire bid = strong signal but Day 1+1 only; risk of Mon-rip-fade into NFP-Thu binary (hot NFP = duration crush re-engages); chase risk into holiday-thin liquidity Wed-Thu
+- **XLB technical degradation** — Mon close broke $50.97 pivot-low + MACD/Momentum sub-zero since Jun 8 = bearish technical bias even as YTD print stays Leading-top-decile. Today's data slate (PMI/JOLTS/Conf) can extend the cyclical fade
+- **Quarter-end Tue 6/30 window-dressing** — supportive late-day bid possible into top YTD performers (XLB, XLI); but quarter-end rebalancing flows can also drive surprise selling in extended winners
+- **NKE AMC earnings binary** — discretionary/sentiment proxy into already-negative consensus; large XLY-component move can ripple to broader risk
+- **NFP early Thu 7/2 binary** — consensus +172K; hot print = hike-by-YE base case extends, duration crush + cyclical bid; cool print = ratecut-renewal flutter (low odds given hot PCE Thu);   either way binary into holiday-thin Wed-Thu tape
+- **Hormuz incident weekend** — 2 vessels damaged = ceasefire-stability tail risk; headline-reversal can flip risk-on/off intraday
+- **XLB held: $3.30 cushion to manual cut, $2.64 to trail (12b prong-a MET intraday but full-arm needs both prongs)** — narrowing; needs $51.39 reclaim for stabilization
+- **Trade slot pressure: Week 10 Day 2 with 0/3 used; 10 consecutive no-trade weeks** — Mon 6/29 forced-action satisfied via FRESH Path B; Tue discretionary scan only; no Rule 12 pressure
+- **PDT cap: daytrade_count 0** — clean
+- **Sub-$10k psych mark** — equity slipped below $10,000 intraday for first time since week 9; weekend-Friday close at $10,022.04, Mon close $9,993.62, Tue intraday $9,992.46 — small magnitude but psychological inflection
+
+### Decision
+**HOLD — patience > activity; no uncorrelated Leading-quadrant Path A clears conviction bar; tech-rip Mon = Day 1+1 chase risk; XLB technical degradation but trail intact; no forced-action.** Day 47, Week 10 Day 2 (Tue — **Q2 quarter-end / window-dressing day**, post-Mon-tech-rip, light data slate ahead of NFP-Thu). 1 position (XLB 29 sh, mark $50.62 intraday, unrealized **-$7.54 (-0.51%)**), 85.31% cash, equity **$9,992.46** (sub-$10k intraday for first time in 6 sessions). **Today's tape (premarket):** Mon DJIA fresh ATH $52,182.74 + S&P +1.2% + NDX +2.3% (tech-led rip + AI-reassessment); ES futures +0.2% premarket Tue; WTI ~$70 / Brent ~$73 (intraday bid on Doha-talks uncertainty + Hormuz 2-vessel incident but structural unwind dominant — Brent -23% QoQ); VIX 17.53 (compressed); 2y 4.18% flat. **Rule 12b prong (a) MET intraday** ($2.64 cushion) but oversold prong NOT triggered = 12b **dormant**. **Path A scan:** XLK Mon-rip Day 1+1 chase-risk into NFP-Thu binary; XLP defensive-rotation-out Day 1; XLE oil-intraday-bid inside structural -23%-QoQ unwind; XLI cyclical-stack; XLV conflicting RRG. **NO uncorrelated Leading-quadrant deployment today; Path B fresh per 12a — discretionary HOLD without forced trigger**. **Watchlist (intra-day Tue 6/30):** (a) XLB hold of $50 round / reclaim of $51.39 = stabilization; (b) Chicago PMI 9:45 + JOLTS/Conf 10:00 ET = cyclical-data reaction; (c) Q2 window-dressing late-day bid into Leading-top-decile (XLB supportive); (d) NDX Day 1+1 follow-through = tech-rip confirmation OR fade-back-to-MU-failure narrative; (e) NKE AMC earnings setup + STZ print; (f) prep ISM Wed + NFP-Thu binary scan. **Patience > activity — Week 10 begins with phase -$7.54 / -0.08% sub-$10k intraday but cash 85.31% intact, trail intact, position remains in narrow cushion zone — no forced-action signal, no high-conviction Path A; tech-rip Day-1+1 needs Tue + Wed both-green to qualify as regime shift, not a single-day chase trigger.**
