@@ -2280,3 +2280,59 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD — patience > activity; NFP 8:30 binary + Fri holiday-closed = deploy-into-illiquid setup; no uncorrelated Leading-quadrant Path A clears conviction bar; XLB trail intact + cushion restored; no forced-action.** Day 49, Week 10 Day 4 (Thu — **NFP-8:30-morning-binary + Warsh-Sintra-dovish-tilt + Iran-peace-talks-resumption Day 1 (24hr flip) + Fri-holiday-closed last-full-session**). 1 position (XLB 29 sh, mark $51.02 Wed close, unrealized **+$4.06 (+0.28%)**), 85.21% cash, equity **$10,004.06** (reclaimed $10k after 3-session sub-$10k print). **Today's tape (premarket):** ES futures +11 (+0.15%) at 7,554.50 — all positioning frozen until 8:30 NFP; ADP Wed 98K soft miss vs 130K = cool-signal setup; WTI $67.74 -1.23% (Iran-peace + Hormuz-reopening supply-return); Brent $70.13-71.30; VIX 17.11 open (vol-normalization pre-NFP); 2y ~4.15-4.20%. **Rule 12b prong (a) cushion $3.04** — right at $3 threshold (Wed intraday MET, Wed close $51.005 restored just above); oversold prong not triggered = **12b armed but dormant**. **Path A scan:** XLK Day-3-of-Mon-rip failed 2-day both-green confirmation + concentration flag + NFP binary; XLI cyclical-stack + NFP margin-drag risk; XLP ATH-extended + 2-way binary; XLE Iran-peace-flip + supply-return; IWM most-NFP-sensitive; XLV conflicting RRG. **NO uncorrelated Leading-quadrant deployment; NFP-8:30-binary + Fri-holiday-closed illiquidity = worst possible chase-window; Path B fresh per 12a — discretionary HOLD without forced trigger**. **Watchlist (intra-day Thu 7/2):** (a) **NFP 8:30 print — hot/cool/in-line 3-way regime**; (b) XLB post-NFP reaction — reclaim of $51.39/$52.06 = stabilization / close ≤$49.87 = 12b full-arm = Mon Path-A scan; (c) Warsh continued Sintra remarks; (d) Factory orders 10:00 ET; (e) holiday-thin PM drift into 3-day weekend; (f) prep Mon 7/6 ISM Services + full-week reset scan. **Patience > activity — Week 10 Day 4 with equity reclaimed above $10k, cash 85.21% intact, XLB trail intact + cushion restored to $3.70, no forced-action signal, NFP-8:30-binary into Fri-holiday-closed = highest-risk deploy-window of month — discipline holds. Post-NFP + post-holiday Mon 7/6 reset scan will re-price sector regime.**
+
+## 2026-07-03 — Pre-market Research (Fri — Week 10 Day 5; **US MARKETS CLOSED for July 4 obs (Sat holiday → Fri close); bond market also closed**; NO tradable session — logging for record only; **Thu NFP 57K massive miss vs 110K = cool-shock**; oil down ~2% Brent ~$70 on Hormuz reopening; XLB reclaimed $52.01 on Jul 2 tape; **Mon 7/6 = full-week reset scan post-NFP + post-3-day-weekend**)
+*(Perplexity API 401 invalid_api_key persists — WebSearch primary path per strategy.)*
+
+### Account
+- Equity: **$10,032.77** (Jul 2 close carried; phase **+$32.77 / +0.33%** — fresh phase high since Jun 25)
+- Cash: $8,524.48 (**84.97%** of equity)
+- Buying power: $38,321.13 (RegT $18,557.25)
+- Daytrade count: 0
+- Position: XLB 29 sh @ $50.88, mark **$52.01** (Jul 2 close carried; Alpaca change_today 0 — holiday), unrealized **+$32.77 (+2.22%)** — best mark since Jun 25 (+$29.58); clean recovery from Jun 29 flush (-$6.38)
+- GTC trail: stop **$47.979** / hwm $53.31 / 10% trail / qty 29 active (no fresh hwm in 13 sessions)
+- Manual -7% cut: **$47.32** ($4.69 of room / 9.9% above spot — ample; restored from Wed's $3.00 narrowest)
+- **Rule 12b prong (a) status:** $52.01 − $47.979 = **$4.03 cushion — clear of $3 threshold**. Oversold prong: XLB well outside lower-10% of 20DR. **12b dormant**
+- No dividends pending
+
+### Market Context (holiday-closed session)
+- **US equity + bond markets CLOSED Fri 7/3** — July 4 falls Saturday, observance moves to prior Friday per NYSE/Nasdaq/SIFMA convention. **Bond market also closed** (early 2pm ET close Thu 7/2). Trading resumes **Mon 7/6 9:30 ET**
+- **Thu 7/2 NFP result: +57K vs +110K consensus = major cool miss** (4-month low; May revised down to 129K from earlier print). Unemp 4.2% (in-line). **AHE +3.5% y/y** (ticked up from 3.4%). Prior 3-month strong-gain streak broke
+- **S&P +0.3% / NDX +0.5% / Dow +0.3% Thu** — mild positive despite the cool print; NFP-cool + AHE-tick-up = mixed Fed read (growth cooling but wage-inflation sticky) = market split
+- **2y yield dropped Thu** as Fed rate-cut-hold digested; dollar softened; but AHE stickiness caps rate-cut renewal
+- **WTI/Brent: Brent ~$70 down 2% Thu = extended 3rd-straight-session losses to PRE-WAR levels** — Hormuz shipping recovery (UAE restored 3.9M bpd; total Hormuz flows >10M bpd), Iran peace-framework signed, US Doha/Qatar peace-talks progressing (delayed briefly by Khamenei funeral starting Sat 7/4 but Trump praised progress). WTI area $67-68. **XLE structural bear intact**
+- **VIX:** compressed further post-NFP-cool (vol crush; specifics pending Mon reset)
+- **Iran/Hormuz:** peace framework signed; Qatar talks delayed by Khamenei funeral (starts Sat 7/4); Trump-Iran rhetoric mixed (progress praised + nuclear-weapons stance held); UAE 3.9M bpd restored = supply-return dominant
+- **NO US data today** — full holiday closure
+- **Sector momentum YTD (Jul 2 close basis):**
+  - **Leading:** **XLB Materials Leading quadrant confirmed multi-source (potential 14-month cup-and-handle breakout targeting $56.8 per Barchart chart-work)**; **XLI Industrials Leading** (AI-infra + defense capex intact); XLB Jul 2 close $52.01 = **reclaimed $51.39 pivot** = stabilization signal
+  - **Lagging:** **XLK Tech Lagging quadrant confirmed multi-source** — AI-capex-pay-off reassessment continues; +33% YTD but momentum cooling; Mon-6/29-rip failed 2-day both-green (Mon-rip → Tue-mixed → Wed-mixed) = single-day burst not regime shift
+  - **XLE:** structural Q2 -23% + Hormuz-reopening supply-return = compound bear intact
+  - **XLP:** ATH-defensive-extended into cool-NFP; duration-bid supportive but rotation-out-of-defensive risk on risk-on tape
+  - **XLY:** NKE overhang persists
+  - **XLF:** -5% YTD Lagging; curve dynamics 2y-drop-Thu neutral
+- **XLB technicals (Jul 2 close $52.01):** **Reclaimed $51.39 DeMark pivot-low** = stabilization signal; still below $53.31 hwm (13 sessions no fresh hwm); MACD/Momentum sub-zero (Jun 8) intact but oscillating up. **14-month cup-and-handle target $56.8 per multi-source chart work** — reclaim of $53.31 hwm = handle-breakout confirmation
+
+### Rule 12 Forced-Action Protocol — STATUS
+- Week 10 cap: **0/3 used entering Day 5 (holiday close = 0/3 final)** — **10th straight no-trade week finalized**
+- **NO tradable action possible today** — market closed; Rule 12 not applicable Fri 7/3
+- **Mon 7/6 = Week 11 Day 1** — will reset weekly cap to 0/3; Rule 12 forced-action check applies fresh at Fri 7/10 EOD basis
+- **12a freshness (Mon 7/6 prep):** post-3-day-weekend + post-NFP-cool + Iran-framework-signed + Hormuz-reopening + Khamenei-funeral-Sat = MAJOR fresh event set vs prior Path B lines
+- **Rule 12b status:** $4.03 cushion — **clear** of $3 threshold. Oversold prong not triggered. **12b dormant**
+
+### Trade Ideas
+1. **XLB (held) — HOLD (forced by holiday closure).** Position +2.22% at $52.01 (Jul 2 close carried); reclaimed $51.39 pivot = stabilization; cup-and-handle target $56.8 per Barchart chart-work = ~9.2% upside from current if handle breaks. **Handle breakout confirmed only on $53.31 hwm reclaim + hold**. Mon 7/6 watch: (a) $53.31 hwm break = trail-stretch + handle-breakout confirmation → +15% trail-tighten trigger $58.51 remains distant; (b) hold of $51.39 pivot on any pullback = consolidation intact; (c) close ≤$49.87 = 12b full-arm = mandatory Path-A scan
+2. **NO OTHER IDEAS SUBMITTED — market closed**. Full Path A/B scan deferred to Mon 7/6 pre-market with fresh tape
+
+### Risk Factors
+- **Market closed all day** — no risk, no reward; position frozen at Jul 2 close carry mark
+- **3-day-weekend gap risk into Mon 7/6 open** — Iran/Hormuz headline flip potential (Khamenei funeral Sat 7/4 — geopolitical noise possible), oil-supply-return continuation, post-NFP-cool digestion, weekend commentary on cool-NFP-vs-sticky-AHE Fed split
+- **XLB gap-risk Mon:** on $52.01 carry mark — needs $50 hold on any weekend-gap-down; $51.39 pivot reclaim confirms stabilization
+- **NFP-cool-tail growth-fear:** 57K = 4-month low → recession-signal risk if July print also cools; monitor next NFP + ISM data (ISM Services Sun 7/6 per prior tags — moved from typical Tue)
+- **Iran-peace-framework signed but Trump nuclear-stance held** — headline-flip 2-way instability persists (24hr flips already demonstrated Wed→Thu)
+- **PDT cap: daytrade_count 0** — clean
+- **Trade slot pressure: Week 10 finalized 0/3, 10 straight no-trade weeks** — Week 11 opens Mon 7/6 with fresh 0/3; Rule 12 forced-action check applies Fri 7/10 EOD basis if 0/3 by then
+- **Equity $10,032.77 fresh phase high** — best mark since Jun 25 (+$29.58); reclaimed sustainable $10k+ posture
+
+### Decision
+**HOLD — MARKET CLOSED, no action possible. Fri 7/3 US markets closed for July 4 obs; bond market also closed. Position frozen at Jul 2 carry mark. XLB +$32.77 (+2.22%) fresh phase high since Jun 25; equity $10,032.77 clear of $10k. Mon 7/6 = Week 11 Day 1 reset scan with fresh Path A/B evaluation post-NFP-cool + post-holiday + post-Iran-framework.** Day 50, Week 10 Day 5 (Fri — **HOLIDAY CLOSED (July 4 Sat obs) — NO SESSION**). 1 position (XLB 29 sh, mark $52.01 carry, unrealized **+$32.77 (+2.22%)**), 84.97% cash, equity **$10,032.77**. **Today's tape:** N/A — full closure US equity + bond markets; log-only entry. **Rule 12b prong (a) cushion $4.03** — clear of $3 threshold; oversold prong dormant. **NO Path A / Path B scan today** — deferred to Mon 7/6 fresh pre-market. **Watchlist (Mon 7/6 pre-market prep):** (a) XLB $52-$53 hold vs. $53.31 hwm break = trail-stretch + cup-and-handle confirmation; (b) post-NFP-cool digestion — growth-fear risk-off vs. cool-print-ratecut-flutter re-arms; (c) sticky AHE +3.5% y/y cap on any dovish re-pricing; (d) Iran/Hormuz weekend-flip risk (Khamenei funeral Sat + Qatar-talks resumption); (e) oil pre-war-levels continuation vs. any headline-flip supply-shock; (f) ISM Services Sun 7/6 print pre-Mon-open; (g) Mon Path A scan on top-decile Leading-quadrant uncorrelated ETF (XLB already held — hunt uncorrelated); Path B fresh disqualifier set per 12a. **Patience > activity — Week 10 closes 0/3 (10th straight no-trade week) with phase +$32.77 / +0.33% fresh high, XLB trail intact, ample cushion, dry powder 84.97% — discipline holds. Mon 7/6 reset scan re-prices post-cool-NFP sector regime.**
