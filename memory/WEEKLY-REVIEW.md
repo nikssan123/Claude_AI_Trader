@@ -511,3 +511,74 @@ Capital preserved (-0.11% week, modest give-back from $10,053-$10,059 phase plat
 
 ### Overall Grade: B-
 **First grade above C+ in 7 weeks.** Capital preserved (-0.05% week, fresh phase high $10,028.13 intraday Thu, closed $10,022.04 Fri); **first +1.95% relative-performance week of the phase** in a -2% S&P tape (chip-rotation-out / PCE-hot / KOSPI -8% circuit-breaker); XLB survived Tue flush + recovered to +2.01% on cost Thu; every Tier-1 binary of a 4-binary week avoided (Vance-Round-1, MU AMC, PCE 8:30, KOSPI overnight). **Rule 12 Path-B executed Mon 6/22 with verifiable 12a-freshness AND ALL 6 DISQUALIFIERS VINDICATED BY TAPE** within 4 sessions — first week where Path-B carries verifiable information value. **But: ninth consecutive zero-new-entry week; ninth consecutive ~85% cash week; the relative-performance win was 100% cash-drag math, not active selection**; Tue 6/23 12b near-miss exposed an oversold-threshold calibration error in the rule structure; both Rule 12 default-flip and Rule 13 pre-flagged amendments deferred AGAIN. Defensive grade A; rule-execution grade A- (Path-B vindicated by tape, 12b tracked correctly but threshold too strict); participation grade F. The +1.95% week is the proof-of-concept that the cash position has structural utility — and is also the proof that 9 weeks of identical defensive posturing yields 0.22% absolute equity gain and a still-negative cumulative tracking error. **Mon 6/29 is the structural pivot decision day**: if it produces another fresh-disqualifier no-action result, the Rule 12 default-flip + 12b relax + Rule 13 codification at Fri 7/03 review is mandatory — no further deferral acceptable.
+
+## Week ending 2026-07-03
+
+### Stats
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $10,022.04 (Fri 6/26 close → Mon 6/29 baseline) |
+| Ending portfolio | $10,032.77 (Fri 7/3 CLOSED July 4 obs; Thu 7/2 was last session) |
+| Week return | +$10.73 (+0.11%) |
+| S&P 500 week | ~+0.79% (SPX ~7,449-7,499; Q2 closed +14.9% best since Q3 2020; NFP 57K miss + Iran ceasefire + oil <$70) |
+| Bot vs S&P | ~-0.68% |
+| Trades | 0 new (W:0 / L:0 / open:1 XLB carry-over) |
+| Win rate | n/a (no closed trades) |
+| Best trade | XLB +2.22% (Thu 7/2 $52.01 — best post-Jun-25 mark, only position) |
+| Worst trade | XLB -0.43% (Mon 6/29 $50.66 -1.82% flush, only position) |
+| Profit factor | n/a |
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+| — | — | — | — | None this week |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+| XLB | $50.88 | $52.01 | +$32.77 (+2.22%) | $47.979 (10% trail, hwm $53.31) |
+
+### What Worked
+- **XLB recovered from Mon flush to Thu high** — position gave -1.82% Mon 6/29 on the ceasefire-day risk-on rip (Materials FADED into Tech-led broad ATH) then round-tripped to $52.01 Thu 7/2 on cool-NFP + oil-down + rate-cut-hope rotation. Phase closed +$32.77 / +2.22% on cost — best on-cost mark since Jun 25.
+- **Every Tier-1 binary of the 4-day week avoided**: Mon US-Iran ceasefire Day 1 risk-on chase-trap; Tue Q2 quarter-end window-dressing (WTI 4-mo low + DJIA ATH combo = mixed-signal skip); Wed ADP soft 98K vs 130K cons (cool-signal pre-NFP, don't pre-position); Thu 8:30 NFP 57K massive miss (cool-shock, unknowable ex-ante direction). Zero exposure to any single binary.
+- **Rule 12 Path-B executed Mon 6/29 with verifiable 12a-freshness AND FIVE FRESH FRAMES**: ceasefire-confirmed Day 1 (NEW vs Fri PCE-hot), Alphabet/Verizon DJIA swap (NEW), WTI 4-mo low Day 4 extension (NEW escalation from Day 1), NFP-Thu calendar position (NEW), ceasefire-risk-on-rotation-out frame for XLP/XLE/XLU (NEW). **3rd consecutive week of Rule 12 procedural compliance with verifiable freshness.** No verbatim recycle.
+- **XLB held above 12b thresholds every session** — Mon low $50.66 → cushion $2.69 (below $3 threshold prong-a WOULD have met) but oversold-prong (b) never met (XLB not lower 10% of 20-day range because 20-day range straddled $49-$52.72 wide); dormant per current rule construction. **The Mon 6/29 near-miss is exactly the scenario the 12b oversold-prong relaxation was designed to catch.**
+- **GTC trail intact at $47.979 / hwm $53.31** through 5 sessions (Mon-Thu + closed Fri); manual -7% cut at $47.32 with $4.69 of room on Thu 7/2 close. Trail has now stood 15 sessions without a fresh hwm print, longest stretch since the position was opened.
+
+### What Didn't Work
+- **TENTH consecutive zero-new-entry week** — Mon 6/29's ceasefire-day rip with DJIA fresh ATH 52,182.74 + S&P +1.2% + NDX +2.3% + XLB FADING -1.82% while sector rotation printed OUT of Materials INTO Tech was arguably the cleanest sector-rotation signal of the phase, and Path B was elected again. **The bot spent Q2 close 100% in cash-drag mode while the S&P booked its best quarter since Q3 2020 (+14.9%).**
+- **TENTH consecutive ~85% cash week** — 10-for-10 across the phase; deployment-floor rule (75-85%) violated every single week. Cumulative tracking error vs S&P is now ~-5.5% to -6% (last week +1.95% clawback held; this week gave back another -0.68% in an up tape).
+- **The pre-flagged codification deadline (this review) is now BINDING** — Mon 6/29 produced another fresh-disqualifier no-action outcome exactly as the amendment was designed to catch. **Rule 12 default-flip + Rule 12b oversold-prong relaxation + Rule 13 operational-trigger logging ALL codified this review** (see Strategy Rule Change below). No further deferral.
+- **Sector-rotation print Mon 6/29 (Materials FADE / Tech RIP on DJIA-swap-day) was the 3rd unresponded broad-rotation signal of the phase** (5/29 Healthcare+Financials; 6/11 Materials/Financials/Utilities; 6/29 Tech-take-over on AI-trade-reassessment). Three data points = signal, not noise. The strategy still has no protocol for capturing a same-session sector-rotation flip as an entry trigger.
+- **XLB's failure to participate in the Mon 6/29 broad rally is a Materials-momentum divergence** — the position FADED while broad tape ripped ATH, meaning the "held leader" thesis reversed direction on the same session the tape confirmed a new-quarter regime. The $53.31 hwm has now stood 15 sessions through: FOMC hawk-dot, Juneteenth 3-day gap, PCE-hot, MU AMC, chip-flush, ceasefire-rip, DJIA-ATH, NFP-cool-shock. **8 catalysts, no hwm break.** The leader is not leading anymore.
+- **Cool-NFP-rate-cut-hope pivot Thu 7/2** was a duration-friendly print that lifted XLK/XLRE/XLU — the bot's Mon disqualifiers explicitly named "hot-NFP Thu = duration crush ripple" as the risk frame; the print went the OTHER way and the strategy has no re-evaluation protocol mid-week when the binary resolves against the disqualifier thesis.
+- Perplexity 401 persists 50 sessions running — formal stop-logging in effect per codified strategy note.
+
+### Key Lessons
+- **The pre-flag-and-defer loop was itself the inertia pattern.** Rule 12 default-flip was pre-flagged Jun 5, codifiable Jun 13, deferred Jun 19, deferred Jun 26 — 4 review cycles of "next week if the pattern holds." The pattern held every single week. **Codifying this review honors the pre-flagged commitment; further deferral would confirm that the meta-inertia is now the operating regime, not the object-level trade-selection inertia.**
+- **XLB's 15-session hwm-standoff through 8 distinct catalysts is a fully-diagnosed structural signal.** Materials was the top YTD sector at Q2 close (+22% YTD per Schwab) yet the held position could not print a fresh hwm through the strongest possible catalyst window. **Interpretation: sector-ETF top-line YTD leadership was cap-weight concentration in 2-3 chemicals/miners; the ETF itself has already digested the leadership.** Rotation OUT of Materials on Mon 6/29 (ATH day) confirmed this at the tape level.
+- **The +14.9% Q2 S&P print vs +0.33% bot phase print (over the same ~9 weeks of Q2 participation) is the clearest possible statement of the participation problem.** 45x underperformance on the quarter. Even the two positive-tracking-error weeks (weeks 6, 9) were cash-drag against declines, not active alpha. **The strategy's 10 weeks of proof-of-concept is now a proof-of-failure: the risk-management architecture is A+, the entry-frequency architecture is F, and the net result is 0.33% absolute return in a +14.9% Q2 tape.**
+- **The Mon 6/29 Path-B disqualifiers were structurally honest but functionally identical in outcome to weeks 6, 8, 9 Path-B entries.** Rule 12a proved fresh-disqualifier documentation is possible without changing behavior — exactly the loophole Rule 12 default-flip is designed to close. The default-flip inverts the burden of proof: instead of "prove why to deploy," the burden becomes "prove why THIS week's catalyst-confirmed leader is NOT tradable."
+- **Weeks 7-10 have all posted +$10 to +$50 unrealized swings on XLB with no realized outcome and no new positions** — the position has become a beta-tracker with a 6-8-week hwm-standoff. Continuing to grade "held position defense" as A+ is procedurally accurate but strategically hollow: the position is neither winning meaningfully nor threatening to lose meaningfully; it exists.
+
+### Adjustments for Next Week
+- **Mon 7/6 is the 7th consecutive Forced-Action mandatory session AND the first post-cool-NFP + post-3-day-weekend + start-of-Q3 entry window of the phase.** With **Rule 12 default-flip NOW LIVE**, the Mon 7/6 default is Path-A deployment on the highest-conviction Leading-quadrant uncorrelated ETF UNLESS Path-B disqualifiers specifically address this-week's catalyst-confirmed thesis (cool-NFP-rate-cut-hope-pivot + DJIA-ATH + Q3-open regime).
+- Watchlist for Mon 7/6:
+  - **XLK / SMH (Tech)** — cool-NFP + rate-cut-hope duration-lift lifted XLK Thu; if Mon confirms follow-through above prior-week range = Path-A candidate #1. RRG-Lagging status may have flipped Improving/Leading on the ATH-week rotation. Fresh weekend RRG validation required.
+  - **XLF (Financials)** — cool-NFP curve-steepener whip (2y down, 10y sticky = NIM ambiguous); pre-emptive DISQUALIFICATION possible but must clear default-flip test.
+  - **XLV (Healthcare)** — conflicting YTD read (Schwab top-YTD-flight-to-safety vs prior memory Lagging -3%) needs weekend validation; if RRG confirms Leading = strong Path-A candidate (uncorrelated to XLB, defensive-rotation-hedge to Tech-heavy tape).
+  - **XLP (Consumer Staples)** — cool-NFP + rate-cut-hope = duration-friendly reversal of Fri 6/26 rotation-out frame; Fri disqualifier is NOW STALE. Path-A candidate #2.
+  - **XLB add-on** — hwm-standoff at $53.31 for 15 sessions with sector rotating OUT = operational add-trigger from May 29 is **now DOWNGRADED not upgraded**; add-trigger conditions unmet. Trim consideration if $52.06 reclaim fails Mon-Tue.
+  - **XLE** — WTI ~$70, Brent ~$70, Hormuz reopening + ceasefire durability improving = structural-unwind Day 8+; disqualified pre-emptively.
+  - **XLI, XLU** — cyclical-stack with XLB / hot-PCE duration overhang; disqualified pre-emptively.
+- **XLB action plan**: hwm $53.31 standoff = 15 sessions; if Mon 7/6 reclaims $52.06 pivot-high and follows through above $53 = hold; if fails to reclaim $52 by Tue close AND RRG Materials Velocity prints red = MANUALLY TRIM HALF at market to free ~$750 for Path-A deployment. This becomes an operational rule for this position from here forward given the 15-session hwm-standoff diagnostic.
+- **Rule 12b prong-a activation is now more sensitive** (relaxed threshold per codification below); Mon 6/29 flush would have triggered under the new rule. Track carefully next week.
+- **Rule 13 operational-trigger-logging trial run**: Mon 7/6 research entry must include explicit Y/N logging on the May 29 XLB partial-add trigger status (declined per hwm-standoff diagnosis above) — this is the codification's first live test.
+- Perplexity API: 50 sessions of 401. WebSearch primary. No further status logging.
+
+### Strategy Rule Change
+- **TRADING-STRATEGY.md updated this review — THREE amendments codified:**
+  1. **Rule 12c (Default-Flip)** — inverts the Path A vs Path B default: if Rule 12 triggers AND a Leading-quadrant uncorrelated ETF has a same-week catalyst-confirmed thesis (FOMC/PCE/NFP/CPI print, geopolitical resolution signature, DJIA/sector-composition change, RRG quadrant transition), Path A is the DEFAULT. Path B requires each disqualifier to address the specific catalyst-confirmed thesis — not generic risk factors, not "wrong holding window," not "single-day chase risk" alone. Pre-flagged Jun 5, deferred 4 review cycles, codified after Mon 6/29 fresh-disqualifier no-action outcome.
+  2. **Rule 12b oversold-prong relaxation** — change "lower 10% of 20-day range OR >2 std-dev below 21-EMA" to "lower 15% of 20-day range OR closes within 2% of 20-day low OR >1.5 std-dev below 21-EMA." Pre-flagged Jun 26 after Tue 6/23 near-miss; Mon 6/29 near-miss confirms 2-week proven pattern.
+  3. **Rule 13 (Operational-Trigger Logging)** — any operational add-trigger or trim-trigger explicitly defined in a prior week's review requires explicit Y/N logging in the research entry for the trigger day, with rationale. Silent passage = unforced procedural error. May 29 XLB partial-add trigger's silent passage on Mon 6/15 is exhibit A; 2-week deferral confirmed the enforcement gap.
+
+### Overall Grade: C-
+Capital preserved (+0.11% week, phase +$32.77 / +0.33% — fresh phase-close-high); XLB recovered from Mon flush to Thu high $52.01 (+2.22% on cost); every Tier-1 binary of a 4-binary week avoided (ceasefire-rip Mon, Q2-close Tue, ADP Wed, NFP Thu); Rule 12 Path-B executed Mon 6/29 with verifiable 12a-freshness AND 5 fresh frames. **But: TENTH consecutive zero-new-entry week; TENTH consecutive ~85% cash week; lagged S&P by ~0.68% in a +0.79% week that closed Q2 at +14.9% (best quarter since Q3 2020)**; the ATH-day sector-rotation OUT of Materials INTO Tech was the 3rd unresponded rotation print of the phase; XLB's hwm-standoff is now 15 sessions through 8 distinct catalysts — the leader is not leading. **The pre-flagged codification deadline that HAS been deferred 4 straight reviews is HONORED this review**: Rule 12 default-flip + 12b oversold-prong relaxation + Rule 13 operational-trigger-logging all codified in TRADING-STRATEGY.md, effective Mon 7/6. Defensive grade A; rule-codification grade A (deferral loop finally broken); participation grade F. Q2 finished with bot +0.33% vs S&P +14.9%. **Mon 7/6 is the first true test of the new rule architecture — Path-A default is now live; Path-B requires catalyst-specific disqualification, not generic risk narrative.**
