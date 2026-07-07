@@ -2414,3 +2414,79 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD — patience > activity; no uncorrelated Leading-quadrant Path A clears conviction bar (every top-5 Leading name has a fresh disqualifier: OPEC+/RRG-rollover/Rule-9-stack/ATH-chase/duration-2-way); XLB trail intact + range-top ample cushion; ISM Services PMI 10:00 binary = wait-for-print; FOMC-minutes-Wed + DAL-Thu = binary-cluster ahead. Week 11 Day 1 discretionary scan, no forced-action trigger.** Day 51, Week 11 Day 1 (Mon — **post-3-day-weekend reset + post-NFP-cool digestion + ISM Services 10:00 ET + OPEC+ 5th-monthly-supply-boost + XLK 2H-downgrade + XLB rollover-signal-flagged**). 1 position (XLB 29 sh, mark $52.30 premarket, unrealized **+$41.18 (+2.79%)**), 84.89% cash, equity **$10,041.18** (2nd-best phase mark; $12.18 shy of Jun 16 peak $10,053.36). **Today's tape (premarket):** ES futures +0.46% at ~7,560; NDX +1.2%; Dow near 53k; VIX 15.81 (compressed); WTI $68-69 / Brent $71.87 (OPEC+ 188K supply boost); 2y softened-post-NFP; 3-day-weekend risk-on tape absorbing Iran-Doha + Khamenei-funeral + supply-return + cool-NFP-vs-sticky-AHE mixed. **Rule 12b prong (a) cushion $4.32** — clear; oversold prong opposite (near range-top) = **12b dormant**. **Path A scan:** every top-5 Leading name disqualified fresh — XLE OPEC+ compound-bear + RRG-rollover; XLB held + rolling-over-flag; XLI Rule-9-stack + ISM-binary; XLP ATH-extended + risk-on-rotation-out; XLU duration-2-way; **NO uncorrelated Leading-quadrant deployment today**. **Path B FRESH per 12a** — 8 major event-set shifts vs prior week (NFP-cool + 3-day-weekend + OPEC+ 5th + XLK-downgrade + XLB-rollover-flag + Iran-Doha + ISM-binary + DAL-Q2-open). **Watchlist (intra-day Mon 7/6):** (a) XLB $53.31 hwm break = trail-stretch + cup-and-handle confirmation (target $56.8, analyst avg $56.67); (b) ISM Services 10:00 print + prices-paid subindex reaction; (c) SOX/NDX PM tape for tech-drag confirmation (Schwab -7% today claim = verify at open); (d) Iran-Doha weekend headline digest; (e) FOMC-minutes-Wed pre-positioning; (f) prep Fri 7/10 EOD Rule 12 forced-action-trigger scan (if 0/3 finalized, Mon 7/13 becomes forced-action session per Rule 12). **Patience > activity — Week 11 opens with phase +$41.18 / +0.41% (2nd-best mark), XLB trail intact + ample cushion + near hwm-break setup, dry powder 84.89% intact — no forced-action signal, no high-conviction Path A; ISM-Services-binary + FOMC-minutes-binary + DAL-earnings-binary this week; every top-5 Leading name has fresh disqualifier; discipline holds. Fri 7/10 EOD determines whether Mon 7/13 becomes mandatory forced-action session.**
+
+## 2026-07-07 — Pre-market Research (Tue — Week 11 Day 2; **post-Dow-53k-record + post-AI-revival-Mon reset**; **chip-rotation-out premarket flagged** — NDX futures -0.9%, Micron -5%, KLA/MRVL/NVDA/AVGO/AMD red; **Samsung Q2 despite +18x profit -7.7% = memory-cycle concern**; **SpaceX joins NDX-100 today**; XLB spot $51.98, near $53.31 hwm (~$1.33 below); Rule 12b prong (a) cushion narrowing to $4.00 — still clear of $3 threshold)
+*(Perplexity API 401 invalid_api_key persists — WebSearch primary path per strategy.)*
+
+### Account
+- Equity: **$10,031.90** (premarket; phase **+$31.90 / +0.32%** — near yesterday's $31.32 mark)
+- Cash: $8,524.48 (**84.98%** of equity)
+- Buying power: $38,318.70 (RegT $18,556.38)
+- Daytrade count: 0
+- Position: XLB 29 sh @ $50.88, mark **$51.98** (last close carry — day change 0), unrealized **+$31.90 (+2.16%)**
+- GTC trail: stop **$47.979** / hwm $53.31 / 10% trail / qty 29 active (no fresh hwm in 15 sessions)
+- Manual -7% cut: **$47.32** ($4.66 of room / 9.0% above spot — ample)
+- **Rule 12b prong (a) status:** $51.98 − $47.979 = **$4.00 cushion — clear of $3 threshold** (narrowest of phase). Oversold prong: XLB 20DR ~$49.87–$52.72, spot ~74% of 20DR = NOT oversold. **12b dormant**
+- No dividends pending
+
+### Market Context
+- **Premarket Tue 7/7:** ES futures -0.1% to -0.25%; **NDX-100 futures -0.9%** on chip rotation-out (Micron -5%, KLA/MRVL/NVDA/AVGO/AMD red); Dow futures +0.2% / +87 pts (post-53k record). **Bifurcated tape: Dow-cyclicals bid, semis flushed**
+- **Prior close (Mon 7/6):** Dow +0.3% to **53,013** (first close above 53k — record); S&P 500 +0.7%; NDX +1.1% on AI-revival Mon (Foxconn Q2 beat)
+- **Oil: WTI ~$69 / Brent >$72** — near 4-month lows; OPEC+ 188K supply-boost confirmed weekend; **Saudi Aramco cut Arab Light for Asia by $11/bbl to $1.50 discount** = extreme softening signal; **XLE compound-bear deepens**
+- **VIX 15.88 (+0.44%)** — compression continues sub-16; 52-wk range 13.38–35.30 = near bottom = tape not pricing tail risk
+- **Samsung Q2:** despite **+18x y/y operating profit**, stock **-7.7%** on foreign-fund outflows = **memory-cycle sentiment fragile despite fundamentals** — reinforces chip rotation-out theme
+- **SpaceX joins NDX-100 today** (went public Jun 12) — passive-flow event; index-rebalance may add mild NDX pressure on outgoing name
+- **Dell +7.7% Mon** on Trump White House promotion — single-name binary/political, not thematic
+- **TODAY's data slate:**
+  - Bond markets normal session
+  - No major macro print scheduled Tue (post-ISM-Mon digestion)
+- **Mon ISM Services PMI (7/6 print):** requires verification for post-print market impact; NFP-cool digestion + ISM-print combined has re-armed rate-cut-flutter mildly
+- **THIS WEEK's remaining catalysts:**
+  - **Wed 7/8:** FOMC minutes (June) — hawk/dove tilt read
+  - **Thu 7/9:** PepsiCo Q2 earnings — consumer/staples read
+  - **Fri 7/10:** Delta Air Lines Q2 earnings — Q2 season opener; consumer discretionary/airline read (correction from prior log — DAL is Fri 7/10 not Thu per fresh multi-source)
+  - **Fri 7/10 EOD:** Rule 12 forced-action trigger date if week finalizes 0/3
+- **Sector momentum (fresh Jul 7 open basis):**
+  - **Leading (RRG):** XLE (OPEC+ compound-bear + rolling-over), **XLB Materials (Leading confirmed + 14-mo cup-and-handle target $56.8 flagged)**, XLI (cyclical Dow-53k tailwind), XLP (ATH-defensive), XLU (top-5)
+  - **Chip-rotation-out theme fresh Tue premarket** — reinforces XLK/SMH disqualifier; NDX-drag risk if theme extends intra-day
+  - **Dow-cyclical bid** — Industrials/Materials/Financials structural inflow if Dow-record theme extends
+- **XLB technicals:** Jul 2 pivot high $51.74 / pivot low $50.75 (per GuruFocus); spot $51.98 = above both pivots = consolidation intact. **$53.31 hwm ~$1.33 above** = a Tue close/break = fresh hwm + broker trail stretch + **cup-and-handle handle-breakout confirmation** ($56.8 target = +8.7% upside from spot). MACD/Momentum sub-zero divergence (Jun 8) intact even as price recovers
+- **Analyst avg 12M target XLB $56.67** (matches Barchart chart-work $56.8); highest $64.69 / lowest $46.22 — 27 WS analysts past 3 months
+
+### Rule 12 Forced-Action Protocol — STATUS
+- Week 11 cap: **0/3 used entering Day 2** — no forced trigger yet
+- **12a freshness (Tue 7/7 prep):** Path B lines fresh vs prior weeks — (a) Dow 53k record (fresh); (b) Samsung Q2 +18x-profit-but-stock-down-7.7% (fresh); (c) Aramco Asia $11 cut (fresh weekend confirmation); (d) SpaceX NDX-100 add (fresh today); (e) chip-rotation-out Tue-premarket (fresh); (f) Foxconn Q2 beat / AI-revival-Mon (fresh); (g) DAL Fri correction from prior log Thu (fresh reconciliation)
+- **Rule 12b prong (a) cushion $4.00** — narrowest of phase; still clear of $3 threshold. Oversold prong opposite (near range-mid, not oversold). **12b dormant** but monitor: any $50.75 pivot-low break intraday = cushion narrows below $3 = 12b prong (a) armed
+- **Fri 7/10 EOD basis:** 2+ consecutive Fri sub-75%/0-slot condition already MET (Fri 6/26 finalized 0/3 + Fri 7/3 holiday-closed finalized 0/3). If Fri 7/10 closes 0/3 → **Mon 7/13 becomes mandatory forced-action session per Rule 12**
+- **Rule 13 (Operational-Trigger Logging):** No prior-week-defined operational add/trim triggers for XLB at spot $51.98; not at +15% trail-tighten ($58.51); no hwm break; no pivot re-test today. Y/N: **N — no triggers active**
+
+### Trade Ideas
+1. **XLB (held) — HOLD.** No add (Rule 5/9). Position +2.16% at $51.98; **~$1.33 below $53.31 hwm** — a Tue close ≥ $53.31 = fresh hwm + trail stretch + cup-and-handle confirmation ($56.8 target = +8.7% upside; analyst avg $56.67 matches). Watch: (a) close ≥ $53.31 = hwm break + trail stretch; (b) $51.74 pivot-high hold = consolidation intact; (c) close ≤ $50.75 pivot-low = 12b prong (a) narrows toward $3 threshold; (d) chip-rotation-out contagion risk to broader risk-off Dow-cyclical unwind
+2. **XLI (Industrials) — DISQUALIFIED (Path A + Path B FRESH).** **Rule 9 cyclical-stack with held XLB** = structural disqualification. Even absent that: FOMC-minutes-Wed binary + DAL-Fri binary + Dow-53k-record ATH-chase = 2-way asymmetric. Skip
+3. **XLU (Utilities) — DISQUALIFIED (Path B, FRESH).** Duration-play — post-ISM-Mon digestion may support if print soft, but ES-red-premarket + chip-rotation-out is not clean duration-bid; ATH-defensive rotation-in Day 1 not confirmed. Fresh vs prior: chip-rotation-out is a DEFENSIVE tell but XLU-specific inflow not observed on premarket tape. Skip
+4. **XLP (Consumer Staples) — DISQUALIFIED (Path B, FRESH).** ATH-extended defensive; **PepsiCo Thu 7/9 earnings binary** = fresh single-name catalyst risk within basket; PEP is XLP top-10. Skip
+5. **XLE (Energy) — DISQUALIFIED (Path B, FRESH).** **Aramco Arab Light Asia $11/bbl cut** (fresh weekend) + OPEC+ 188K continuation + WTI 4-month lows + RRG-rollover = **worst possible Leading-quadrant knife-catch this week**. Skip
+6. **XLK / SMH (Tech) — DISQUALIFIED (Path B, FRESH).** **Chip-rotation-out Tue-premarket** (Micron -5%, KLA/MRVL/NVDA/AVGO/AMD red) + Samsung -7.7% despite +18x profit + prior 2H-2026-sector-underperform-downgrade + SOX flagged Schwab -12% 2d = **Lagging-quadrant knife-catch worst possible entry**. Skip
+7. **IWM / R2K — DISQUALIFIED (Path B, FRESH).** Not top-5 Leading in multi-source RRG; FOMC-minutes-Wed binary + DAL-Fri binary; small-cap H1-finale-rebalance-outflow risk into Q3 opens. Skip
+8. **XLV (Healthcare) — DISQUALIFIED.** Conflicting RRG persists; conviction bar not cleared on data-conflict. Skip
+9. **XLF (Financials) — DISQUALIFIED.** -5% YTD Lagging; FOMC-minutes-Wed binary; curve dynamics 2-way post-NFP-cool + ISM digestion. Skip
+10. **XLY (Consumer Discretionary) — DISQUALIFIED.** NKE overhang; DAL Fri 7/10 Q2 season-open binary (airline/consumer read); not thematic. Skip
+11. **XLC (Communication Services) — DISQUALIFIED.** Post-CMCSA distortion; not clean read. Skip
+12. **Single names (Dell, Samsung, SpaceX, PEP) — DISQUALIFIED.** Single-name binary/political; not thematic and not within Rule 9 clean setup. Skip
+13. **Path A scan:** Leading set today = {XLE Aramco-cut worst-catch, XLB held + rolling-over-flag prior, XLI Rule-9-stack, XLP PEP-Thu-binary, XLU duration-2-way}. **NO uncorrelated Leading-quadrant ETF with clean R:R today.** Path A skipped. Path B FRESH per 12a (7 major event-set shifts vs prior day — chip-rotation-out + Samsung -7.7% + Aramco $11-cut + Dow-53k-record + SpaceX-NDX-add + Foxconn-Q2-beat + DAL-Fri-correction — clears 50% freshness bar decisively)
+
+### Risk Factors
+- **Chip-rotation-out contagion risk** — NDX -0.9% premarket + Micron -5% + Samsung -7.7% cross-Pacific = potential broader-tape drag; watch S&P for late-day fade if semi-heavyweights extend losses. Bifurcated tape (Dow bid + NDX flushed) is unstable — resolves one way intra-day
+- **Rule 12b prong (a) cushion $4.00** — narrowest of phase; any $50.75 pivot-low break intraday narrows toward $3 threshold = 12b armed = would force fresh mandatory Path-A scan next session
+- **XLB "rolling over in relative momentum" fresh RRG signal** (carried from prior day) — even as still Leading-quadrant; MACD/Momentum sub-zero divergence (Jun 8) intact; near hwm setup — asymmetric (hwm-break = handle-breakout confirmation +8.7% target; hwm-fail = rollover confirmation)
+- **Aramco Arab Light Asia $11/bbl cut** — fresh weekend + OPEC+ 188K continuation = deep signal of softening physical crude; XLE compound-bear reinforced; cross-asset deflation-tail-risk in commodities that could spill to Materials-input-cost dynamic (input-cost-down = XLB margin-tail bullish, but demand-signal-down = XLB volume-tail bearish — 2-way)
+- **FOMC minutes Wed 7/8** — mid-week binary; hawkish tilt = duration crush + cyclical mixed; dovish tilt = ratecut-flutter re-arms
+- **PepsiCo Thu 7/9** = XLP top-10; miss = defensive rotation-out; beat = defensive-bid confirmation
+- **DAL Fri 7/10** = Q2 earnings season opener (consumer discretionary + airline/consumer read); prior log logged Thu — corrected to Fri per fresh multi-source
+- **Fri 7/10 EOD = Rule 12 potential trigger day** — 2+ consecutive Fri sub-75%/0-slot condition MET (Fri 6/26 + Fri 7/3 both finalized 0/3); Fri 7/10 0/3 → Mon 7/13 mandatory forced-action session
+- **PDT cap: daytrade_count 0** — clean
+- **Bifurcated-tape resolution risk** — Dow bid + NDX flushed premarket is unstable; either Dow-cyclicals catch down (broader risk-off) or NDX catches up (chip washout completes). Intraday resolution binary
+- **SpaceX NDX-100 add** — passive-flow event; may add mild NDX pressure on outgoing name displacement (marginal)
+
+### Decision
+**HOLD — patience > activity; XLB trail intact + range-mid cushion narrowing to $4.00 (Rule 12b prong (a) still dormant but monitor $50.75 pivot-low break); no uncorrelated Leading-quadrant Path A clears conviction bar (every top-5 Leading name has a FRESH disqualifier today: XLE Aramco-cut worst-catch / XLB held-rolling-over / XLI Rule-9-stack / XLP PEP-Thu-binary / XLU duration-2-way); chip-rotation-out Tue-premarket + Samsung -7.7% + bifurcated Dow-NDX tape = wait-for-resolution; FOMC-minutes-Wed + PEP-Thu + DAL-Fri binary-cluster ahead. Week 11 Day 2 discretionary scan; Fri 7/10 EOD is potential Rule-12-trigger day.** Day 52, Week 11 Day 2 (Tue — **post-Dow-53k-record + AI-revival-Mon + chip-rotation-out-Tue-premarket + Samsung -7.7% + Aramco Asia $11-cut + SpaceX NDX-100 add**). 1 position (XLB 29 sh, mark $51.98, unrealized **+$31.90 (+2.16%)**), 84.98% cash, equity **$10,031.90** (near yesterday $31.32 mark; $21.46 shy of Jun 16 peak $10,053.36). **Today's tape (premarket):** ES -0.1% to -0.25%; NDX -0.9% (chip rotation-out); Dow +0.2% (post-53k); VIX 15.88 (compressed); WTI $69 / Brent >$72 (Aramco $11 Asia cut + OPEC+ 188K); no macro print today. **Rule 12b prong (a) cushion $4.00** — narrowest of phase; oversold prong dormant; **12b dormant**. **Path A scan:** every top-5 Leading name has a FRESH disqualifier — XLE Aramco-cut, XLB held-rolling-over, XLI Rule-9-stack, XLP PEP-Thu-binary, XLU duration-2-way; **NO uncorrelated Leading-quadrant deployment today**. **Path B FRESH per 12a** — 7 major event-set shifts vs prior day (chip-rotation-out + Samsung -7.7% + Aramco $11-cut + Dow-53k-record + SpaceX-NDX-add + Foxconn-Q2-beat + DAL-Fri-correction). **Watchlist (intra-day Tue 7/7):** (a) XLB $53.31 hwm break = trail-stretch + cup-and-handle confirmation ($56.8 target, analyst avg $56.67); (b) XLB $50.75 pivot-low break = 12b cushion narrows toward $3 threshold = arms 12b; (c) chip-rotation-out spillover to broader S&P PM tape; (d) bifurcated Dow-NDX resolution direction; (e) prep FOMC-minutes-Wed positioning; (f) prep PEP-Thu / DAL-Fri binary cluster; (g) Fri 7/10 EOD Rule-12-trigger monitoring. **Patience > activity — Week 11 opens with phase +$31.90 / +0.32% (near best marks), XLB trail intact + ample cushion + near hwm-break setup, dry powder 84.98% intact — no forced-action signal, no high-conviction Path A; chip-rotation-out + FOMC-Wed + PEP-Thu + DAL-Fri binary-cluster this week; every top-5 Leading name has a fresh disqualifier; discipline holds. Fri 7/10 EOD determines whether Mon 7/13 becomes mandatory forced-action session.**
