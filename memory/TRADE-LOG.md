@@ -413,6 +413,9 @@ No positions. No trades today. Trades this week: 0/3.
 
 **Notes:** Red follow-through. XLB shed -0.85% to $51.54, trimming unrealized from +$31.32 to +$19.14 (+1.30%) — second straight red close, gives back roughly a third of last week's recovery. Account -$12.18 (-0.12%) day, +$19.14 (+0.19%) phase — still positive but the +0.31% Jul 06 mark fades. Broker trail unchanged at hwm $53.31 / stop $47.979 (price closed $1.77 below hwm — still no fresh hwm in three weeks). Manual -7% cut remains $47.32 ($4.22 of room — still ample). No trades today; week 11 0/3 cap used (eleventh straight no-trade week — patience continues). Cash 85.08% — dry powder fully intact. Position still well shy of +15% trail-tighten trigger ($58.51). Tomorrow: rerun premarket scan, watch XLB for hold of $51 / reclaim of $52, otherwise hold the GTC trail — if $51 breaks decisively, prep for manual -7% cut at $47.32; hunt an uncorrelated RS leader (avoid cyclical stacking) — deploy only on a clean setup within risk rules.
 
+### Jul 09 — Trade
+- **XLV** | BUY | 7 sh | entry $161.74 | trailing stop 10% GTC (initial $145.935, hwm $162.15) | thesis: Rule 12c Path-A DEFAULT deployment — 12b DUAL-PRONG confirmed Wed EOD ($2.18 cushion + spot within 2% of 20-day low); XLV Leading multi-source (Kalkine + StockCharts #73) with TWO 12c catalyst-confirmed criteria: FOMC hawkish print (i) + RRG quadrant transition (iv); defensive rotation-in, uncorrelated with XLB (Materials cyclical vs Healthcare defensive) | target $194 (+20%; near-term $165.61 52-wk high) | R:R ~2.9:1 | cost $1,132.18 (11.34% of equity) | trades this week 1/3
+
 ### Jul 08 — EOD Snapshot (Day 52, Wednesday)
 **Portfolio:** $9,982.02 | **Cash:** $8,524.48 (85.40%) | **Day P&L:** -$36.25 (-0.36%) | **Phase P&L:** -$17.98 (-0.18%)
 
