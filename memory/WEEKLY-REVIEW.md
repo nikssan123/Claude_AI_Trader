@@ -582,3 +582,70 @@ Capital preserved (-0.11% week, modest give-back from $10,053-$10,059 phase plat
 
 ### Overall Grade: C-
 Capital preserved (+0.11% week, phase +$32.77 / +0.33% — fresh phase-close-high); XLB recovered from Mon flush to Thu high $52.01 (+2.22% on cost); every Tier-1 binary of a 4-binary week avoided (ceasefire-rip Mon, Q2-close Tue, ADP Wed, NFP Thu); Rule 12 Path-B executed Mon 6/29 with verifiable 12a-freshness AND 5 fresh frames. **But: TENTH consecutive zero-new-entry week; TENTH consecutive ~85% cash week; lagged S&P by ~0.68% in a +0.79% week that closed Q2 at +14.9% (best quarter since Q3 2020)**; the ATH-day sector-rotation OUT of Materials INTO Tech was the 3rd unresponded rotation print of the phase; XLB's hwm-standoff is now 15 sessions through 8 distinct catalysts — the leader is not leading. **The pre-flagged codification deadline that HAS been deferred 4 straight reviews is HONORED this review**: Rule 12 default-flip + 12b oversold-prong relaxation + Rule 13 operational-trigger-logging all codified in TRADING-STRATEGY.md, effective Mon 7/6. Defensive grade A; rule-codification grade A (deferral loop finally broken); participation grade F. Q2 finished with bot +0.33% vs S&P +14.9%. **Mon 7/6 is the first true test of the new rule architecture — Path-A default is now live; Path-B requires catalyst-specific disqualification, not generic risk narrative.**
+
+## Week ending 2026-07-10
+
+### Stats
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $10,032.77 (Fri 7/03 close → Mon 7/06 baseline) |
+| Ending portfolio | $9,994.76 |
+| Week return | -$38.01 (-0.38%) |
+| S&P 500 week | ~+1.0% (SPX ~7,499 → 7,575.39 Fri close; tech-led rally — NVDA +4%, META +~15% best week since early 2024) |
+| Bot vs S&P | ~-1.38% |
+| Trades | 1 new (W:0 / L:0 / open:2 — XLB carry + XLV fresh) |
+| Win rate | n/a (no closed trades) |
+| Best trade | XLB +2.22% (Mon 7/6 $51.96 — carry-over of Thu 7/2 print, only mark above cost this week) |
+| Worst trade | XLB -1.22% (Wed 7/8 $50.26 -2.43% flush, position only) |
+| Profit factor | n/a |
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+| — | — | — | — | None this week |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+| XLB | $50.88 | $50.90 | +$0.58 (+0.04%) | $47.979 (10% trail, hwm $53.31) |
+| XLV | $161.74 | $160.91 | -$5.81 (-0.51%) | $147.078 (10% trail, hwm $163.42) |
+
+### What Worked
+- **FIRST NEW ENTRY IN 11 WEEKS — Rule 12c Default-Flip fired on Day 3 of the new rule architecture and delivered.** Wed 7/8 XLB flush (-2.43% to $50.26) triggered Rule 12b DUAL-PRONG (cushion $2.28 above trail + spot within 2% of 20-day low), Thu 7/9 mandatory Path-A scan → XLV bought at $161.74 (~11.3% of equity) as the highest-conviction Leading-quadrant uncorrelated ETF (defensive/Healthcare vs cyclical/Materials). The rule that took 4 review cycles to codify produced action within 3 sessions of going live.
+- **Deployment lifted off the 85% cash floor for the first time in the phase** — cash 74.03% Thu / 73.98% Fri, marginally below the 75% band floor and structurally different from 10 weeks of 85% dead-weight. First tangible movement of the Rule 12 architecture into the risk-budget zone it was designed to occupy.
+- **Portfolio now has cyclical/defensive split** — XLB (Materials) + XLV (Healthcare) breaks the single-sector-concentration cap on upside that was diagnosed as the arithmetic ceiling of the phase (1 position × 15% = ~6-7% broad-tape participation). Two 11-15% sleeves × uncorrelated sectors is the first structural change to the beta profile of the book.
+- **XLB survived Wed 7/8 flush with clean form** — closed $50.26 (only $2.28 above the GTC trail $47.979 and $2.94 above manual cut $47.32), the tightest cushion of the position's life. Did not panic-cut; XLB bounced +1.11% Fri to $50.82, unrealized recovered from -$17.98 to essentially flat -$1.74.
+- **Rule 13 operational-trigger-logging honored on trial run** — Thu 7/9 XLV research entry included explicit Y/N logging on the May 29 XLB partial-add trigger (DECLINED per hwm-standoff diagnosis), first live compliance with the codified rule.
+- **Every Tier-1 binary of the week avoided**: Mon 7/6 post-holiday reopening tape (no chase into 3-day-weekend gap), Tue 7/7 XLB rollover (no add-on-a-fade impulse), Wed 7/8 flush (traded the SETUP not the flush day), Thu 7/9 open (XLV entry AFTER Wed EOD confirmation, not into an intraday reversal). Discipline held on both directions.
+
+### What Didn't Work
+- **The Path-A deployment landed at exactly the tape moment that punished defensives** — S&P ripped +1% on a tech-led rally (NVDA +4%, META +~15% best week since early 2024) while XLV entered mid-week and closed -0.51% on cost by Fri. The catalyst-confirmed thesis for XLV (FOMC-hawkish-print duration-defensive rotation + RRG Leading transition) was structurally correct at entry but ran directly into a rate-cut-hope tech-rip that lifted precisely the sectors XLV was supposed to hedge against. First-week timing was against.
+- **Lagged S&P by ~1.38% in a +1.0% week** — even with the first new entry in 11 weeks, the bot still under-participated because (1) XLB was flat-to-down on the week, (2) XLV entered Thu into a tape that was rewarding tech/growth not defensives, (3) the deployment shift from 85%→74% cash was only ~11 percentage points, and Fri closed the book still ~74% cash. Structural underdeployment persists.
+- **XLB's Wed 7/8 -2.43% flush was another hwm-standoff confirmation** — position now 17+ sessions without a fresh hwm print through this week's tech-led rally where cap-weight Materials should have benefited from broad risk-on. Fri close $50.90 remains $2.41 below the $53.31 hwm; the "held leader" thesis stays broken.
+- **XLV entry-week P&L reads as -0.51% but conceals a wider Thu→Fri fade** — Thu +$3.01 open-day green, Fri -$8.82 same-day drop to close -0.56% below entry. The XLV thesis relies on RRG-Leading + defensive-rotation confirmation into next week; if Fri's tech-rip momentum carries into Mon, XLV may face a second red day pressuring the +2% cushion above manual cut.
+- **The first Path-A entry in the phase came via 12b intra-week flush trigger, not Mon-mandatory Path-B failure** — the Mon 7/6 Rule 12 forced-action session produced another Path-B outcome (per the pattern of the prior 10 weeks), meaning 12c default-flip did NOT actually flip the Monday default; the deployment happened only because 12b fired mid-week. **The Monday-Path-A default remains untested in behavior even under the new architecture.**
+- Perplexity 401 persists 55 sessions running — no status logging per codified strategy note.
+
+### Key Lessons
+- **The rule that produced this week's deployment was 12b (intra-week flush), not 12c (default-flip)** — meaning the new architecture's headline change (Path-A default on Monday) has still not fired in practice. The Wed 7/8 XLB flush would have triggered a Path-A scan under the OLD 12b too (relaxed threshold widened the trigger, but the OLD threshold's dual-prong "closes within 2% of 20-day low" was independently met). The XLV entry is a WIN for the rule architecture, but a QUALIFIED win: it's the rule that would have fired anyway on a big flush day, not the rule specifically designed to overcome Monday-mandatory-session inertia.
+- **The first cross-sector deployment happened at a tape moment where the defensive thesis was structurally correct but tactically wrong** — cool-NFP + rate-cut-hope pivot was a duration-lift regime that FAVORED tech/growth over defensives, exactly the sectors XLV underweights. This is a diagnostic finding: RRG-Leading + catalyst-confirmed does NOT necessarily equal "first-week-green"; the timing of a rotation-in entry can lag the catalyst by 1-3 weeks. The rule architecture is not calibrated for that timing gap.
+- **The single-position-concentration cost is now empirically visible on both sides** — 10 weeks of XLB-only under-participated on up tapes; the first week of XLB+XLV under-participated on an up tape TOO, because both positions fought the week's rotation-in-tech theme. The next uncorrelated leg (Tech/SMH? Financials/XLF? Industrials/XLI?) is the third structural need — but the same rules that took 11 weeks to produce the second position may take another 11 weeks to produce the third.
+- **Wed 7/8's flush was the cleanest exit-side stress test of the entire XLB life** — $2.28 above the GTC trail, $2.94 above manual cut. The trail did not trigger; the position bounced Fri. Exit-side architecture grade remains A+; the position has now survived 5+ distinct binaries without a stop-out (May 15 PCE, May 19 flush, Jun 10 Iran-strikes, Jun 17 FOMC hawk-dot, Jul 8 rate-hope-punishing-Materials-cyclicals).
+- **The first tangible strategic-participation lift of the phase is measured against a tape that punished the specific sector chosen** — meaning the "next week's outcome" test is materially binary: if XLV holds $160 and reclaims $162 into a defensive-rotation-back-in tape (durability of rate-cut-hope pivot dependent), the entry is validated; if Fri's tech-rip momentum extends, XLV will require a manual defense (trim, add-on-dip, or hard-hold-to-trail decision). The next 5 sessions matter more than the last 5 for the entry's grade.
+
+### Adjustments for Next Week
+- **Mon 7/13 is the 8th consecutive Forced-Action mandatory session AND the 2nd full-week live-run of the new rule architecture.** Rule 12 + 12a + 12b (relaxed) + 12c (default-flip) all active. Rule 13 operational-logging enforceable. Watchlist:
+  - **XLV (held)** — priority is defense: if Mon reclaims $162.50 and follows through above $163.42 hwm, entry is validated and trail re-stretches. If Mon closes below $160 with tech-rip momentum extending, the position is at ~-1.5% on cost inside the first week — well inside tolerance but confirming timing gap. Manual re-eval at $155 (-4% mark).
+  - **XLB (held)** — hwm-standoff at $53.31 is now 17+ sessions. If Mon fails to reclaim $51.50 AND RRG Materials Velocity prints red, MANUAL TRIM HALF at market to free ~$740 for a third Path-A entry. This carries forward the May 29 operational rule under Rule 13 (Y/N logging required).
+  - **XLK / SMH (Tech)** — cool-NFP + rate-cut-hope Fri rip is the current market leader; if RRG confirms Leading transition on weekend read AND XLK holds Fri-close range Mon, this is the Rule 12c default-flip candidate for Mon 7/13's mandatory Path-A scan. First real Mon-default-flip test.
+  - **XLF (Financials)** — cool-NFP curve-steepener ambiguous; needs additional data (Mon-Tue NIM read). Pre-emptive disqualification pending 12c-specific catalyst clarity.
+  - **XLI / XLE** — disqualified per cyclical-stack (XLI) and structural-unwind Day 15 (XLE Iran ceasefire durability).
+  - **XLP / XLU** — pre-emptively disqualified per rate-cut-hope duration-lift favoring growth not defensives (contradicts current tape); reconsider only if tech-rip fails Mon.
+- **Rule 12c first live Monday test** — Mon 7/6 was procedurally under old-format Path-B (research entry format did not fully update to require catalyst-specific disqualification per 12c). Mon 7/13 requires each disqualifier to specifically address the cool-NFP-rate-cut-hope-tech-lift thesis. Generic risk factors → Path A becomes default.
+- **XLV manual protection**: -7% cut at $150.42 ($10.42 of room); if position closes below $155 within first 10 sessions, re-evaluate thesis (defensive-rotation-in not yet confirmed = premature entry).
+- **XLB manual protection**: -7% cut at $47.32 ($3.58 of room after Fri $50.90 close); trail $47.979 ($2.92 of room). If XLB breaks $50 decisively AND fails to reclaim same-session, MANUAL cut half regardless of trail (operational carry-forward, Rule 13 Y/N logging mandatory).
+- Perplexity API: 55 sessions of 401. WebSearch primary. No further status logging.
+
+### Strategy Rule Change
+- **No formal TRADING-STRATEGY.md edits this review.** The rule architecture codified last review (12c default-flip + 12b relaxation + 13 operational-logging) delivered a first-live-week deployment via 12b intra-week flush trigger. 12c Monday default-flip has NOT yet been tested in behavior (Mon 7/6 produced another Path-B outcome; the entry came via Wed 7/8 flush, not Mon default). One full week of post-codification data is insufficient to judge; the Mon 7/13 forced-action session is the first true 12c Monday-default-flip test. If Mon 7/13 also produces a Path-B outcome under the new catalyst-specificity bar, the 12c mechanism may need a further amendment; pre-flagging for the Fri 7/17 review.
+
+### Overall Grade: C+
+Capital gave back (-$38.01 / -0.38% week, phase +$8.05 / -0.08% end from +$32.77 fresh high) but the phase-defining event of the run finally happened: **FIRST NEW ENTRY IN 11 WEEKS**. Rule 12c Path-A + 12b intra-week flush trigger delivered XLV at $161.74 on Thu 7/9, breaking the single-position-concentration diagnosis that has capped the phase since Apr 30. Deployment lifted from 85% → 74% cash; cyclical/defensive split established; Rule 13 operational-logging honored on trial run. Every Tier-1 binary of the week avoided. XLB survived the closest-to-trail flush of its life. **But: lagged S&P by ~1.38% in a +1.0% tech-led rip that punished defensives; XLV -0.51% entry-week; XLB flat-to-red and remains in 17+ session hwm-standoff; the Path-A entry came via 12b flush trigger not 12c Monday default-flip, meaning the headline rule change is still behaviorally untested; the first-week tape rewarded exactly the sectors both held positions underweight.** Defensive grade A+; rule-execution grade A (deployment achieved on Day 3 of new architecture); rule-behavior grade C (12c default-flip did not fire on Mon 7/6, XLV came via 12b); participation grade D+ (first deployment breaks the F streak but entry-week tape was structurally adverse). Mon 7/13 is the first true test of 12c Monday-default-flip mechanics under a live tech-led-momentum tape.
