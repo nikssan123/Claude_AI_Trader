@@ -2718,3 +2718,72 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision
 **HOLD — patience > activity; Rule 12 forced-action pressure RELEASED by Thu XLV Path-A entry (week 11 finalizes 1/3 → 2+ consecutive Fri sub-75%/0-slot condition BROKEN → Mon 7/13 no longer mandatory-action); no fresh 12b/12c trigger today (12b executed same-week; 12c no fresh catalyst-confirmed thesis); both trail-stops live and healthy (XLB $47.979 hwm $53.31; XLV $147.078 hwm $163.42); DAL Q2 BMO = single-name binary not thematic; SK Hynix ADR chip-bid = one-day noise not multi-source rotation reversal; oil-back-off + Iran-de-escalation signal = evolving 2-way headline not resolved; preserving 2 remaining weekly slots for next week's CPI Wed + bank-earnings Fri catalyst cluster.** Day 54, Week 11 Day 5 (Fri — post-FOMC-hawkish + Iran-de-escalation-signal + SK-Hynix-ADR-Nasdaq-listing + DAL-Q2-BMO + oil-back-off + XLV-defensive-Day-2). 2 positions (XLB 29 sh + XLV 7 sh), 74.02% cash, equity **$9,987.40** (phase -0.13% — still red but XLV green-tick cushions). **Today's tape (premarket):** ES mixed early -0.16% → +0.79% rebound on chip-strength; SK Hynix ADR debut catalyst; WTI <$73 / Brent ~$77 (Iran-de-escalation-lite); VIX ~16.85-17; Polymarket only 20% Fri-open-up implied (pullback expected). **Watchlist (intra-day Fri 7/10):** (a) XLV hold above $161 / break above $163.42 hwm (trail stretches); (b) XLB reclaim $50.87 (12b oversold-band disarm) / break below $49.87 20-day-low (manual-cut escalation watch); (c) DAL Q2 BMO print + tape reaction (airline/consumer/refining tell); (d) SK Hynix ADR debut PM tape + semis-rotation-1-day-noise-vs-trend read; (e) Iran-headline evolution (Trump-Iran-negotiations vs Kharg-strike-threat); (f) EOD weekly review write-up + week 11 finalization; (g) prep next-week CPI Wed 7/15 + bank-earnings Fri 7/17 catalyst cluster; (h) if XLV breaks above $165.61 ATH = new hwm-break trigger prep for next-week trail-tighten watch. **Patience > activity — week 11 slot spent per Rule 12c mandate; 2 slots preserved; both positions within rules; DAL binary + SK Hynix noise + Iran evolution = wait-for-print/wait-for-resolution environment; discipline holds.**
+
+## 2026-07-13 — Pre-market Research
+
+### Account
+- Equity: $9,996.50 (last equity $9,993.98 → +$2.52 overnight mark)
+- Cash: $7,392.29 (73.95% — slightly below 75% band floor, fine per fresh XLV entry)
+- Buying power: $36,860.95 (regT $17,388.79 / non-marginable $8,694.39)
+- Daytrade count: 0 (clean)
+- Positions: XLB 29 sh @ $50.88 (current $50.89, +$0.29 / +0.02%) | XLV 7 sh @ $161.74 (current $161.20, -$3.78 / -0.33%)
+- Long market value: $2,604.21 (26.05% deployed)
+- GTC trails live: XLB $47.979 (hwm $53.31) | XLV $147.078 (hwm $163.42)
+
+### Market Context
+- **WTI / Brent:** WTI ~$74-75 (last multi-source mark ~$71.77 Jul 10; +4% overnight on Hormuz escalation implies $74.60) / **Brent $78.85 (+3.74%)** — Iran declared Strait of Hormuz closed Sunday; US CENTCOM struck ~140 Iranian military sites overnight; Iran retaliated on US bases in Kuwait/Qatar/UAE/Oman/Jordan. Fresh weekend supply-shock re-priced 4% on the tape
+- **S&P 500 futures:** MIXED — early reads split (ES +0.4% one source vs -0.3% another); **SPY $752.54 -0.32% / QQQ $718.07 -1.30% premarket per Benzinga** — chip-heavy tape leading down (SK Hynix -10% premarket). Net: **modest risk-off, not a full flush**
+- **VIX:** **15.03** (opened 16.06, range 14.96-16.16) — still LOW despite weekend Iran-strike headlines; vol market pricing calm, not panic
+- **Today's catalysts (Mon 7/13):**
+  - Iran/Hormuz escalation — US Sunday strikes + Iran retaliation on Gulf US bases (2-way headline stream expected all day)
+  - Fastenal (FAST) Q2 BMO — industrial-distributor read
+  - SK Hynix premarket -10% dragging semis / QQQ
+  - Kickoff of Q2 earnings week — banks Tue, chips Thu
+- **Earnings before open:** **FAST (Fastenal)** sole major BMO reporter — industrial-distributor tell for XLB Materials read-through (Q1 rev $2.20B / EPS $0.30 last print); CRMT small-cap
+- **Economic calendar (week 12):**
+  - **Tue 7/14:** **June CPI + Core CPI** (BLS); **Fed Chair Warsh House Financial Services testimony 10am ET**; **JPM, WFC, GS, C Q2 BMO**
+  - **Wed 7/15:** **June PPI**; Warsh Senate Banking 10am ET; **BAC, MS Q2 BMO**; China Q2 GDP; BoC rate decision; **ASML** premarket
+  - **Thu 7/16:** **NFLX, TSM** — chip/streaming reads; UnitedHealth
+  - **Fri 7/17:** light — bank tail end
+- **Sector momentum (fresh multi-source Jul 6-13 basis):**
+  - **Kalkine/Investing (primary read):** **Leading: XLP, XLI, XLB, XLE** | **Weakening: XLV** | Lagging: XLK, XLC, XLY, XLF | Improving: XLRE, XLU
+  - **StockCharts Best 5 #73 read (prior week):** confirms XLV in Top-5 rotation (defensive-rotation-in narrative)
+  - **IBKR/RRG (single-source outlier):** XLK still Leading — chip-flush today argues against
+  - **Bloomberg 7/13 read:** "Healthcare Looks Ready to Star in Rotation Trade" — bullish XLV narrative (fading policy/dollar/earnings concerns + AI wildcard)
+  - **Net:** XLB Leading (own — cyclical) + XLE Leading (oil-shock spike, not clean structural — single-catalyst) + XLP/XLI Leading (defensive/cyclical uncorrelated). XLV mixed: Weakening (Kalkine) vs Bloomberg-bull thesis — 2-way read, held position tolerable
+- **YTD performance:** S&P 500 +9.3% through Jul 2; XLB +22% YTD Materials leader (breakout from long consolidation); XLV -3% YTD (14% 1-yr gain)
+- **XLB technicals:** current $50.89, $2.91 above GTC trail $47.979 = **within-$3 flush-proximity band** (12b prong-1 TRIGGERED); Fri close $50.82; 20-day range top ~$52.72 / bottom ~$49.87; $47.32 manual -7% cut $3.57 below spot. Trail hwm $53.31 (unchanged 3+ weeks — no fresh hwm since mid-Jun). Seeking Alpha rated HOLD (limited upside post-rebound)
+- **XLV technicals:** current $161.20, $14.12 above GTC trail $147.078 = **ample cushion** (12b prong-1 not met); Fri close $160.84 (Day 2 of position); 52-wk high $165.61 (target); $150.42 manual -7% cut $10.78 below spot. Trail hwm $163.42 — no fresh hwm since entry
+- **Cross-sector Iran-escalation impact (weekend):**
+  - **Positive:** XLE (oil-lift, +4%), XLF (rate-cut-defer if oil-inflation stickens), XOM/CVX energy majors
+  - **Negative:** XLK (SK Hynix -10% chip-flush, QQQ -1.3%), XLY (consumer-hit potential), airlines (jet-fuel-hit)
+  - **Neutral/defensive:** XLV (Bloomberg-bull rotation trade), XLP, XLU (safety bid)
+  - **Mixed:** XLB (Materials — input-cost-up + energy-transition-copper-demand offset; net 2-way)
+
+### Rule 12 Forced-Action Protocol — STATUS
+- **Week 12 opens Mon 7/13 at 0/3 cap used** — no forced trigger day (only fires Fri EOD basis IF 2+ consecutive Fri sub-75%/0-slot condition met)
+- **Prior-Friday history:** Fri 7/03 finalized 0/3 (holiday); **Fri 7/10 finalized 1/3** (XLV buy Wed 7/9) → **2-consecutive-Friday sub-75%/0-slot condition BROKEN by XLV Path-A entry** → **Rule 12 dormant** for Mon 7/13
+- **12a disqualifier-freshness clause:** N/A (Rule 12 not triggered)
+- **12b intra-week flush trigger — PARTIAL:**
+  - **Prong 1 (held position stress):** XLB $2.91 above trail = **within $3 threshold → PARTIAL TRIGGER** (XLV $14.12 above = clear)
+  - **Prong 2 (Leading-quadrant ETF oversold):** Iran-shock lifted XLE (not oversold); XLB Leading and closed 74% of 20DR (Fri close $50.82 vs. 20DR $49.87-$52.72 → mid-range, NOT oversold — closes lower 15% requires ≤$50.30 area); XLP/XLI likely bid or flat — **oversold prong NOT confirmed on any Leading candidate today**
+  - **Net:** **12b DORMANT** — single-prong hit is not a full arm
+- **12c Path-A Default-Flip clause:** Rule 12 not triggered → 12c does not apply this session
+
+### Trade Ideas
+1. **XLB (held) — HOLD.** Position +0.02% at $50.89 (near breakeven); Leading-quadrant Kalkine but trail-proximity in 12b prong-1 zone ($2.91 cushion). Watch: (a) $51.39 pivot reclaim = consolidation intact; (b) $52.72 20DR-top break = trend restart; (c) close ≤$49.87 = 12b full-arm risk + manual-cut escalation prep; (d) break of $47.979 GTC = auto-liquidation. FAST BMO print = read-through catalyst (industrial-distribution demand tell)
+2. **XLV (held) — HOLD.** Position -0.33% at $161.20 (Day 3 of position); Bloomberg 7/13 rotation-bull thesis supportive; $14.12 above trail = ample cushion. Watch: (a) hold $160 / reclaim $162.50; (b) break above $163.42 hwm = trail stretches + $165.61 52-wk high in view; (c) UnitedHealth Q2 print Thu 7/16 = major XLV top-holding catalyst
+3. **NO NEW ENTRY today.** Rationale: (i) week 12 fresh at 0/3 — no forced action; (ii) two positions already deployed, cyclical (XLB) + defensive (XLV) split; (iii) CPI Tue + bank-earnings cluster + Iran-escalation 2-way headlines = wait-for-print / wait-for-resolution environment; (iv) XLE spike is single-catalyst not structural; (v) chip-flush not clean setup; (vi) preserve 3/3 slots for post-CPI post-bank-earnings clarity (Wed-Fri clean-setup window)
+
+### Risk Factors
+- **Iran/Hormuz escalation — LIVE 2-way headline stream** — US Sunday strikes + Iran retaliation on Gulf US bases; oil +4%; any de-escalation flip = mean-revert oil / risk-on / XLE unwind; any further escalation (Kharg strike, tanker sinking, US casualties) = risk-off flush deeper
+- **XLB trail-proximity band:** $2.91 above GTC trail — one -6% down day = auto-liquidation trigger; manual -7% cut $47.32 is $3.57 below spot; **treat any close ≤$49.87 as escalation-to-manual-cut watch**
+- **CPI Tue 7/14 binary:** hot print = rate-cut-defer / risk-off (XLV weakens, XLK deeper flush) / cool print = rally-continuation (XLB pivot reclaim, XLV Bloomberg-rotation trade validates)
+- **Bank-earnings Tue-Wed binary:** JPM/GS/BAC/MS — miss = XLF deeper Lagging entrenchment / beat = surprise XLF rotation-in
+- **Chip-flush contagion:** SK Hynix -10% premarket, QQQ -1.3% premarket — if XLK breaks structurally, risk-off spillover to broader tape possible
+- **PDT cap: daytrade_count 0** — clean
+- **Trade slot pressure: Week 12 opens fresh 0/3, 1/3 used last week** — Rule 12 dormant; discretionary discipline intact
+- **Equity $9,996.50 — modestly below $10k round-number** — no phase high pressure
+
+### Decision
+**HOLD — patience > activity.** Rationale: (1) Rule 12 forced-action dormant (week 11 XLV entry broke the 2-consecutive-Friday counter); (2) Rule 12b single-prong hit on XLB trail-proximity but oversold prong NOT confirmed on any Leading-quadrant ETF (XLE spiked, XLB mid-20DR, XLP/XLI likely bid) → 12b NOT armed; (3) two positions already deployed with clean cyclical/defensive split — no clear uncorrelated third-lane setup today; (4) CPI Tue + bank earnings Tue-Wed + Iran-headline volatility = wait-for-print environment; (5) chip-flush + SK-Hynix-10%-down + oil-shock spike = messy tape not clean setup window; (6) preserve remaining slots for post-CPI / post-bank-earnings Wed-Fri clean-setup window. Both GTC trails live and healthy. Cash 73.95% — dry powder intact. Watchlist: (a) XLB reclaim $51.39 / hold $50 / break below $49.87 = 12b-arm escalation; (b) XLV hold $160 / break above $163.42 hwm; (c) FAST BMO print read-through to XLB; (d) Iran headline evolution (escalation-continuation vs de-escalation-flip); (e) SPY/QQQ open-tape read.
