@@ -3176,3 +3176,82 @@ TRADE or HOLD (default HOLD if no edge)
 
 ### Decision: **HOLD**
 Two positions; 1/3 weekly cap; AH megacap earnings + oil-tape event risk make new entry poor risk/reward tonight. Patience > activity. Monitor XLB $50 hold / $50.50 reclaim; XLV follow-through above $161 / reclaim of $162; **flag XLB GTC stop expiry Jul 29 for replacement no later than Fri Jul 24 EOD**.
+
+## 2026-07-23 (Thursday, Day 63, Week 13 Day 4) — Pre-Market
+
+### Account
+- Equity: **$9,981.68** (last equity $9,966.94; day mark **+$14.74 / +0.15%** premkt; phase **-$18.32 / -0.18%**)
+- Cash: **$7,392.29** (74.06% — 0.94% below 75% floor, within tolerance per fresh XLV entry Jul 9)
+- Buying power: $7,392.29 (non-marginable full)
+- Daytrade count: 0 (clean; PDT cap intact)
+- Positions (2):
+  - **XLB 29 sh** @ $50.88 → mark $50.70 (**-$5.22 / -0.35%**); GTC trail 10% stop $47.979 (hwm $53.31; cushion **$2.72 / 5.37%** — **12b prong-1 within $3 threshold, ARMED**); manual -7% cut $47.32 ($3.38 room / 6.67%). **⚠ GTC EXPIRES 2026-07-29 (6 days) — must replace no later than Fri 7/24 EOD.**
+  - **XLV 7 sh** @ $161.74 → mark $159.87 (**-$13.09 / -1.16%**, intraday **+$3.08 / +0.28%**); GTC trail 10% stop $147.598 (hwm $163.998; cushion **$12.27 / 7.68%**); manual -7% cut $150.42 ($9.45 room / 5.91%). GTC expires 2026-10-07.
+
+### Market Context
+- **WTI / Brent:** **WTI $90.14 (+3.8%)**, **Brent $98.44 (+4.6%)** premkt on tanker attacks off Saudi Arabia coast + Trump renewed strike-threat escalation vs Iran. Brent at highest since late May. **Multi-week oil bid intact, escalation-not-deescalation.**
+- **S&P 500 futures:** **ES -0.5%**, **NDX -0.7%**, Dow -0.5%, Russell -0.3% premkt on AH GOOGL/TSLA AI-capex sticker shock.
+- **VIX:** ~18.65 (Jul 21 close, last confirmed); premkt tape suggests further modest bid on oil + earnings — likely back above 19 open.
+- **AH mega-cap earnings (last night, Wed 7/22):**
+  - **GOOGL:** revenue $119.8B (+24% YoY, beat $116.9B); Cloud +82% YoY to $24.8B. **BUT: FY26 capex guided $195-205B (up from prior) → stock -4% AH** on AI-spend concerns.
+  - **TSLA:** revenue $28.24B beat ($26.32B est), EPS $0.33 miss ($0.50 est); EBITDA $3.27B miss ($4.0B est) → **stock -4-5% AH**; AI/robotics capex focus.
+  - Combined: AI-capex-fatigue narrative revived; hyperscaler capex track ~$644B in 2026 (+79% YoY).
+- **Today's econ calendar:** ECB rate decision AM; existing home sales June (no confirmed print); jobless claims (Thu weekly).
+- **Earnings BMO (Thu 7/23):** **TMUS** (T-Mobile), **TMO** (Thermo Fisher — XLV read-across), **UNP** (Union Pacific — cyclical), **HON** (Honeywell — Industrials), **BX** (Blackstone), **LMT** (Lockheed — Defense/Iran-tail proxy), **FCX** (Freeport McMoRan — copper/Materials → XLB read-across), **CMCSA** (Comcast), **NEM** (Newmont — gold/Materials → XLB read-across), **RTX** (Raytheon — Defense/Iran-tail).
+- **Earnings AMC (Thu 7/23):** **INTC** (chip AI-supply-chain read; third mega-cap AI binary in 48h).
+- **Sector momentum (RRG July 2026):** **XLV Leading** — trajectory both improving momentum + strong RS; State Street Q3 upgrade neutral→positive intact; UNH+25.8% YTD, LLY GLP-1 + ATAI deal driving upside. **XLB Weakening but stabilizing** — establishing a base, YTD ~+11% outperforms SPX, "Hold" per gurufocus (limited near-term upside).
+- **Pivot levels:** XLB Pivot Low $49.93 (Jul 20) / Pivot High $50.99. XLV pivot high $161.88 / pivot low $158.74.
+
+### Rule 12 Forced-Action Protocol — STATUS
+- **Weekly cap:** Week 13 0/3 used through Wed; 3 slots available.
+- **Fri counter:** Fri 7/17 sub-75% + 0/3 = counter **#1**. Chain length = 1. Need Fri 7/24 (tomorrow) sub-75% + 0/3 to arm forced-action Mon 7/27. **Today NOT a forced-action session.**
+- **12b intra-week flush trigger:**
+  - **Prong 1 (held-position stress):** XLB mark $50.70 vs trail $47.979 = **$2.72 cushion → WITHIN $3 → PRONG 1 ARMED** (marginally eased from Tue $2.05 phase-tightest, still below Fri $2.92). Manual -7% $47.32 = $3.38 room / 6.67% (not ≤2%). XLV clear ($12.27 above trail; $9.45 above manual cut / 5.91% — not ≤2%).
+  - **Prong 2 (Leading-quadrant ETF oversold):** requires EXTERNAL Leading-quadrant ETF oversold. **XLV Leading + RECOVERED** (from $158.22 Jul 14 low to $159.87 mark, +1.04% off low — NOT oversold). **XLK Tech** — premkt -0.7% on GOOGL/TSLA drag, not systematically oversold (single-session AH-reaction ≠ 20-day-low proximity). **XLE Energy** — LEADING and RALLYING on oil bid, not oversold. **XLF Financials** — Improving/Leading rank #2 rally, not oversold. **PRONG 2 UNCONFIRMED — 12b DORMANT.**
+  - Net: no mandatory Path-A scan today; discretionary.
+- **12a disqualifier-freshness:** N/A (12b not armed).
+- **12c Path-A Default-Flip:** NOT TRIGGERED (12b gate not armed). Iran-tanker-attack escalation is (ii)-adjacent geopolitical signature but 12c requires 12b armed — inactive today.
+- **Rule 13 Operational-Trigger Logging:** **XLB GTC stop expires 2026-07-29 (6 days)** — flagged Wed as **must-replace by Fri 7/24 EOD**. Today (Thu) or Fri BMO is the replacement window. **PRIORITY OPERATIONAL ACTION for this session/tomorrow.** XLV hwm $163.998 marginal Jul 17 — no active add-trigger. No prior-defined trim triggers active today.
+
+### Trade Ideas (discretionary — not deploying today)
+1. **XLE Energy** — WTI +3.8% / Brent +4.6% on Iran-tanker escalation; Leading quadrant. **Disqualifier (12a-adjacent freshness bar):** headline-chase into escalation spike, not confirmed catalyst; single-morning surge; adverse timing vs pullback-to-EMA discipline. Skip unless clean breakout with volume post-open.
+2. **FCX BMO print → XLB read-across** — Freeport copper/Materials proxy; beat + guide + gap-up-and-hold = XLB thesis reinforcement (rank drop was noise). NOT a fresh trade — held-position defense signal only. Partial-add to XLB requires $53.31 hwm break (currently $2.61 away — not active).
+3. **NEM BMO print → XLB gold read-across** — gold hedge play; Iran-tail beneficiary; similar read-across signal. Same disqualifier — no add unless hwm-break.
+4. **XLU Utilities** — deep-defensive AI-power-demand hedge. **Disqualifier:** stacks defensive with XLV (correlation ~0.6-0.7); violates uncorrelated-leader mandate.
+5. **HOLD** — 2 positions, 1/3 weekly cap used (fresh XLV Jul 9), AH shock + oil-spike + INTC AMC binary tonight = poor entry R:R.
+
+### Risk Factors
+- **Iran-tanker escalation NEW leg** — tanker attacks off Saudi coast + Trump strike-threat = fresh escalation signature beyond prior 10-day-pause proposal. Oil bid could extend; risk-off cross-current for equities; rate-repricing hawkish tilt.
+- **AI-capex-fatigue narrative revived** — GOOGL $195-205B FY26 capex guide-up + TSLA EBITDA miss = second wave of AI-ROI questioning. Broad Tech drag risk; XLK follow-through watch.
+- **INTC AMC binary** — third mega-cap AI-read in 48h; chip-supply-chain narrative; potential further NDX drag if miss/soft-guide.
+- **XLB trail-cushion still elevated monitoring** — $2.72 (5.37%). $50 hold critical; any close below $49.50 = manual-cut prep escalates at $47.32. **XLB GTC expires 2026-07-29 — replacement mandatory this session or Fri BMO.**
+- **XLV thesis intact but 2-day recovery mark not full confirmation** — hold $160 / reclaim $162; break $158 = manual-cut prep at $150.42.
+- **ECB rate decision AM** — cross-currency / rate spillover risk; potential USD move.
+- **Fri counter #2 possible** — if Fri 7/24 closes sub-75% + 0/3, arms Mon 7/27 forced-action Path-A scan. Not urgent today.
+
+### Decision: **HOLD** (with mandatory operational action flagged)
+Rationale:
+1. **12b DORMANT** — prong-1 ARMED (XLB $2.72 in <$3), prong-2 UNCONFIRMED (XLV Leading recovered; XLE Leading rallying; XLK Leading not systematically oversold despite AH-drag; XLF Leading rally); no mandatory Path-A.
+2. **Not forced-action** — Fri counter = 1 only; need Fri 7/24 as #2.
+3. **Post-AH mega-cap shock tape** — GOOGL -4% / TSLA -4-5% AH + ES/NDX premkt red + oil +3.8-4.6% = risk-off cross-current; new deployment adverse timing.
+4. **INTC AMC binary tonight** — third AI-capex read in 48h; wait-for-print discipline.
+5. **XLB defense priority** — cushion $2.72 (5.37%); $50 hold critical; FCX/NEM BMO reads for add-signal (only on $53.31 hwm break, not active). **⚠ GTC replacement 7/29 → must be done this session or Fri BMO.**
+6. **XLV thesis intact** — Leading, State Street Q3 upgrade, fundamentals-defense (UNH/LLY/JNJ). No add (defensive-stack disqualifier).
+7. **All Path-A candidates disqualified today** — XLE headline-chase + oil-spike; XLK AI-capex-fatigue drag; XLF earnings-week rally + no fresh oversold; XLU defensive-stack; XLV add defensive-stack.
+8. **Week 13 mid** — 3 slots preserved; deploy only on clean setup.
+
+**Today's tape (premarket):** ES -0.5% / NDX -0.7% on GOOGL/TSLA AI-capex shock; WTI $90.14 (+3.8%); Brent $98.44 (+4.6%) on Iran-tanker escalation; VIX likely 19+ open; ECB decision AM; TMO/UNP/HON/FCX/NEM/LMT/RTX BMO; INTC AMC.
+
+**Watchlist (intra-day Thu 7/23):**
+(a) **XLB $2.72 cushion + $50 hold** — any -4.4% intraday = auto-trail-liquidation; hold $50 / reclaim $51 critical; FCX/NEM BMO reads;
+(b) **XLB GTC stop replacement** — file replacement 10% trail GTC today or Fri BMO (before Jul 29 expiry);
+(c) **XLV $158 hold / $160 reclaim** — thesis defense; TMO print read-across;
+(d) **Iran-tanker escalation evolution** — any physical Hormuz/Bab-el-Mandeb signature = oil re-spike / risk-off cascade;
+(e) **INTC AMC** — chip-AI binary; NDX overnight-gap risk;
+(f) **ECB rate decision** — cross-currency / rate spillover;
+(g) **VIX 19+ break** = vol-regime shift flag;
+(h) **oil intraday** — WTI $92+ / Brent $100+ = escalation-confirmation;
+(i) **no deployment unless clean-setup emerges** — 3 slots preserved.
+
+**Patience > activity — 12b dormant (prong-2 unconfirmed), AH mega-cap AI-capex shock + oil-spike escalation + INTC AMC binary; wait-for-clean-setup discipline dominates. Mandatory operational: XLB GTC replacement before Jul 29.**
+
