@@ -3255,3 +3255,86 @@ Rationale:
 
 **Patience > activity — 12b dormant (prong-2 unconfirmed), AH mega-cap AI-capex shock + oil-spike escalation + INTC AMC binary; wait-for-clean-setup discipline dominates. Mandatory operational: XLB GTC replacement before Jul 29.**
 
+## 2026-07-24 (Friday, Day 64, Week 13 Day 5) — Pre-Market
+
+### Account
+- Equity: **$9,982.25** (last equity $9,980.78; day mark +$1.47 / +0.01% premkt; phase **-$17.75 / -0.18%**)
+- Cash: **$7,392.29** (74.07% — 0.93% below 75% floor)
+- Buying power: $7,392.29 (non-marginable full)
+- Daytrade count: 0 (clean; PDT cap intact)
+- Positions (2):
+  - **XLB 29 sh** @ $50.88 → mark $50.29 (**-$17.11 / -1.16%**); GTC trail 10% stop **$45.261 (NEW, hwm $50.29, expires 2026-10-22)**; manual -7% cut $47.32 ($2.97 room / 5.91%) = **effective floor above broker trail**.
+  - **XLV 7 sh** @ $161.74 → mark $161.65 (**-$0.63 / -0.06%**, intraday +$1.47 / +0.13%); GTC trail 10% stop $147.598 (hwm $163.998; cushion $14.05 / 8.69%); manual -7% cut $150.42 ($11.23 room / 6.95%). GTC expires 2026-10-07.
+
+### Mandatory Operational Action — COMPLETED
+- **XLB GTC replacement filed pre-market.**
+  - Canceled old order b5ac24e6 (hwm $53.31 / stop $47.979 / expires 2026-07-29 → 5 days).
+  - Filed new trailing_stop 10% GTC (id 7b935d3d) — hwm reset to $50.29 / stop $45.261 / expires 2026-10-22.
+  - **Effect:** broker trail loosened (hwm can't be persisted across orders on Alpaca — reset to fill/current). Manual -7% cut at $47.32 becomes the operative floor until XLB re-runs and ratchets new broker hwm past $52.58.
+  - **Rule 13 log: Y — operational trigger executed.**
+
+### Market Context
+- **WTI / Brent:** **WTI $92.19** (Thu +6% settle), **Brent ~$101** (+7%, first >$100 since May 22) on Houthi drone/missile strikes on Saudi tankers in Red Sea + Trump renewed strike-threat vs Iran. **Oil +30% MTD.** Escalation-not-deescalation intact.
+- **S&P 500 futures (premkt):** **ES +0.2%**, **NDX +0.1%**, **Dow +0.5%** — tentative recovery after Thu -1.21% S&P (worst day since Jun 23) / -1.9% NDX. Mag-7 shed ~$800B Thu.
+- **VIX:** 18.70 close Thu (**+12.4%**); premkt suggests stable-to-mild pullback, still elevated regime (>18).
+- **AH last night (INTC):** **INTC beat big** — revenue $16.1B vs $14.42B est (+25% YoY, fastest growth since 2011); EPS $0.42 vs $0.21 est (2x beat); non-GAAP GM 41.8% (+280bps vs guide); capex raised to $20B (from $18B), 2027 capex "meaningful" increase. Stock +4% AH after intraday pop to $110 and give-back — validates AI-infra spend narrative from foundry angle (partial offset to GOOGL/TSLA capex-fatigue narrative).
+- **Today's econ calendar:** **New home sales June** (10am ET); light week ahead of FOMC Jul 28-29.
+- **Earnings BMO (Fri 7/24):** **VZ** (Verizon 8:30am call), **AXP** (Amex), **NEE** (NextEra — Utilities), **CHTR** (Charter), **SLB** (Schlumberger — Energy), **HCA** (HCA Healthcare — XLV read-across), **CNI** (rail cyclical), **BAH**, **LW**.
+- **New tariffs effective today** — layered onto AI-jitters + oil-spike + yield backup (10Y briefly >4.7% Thu; Fed hike odds rising).
+- **Sector momentum (RRG July 2026):** **XLK Tech +26.1% YTD Leading** (AI trade), **XLB Materials +22% YTD Leading** (long consolidation breakout), **XLV Healthcare** surprise top-performer (flight-to-safety); XLE Energy lagged large caps -13% but rallying on oil-spike; **XLC Comm Services lagging** (post-GOOGL).
+- **Pivot levels:** XLB pivot low $49.93 (Jul 20) / pivot high $50.99. XLV pivot high $161.88 / pivot low $158.74.
+
+### Rule 12 Forced-Action Protocol — STATUS
+- **Weekly cap:** Week 13 0/3 used through Thu; 3 slots available.
+- **Fri counter:** Fri 7/17 counter **#1**. Today Fri 7/24 sub-75% (74.07%) + 0/3 (no trade planned) → will close chain **#2**. **This arms Rule 12 forced-action for Mon 7/27** (mandatory Path-A scan or per-ticker fresh disqualifiers per 12a/12c bars).
+- **12b intra-week flush trigger:**
+  - **Prong 1 (held-position stress):** XLB mark $50.29 vs new broker trail $45.261 = $5.03 cushion (>$3 threshold — new broker trail eases). BUT effective floor = manual -7% $47.32 = $2.97 room (5.91%, not ≤2%). XLB $50.29 vs 20-day low $50.03 (Jul 20) = within 2% of 20-day low → **PRONG 1 ARMED via 20-day-low proximity path.** XLV clear ($14.05 above trail; $11.23 / 6.95% above manual cut).
+  - **Prong 2 (Leading-quadrant ETF oversold):** XLK Leading — Thu -1.9% flush but premkt +0.1% recovery, single-session AH-shock not 20-day-low proximity → **NOT oversold**. XLB Leading (per current YTD rank) — already held, and within 20-day-low proximity → self-satisfaction as per prior sessions is arguable but the same-ticker circular disqualifier applies (12b prong-2 requires EXTERNAL leader). **XLE Leading + rallying** on oil-spike (opposite of oversold). **XLV Leading + intact.** **PRONG 2 UNCONFIRMED → 12b DORMANT.**
+- **12a disqualifier-freshness:** N/A today; will apply Mon 7/27 if Path-B chosen (each disqualifier must root in this week's tape, not recycled).
+- **12c Path-A Default-Flip:** NOT triggered today (12b gate not armed). Iran-Red-Sea-Houthi-tanker escalation = (ii)-adjacent geopolitical signature; FOMC Jul 28-29 = (i)-adjacent binary; both potential 12c-eligible thesis anchors for Mon 7/27 planning.
+- **Rule 13 Operational-Trigger Logging:** **XLB GTC replacement Y — DONE (pre-market).** No other prior-defined operational triggers active today (XLV hwm $163.998 marginal Jul 17 — no active add trigger; no trim mandates).
+
+### Trade Ideas (discretionary — HOLD today)
+1. **XLE Energy** — Leading + Brent >$100 momentum. **Disqualifier:** headline-chase into escalation spike + Fri EOD position-risk; wait for Mon 7/27 forced-action window if 12c geopol-thesis chosen.
+2. **XLK Tech** — INTC beat validates AI-infra thesis (partial offset to GOOGL/TSLA capex-fatigue). **Disqualifier:** post-Thu -1.9% flush not confirmed reversal; Mag-7 $800B loss overhang; wait for follow-through above Thu high before considering; INTC AMC ambiguous (pop then give-back).
+3. **HCA BMO print → XLV read-across** — held-position defense signal only; no fresh add (defensive-stack disqualifier with XLV).
+4. **SLB BMO → Energy service read-across for XLE thesis** — passive intel, not fresh trade.
+5. **HOLD** — 2 positions, 1/3 weekly cap used (fresh XLV Jul 9), fresh tariff-effective-day + oil-spike-escalation + Thu-flush aftermath = poor Fri EOD entry R:R; preserve slots for Mon 7/27 forced-action clarity.
+
+### Risk Factors
+- **Iran/Houthi-tanker escalation broadens** — Red Sea + Saudi coast + Trump strike-threat combined; oil bid could extend to $95 WTI / $105 Brent; risk-off cross-current for equities; further rate-repricing hawkish (Fed hike odds rising into FOMC).
+- **Tariff-effective-day** — new global tariffs live today; risk of intraday selloff catalyst; sector-specific reads on affected supply chains.
+- **AI-capex-fatigue vs INTC-validation cross-current** — Mag-7 -$800B Thu vs INTC +4% AH; unclear which narrative wins Fri open; XLK direction watch.
+- **XLB trail-cushion re-anchored, manual cut now operative** — $2.97 room / 5.91%; $50 hold critical; any close below $49.50 = manual-cut prep at $47.32. **New broker trail $45.261 loosened materially — do NOT rely on it as first-line stop.**
+- **XLV thesis intact** — hold $160 / reclaim $162; HCA BMO read-across; break $158 → manual-cut prep $150.42.
+- **FOMC Jul 28-29 next week** — binary rate-decision + presser; blackout period likely already active; volatility bid regime persists.
+- **VIX 18.70+ regime** — vol-bid environment; wider stops on any new entries; smaller sizing warranted.
+- **Fri counter #2 confirmed today** = Mon 7/27 forced-action session guaranteed unless a trade is opened intraday today (highly unlikely per above disqualifiers).
+
+### Decision: **HOLD** (mandatory ops completed pre-market)
+Rationale:
+1. **XLB GTC replacement executed pre-market** — Rule 13 Y-logged; operational obligation cleared.
+2. **12b DORMANT** — prong-1 armed via 20-day-low proximity, but prong-2 unconfirmed (XLK not systematically oversold despite Thu flush; XLV intact; XLE rallying); no mandatory Path-A today.
+3. **Not forced-action today** — Fri counter #1 previously; today's sub-75% + 0/3 confirms #2 (arms Mon 7/27 forced-action).
+4. **Fri EOD adverse for new entries** — tariff-effective-day + oil-spike-escalation + Thu mega-cap flush aftermath + INTC ambiguous + FOMC blackout next-week = wait-for-Mon discipline.
+5. **XLB defense** — cushion tightening via 20-day-low proximity ($50.29 vs $50.03 low); $50 hold critical; HCA/SLB BMO reads for XLV/Energy tape flavor.
+6. **XLV thesis intact** — no add (defensive-stack disqualifier).
+7. **Path-A prep for Mon 7/27** — XLE (oil-spike momentum, geopol-thesis), XLK (INTC-validation contrarian), XLV-add all candidates; disqualifier freshness bar (12a) + catalyst-specificity (12c) will apply; final selection Mon pre-market.
+8. **Week 13 closes 0/3 cap used** — 12 straight weeks with only 1 trade (XLV Jul 9); patience discipline holds.
+
+**Today's tape (premarket):** ES +0.2% / NDX +0.1% / Dow +0.5% — tentative recovery after Thu -1.21% flush; WTI $92.19 (+6% Thu settle); Brent ~$101 (+7%, first >$100 since May); VIX 18.70; INTC +4% AH beat; new tariffs live; VZ/AXP/HCA/SLB/NEE/CHTR BMO; New home sales 10am.
+
+**Watchlist (intra-day Fri 7/24):**
+(a) **XLB $50 hold / $50.99 reclaim** — 20-day-low proximity active; manual-cut prep $47.32 if $49.50 breaks decisively;
+(b) **XLV $160 hold / $161.88 pivot-high reclaim** — HCA BMO read;
+(c) **XLK tape** — INTC beat vs Mag-7 flush cross-current; follow-through above Thu high (or fresh break) sets Mon posture;
+(d) **XLE tape** — Brent $100+ momentum test; SLB BMO read for services;
+(e) **Oil intraday** — WTI $95+ / Brent $105+ = escalation-confirmation, elevates Mon 7/27 XLE Path-A weight;
+(f) **VIX** — hold >18 = vol regime intact; >20 = risk-off flag;
+(g) **10Y yield** — sustained >4.7% = XLK/XLC further pressure; drop <4.5% = defensive rotation-out;
+(h) **Tariff-effective-day headline flow** — sector-specific intraday selloff risk;
+(i) **No deployment today** — Fri EOD + slot preservation for Mon 7/27 forced-action clarity.
+
+**Patience > activity — mandatory XLB GTC replacement DONE pre-market; 12b dormant (prong-2 unconfirmed); Fri counter #2 armed → Mon 7/27 = forced-action session (Path-A default under 12c if geopol-thesis chosen). Preserve 3 slots for Mon setup clarity.**
+
+
