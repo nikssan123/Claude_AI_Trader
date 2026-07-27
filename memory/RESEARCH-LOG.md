@@ -3338,3 +3338,102 @@ Rationale:
 **Patience > activity — mandatory XLB GTC replacement DONE pre-market; 12b dormant (prong-2 unconfirmed); Fri counter #2 armed → Mon 7/27 = forced-action session (Path-A default under 12c if geopol-thesis chosen). Preserve 3 slots for Mon setup clarity.**
 
 
+
+## 2026-07-27 (Monday, Day 65, Week 14 Day 1) — Pre-Market
+
+### Account
+- Equity: **$10,029.69** (last equity $10,016.82; day mark +$12.87 / +0.13% premkt; phase **+$29.69 / +0.30%**)
+- Cash: **$7,392.29** (73.71% — 1.29% below 75% floor)
+- Buying power: $7,392.29 (non-marginable); $36,953.88 marginable (unused)
+- Daytrade count: 0 (clean; PDT cap intact)
+- Positions (2):
+  - **XLB 29 sh** @ $50.88 → mark $51.60 (**+$20.88 / +1.42%**, intraday +$9.86 / +0.66%); GTC trail 10% stop $46.143 (hwm $51.27; cushion $5.46 / 10.58%); manual -7% cut $47.32 ($4.28 room / 9.05%) = operative floor.
+  - **XLV 7 sh** @ $161.74 → mark $163.00 (**+$8.82 / +0.78%**, intraday +$3.01 / +0.27%); GTC trail 10% stop $147.598 (hwm $163.998; cushion $15.40 / 9.45%); manual -7% cut $150.42 ($12.58 room / 8.37%).
+
+### Market Context
+- **WTI / Brent (premkt):** **WTI $84.91 (-4.93%)**, **Brent $87.64 (-4.41%)**. **MASSIVE weekend collapse** vs Fri close (WTI $92.19 / Brent ~$101). Trigger: **US-Iran paused retaliatory strikes over weekend**; geopolitical risk premium unwinding. Oil -30% MTD unwound this session.
+- **S&P 500 futures (premkt):** **ES +0.8%**, **NDX +1.6%** (biggest premkt pop in weeks), **Dow +0.8%** — relief rally on de-escalation + entering busiest earnings week of quarter. Polymarket S&P up-open odds 88%.
+- **VIX:** **18.58** (-0.64% vs Fri 18.70 close); premkt intraday range 17.41-19.05. Elevated regime intact but bleeding.
+- **Sector rotation (fresh RRG read today):** **Leading quadrant = XLP / XLI / XLB / XLE**. XLK dropped to Weakening (-1.44% today intraday; Mag-7 -$800B Thu overhang). Today's rotation: XLV +0.7%, XLF +0.86%, XLE +0.4% (rallied despite oil crash — cash-return/refining diversification), XLK -1.44%.
+- **This week (busiest of Q3):** **FOMC Wed 7/29** (65% hold at 3.50-3.75%, 35% for 25bps HIKE — Warsh "prices too high" hawkish bias, NO cut priced), **MSFT + META Wed AMC**, **AAPL + AMZN Thu AMC**, Core PCE Fri. Also XOM/CVX/BA/KO/QCOM/PYPL/V/ABBV across the week.
+- **Today's earnings:** **Durable Orders June 8:30am**; earnings — CINF, NUE (Nucor — steel/XLB read-across), UDR, UHS (XLV read-across), WELL, CDNS (semi-design/XLK).
+- **Tariffs:** Replacement tariffs 10-12.5% took effect overnight under Section 301 — not material vs prior rates per analyst commentary.
+- **Pivot levels:** XLB pivot low $50.03 (Jul 20) / pivot high $51.27 (Jul 24 hwm); reclaim of $51.50 → new hwm ratchet. XLV pivot low $158.74 / pivot high $163.998 (Jul 17 hwm).
+
+### Rule 12 Forced-Action Protocol — STATUS TODAY = **ARMED** (Path-B chosen)
+- **Fri counter chain:** Fri 7/17 counter #1; Fri 7/24 sub-75% (74.07%) + 0/3 → **#2 CONFIRMED** → **Mon 7/27 = forced-action session ARMED** (as flagged in Fri entry).
+- **Weekly cap:** Week 14 opens 0/3 used; 3 slots available.
+- **12b intra-week flush trigger:** **DORMANT.** Prong 1 not armed — XLB $51.60 vs manual -7% $47.32 = $4.28 / 9.05% cushion (widest since entry); XLB vs 20-day low $50.03 = $1.57 / 3.14% above (NOT within 2%); XLV $15.40 cushion. Prong 2 N/A.
+- **12c Path-A Default-Flip:** **ACTIVE THIS-WEEK CATALYST** — US-Iran de-escalation over weekend = (ii) geopolitical resolution signature. So 12c would default Path-A IF a Leading-quadrant UNCORRELATED ETF has a catalyst-confirmed thesis. **None qualifies** (see per-ticker below). 12c does NOT flip default today.
+- **Rule 13 Operational-Trigger Logging:** No prior-defined operational triggers active today. XLB GTC replacement completed Fri; XLV hwm marginal since Jul 17 — no add/trim mandates armed.
+
+### Path-A Candidate Scan (Leading-quadrant uncorrelated ETFs w/ catalyst-confirmed thesis)
+- **XLB** — Leading, but **HELD** (same-ticker fails "new entry" spirit); could add to reach 20% cap but doesn't clear "uncorrelated" bar for Rule 12 Path-A. Position 14.9% of equity now.
+- **XLE** — Leading + uncorrelated. **Catalyst INVERTED** — oil -7% overnight (WTI $92→$85, Brent $101→$87) on US-Iran de-escalation; escalation-momentum thesis from Fri's plan is DEAD; today's XLE +0.4% intraday reflects cash-return/refining not oil-price momentum; NOT a clean catalyst-confirmed thesis. → **DISQUALIFIED under 12c (catalyst-inverted, specific, fresh this-week).**
+- **XLI** — Leading, but **CYCLICAL-STACK with held XLB** → fails 12c "uncorrelated" bar; XLB already benefits from oil-relief input-cost thesis; adding XLI creates redundant cyclical concentration. → **DISQUALIFIED (correlation-specific, fresh — not in Fri Path-B set).**
+- **XLP** — Leading, but **DEFENSIVE-STACK with held XLV** → fails 12c "uncorrelated" bar; XLV already provides defensive tilt. → **DISQUALIFIED (correlation-specific, fresh).**
+- **Non-Leading candidates checked for completeness:**
+  - **XLK** — NOT Leading today (fell out of Leading after Thu -1.9% / today -1.44%); **Mag-7 binary sequence** Wed AMC (MSFT/META) + Thu AMC (AAPL/AMZN) = 48hr four-print binary window. → **DISQUALIFIED (event-binary, specific, fresh).**
+  - **XLF** — Not Leading today; **FOMC Wed 7/29 binary** + Warsh "prices too high" hawkish bias + hike-not-cut priced 35%; rate-shock risk cross-current on any single-print surprise. → **DISQUALIFIED (event-binary, catalyst-specific, fresh).**
+  - **XLC** — Not Leading (post-GOOGL); META Wed AMC binary. → **DISQUALIFIED.**
+  - **XLY** — Not Leading; AMZN Thu AMC binary. → **DISQUALIFIED.**
+  - **XLU** — Not Leading; NEE reports; rate-shock proxy vs FOMC → **DISQUALIFIED.**
+
+### 12a Freshness Verification
+Verifying today's Path-B set is NOT >50% verbatim from prior week (Fri 7/24 Path-B set):
+- Fri 7/24 Path-B disqualifiers: XLE (headline-chase into escalation-spike + Fri-EOD-risk); XLK (post-Thu-flush + Mag-7 overhang + INTC AMC ambiguous); XLV-add (defensive-stack).
+- Today's Path-B: XLE (**CATALYST INVERTED — opposite thesis vs Fri**), XLI (**NEW — cyclical stack**), XLP (**NEW — defensive stack**), XLK (**Mag-7 binary sequence — different specific catalyst vs Fri "post-flush wait"**), XLF (**NEW — FOMC binary**), XLC (**NEW — event-binary**), XLY (**NEW — event-binary**), XLU (**NEW — rate-shock proxy**).
+- **12a bar CLEARED.** 6 of 8 disqualifiers are NEW additions this week; XLE thesis flipped 180°; XLK reframed via event-binary. NOT >50% verbatim recycling.
+
+### 12c Catalyst-Specificity Verification
+- This-week catalyst-confirmed thesis: **weekend US-Iran de-escalation → oil crash → risk-on rotation into non-Energy cyclicals** (equity relief rally).
+- Each disqualifier specifically addresses this thesis or its cross-current:
+  - XLE: catalyst-INVERTED (thesis dead) ✓
+  - XLI: correlation-specific (thesis already captured via XLB) ✓
+  - XLP: correlation-specific (defensive redundancy) ✓
+  - XLK/XLC/XLY: event-binary specific to this-week's Mag-7 sequence (parallel catalyst window that would override oil-relief thesis) ✓
+  - XLF/XLU: event-binary specific to this-week's FOMC (parallel catalyst) ✓
+- **12c bar CLEARED.** No generic "chase risk / wrong holding window / single-day bounce" disqualifiers used.
+
+### Trade Ideas (discretionary — HOLD today)
+1. **XLB add to 20% cap** — Leading + oil-relief tailwind (input costs) + AI-infra + hwm ratchet potential above $51.50; position 14.9% now, cap allows +$500 (~9 more sh at $51.60). **Disqualifier:** breaks "one open trade per idea" spirit; sizing already tail-end of add-utility; wait for $51.50 breakout confirmation.
+2. **XLI first entry** — Leading + oil-relief + AI-infra + de-escalation-thesis-confirmed. **Disqualifier: cyclical-stack with XLB (12c uncorrelated bar fail).**
+3. **XLK contrarian entry** — INTC beat validates AI-infra spend narrative. **Disqualifier: Mag-7 four-print binary Wed/Thu = wait-for-clarity.**
+4. **XLE fade-the-bounce short-lookback** — oil-crash + XLE +0.4% intraday = potential exhaustion. **Disqualifier: not a Rule 12 Path-A candidate (thesis-inverted); long-only strategy.**
+5. **HOLD** — 2 positions, both green today, mid-cycle of forced-action + heaviest binary week of quarter. Path-B logged with 12a/12c bars cleared.
+
+### Risk Factors
+- **FOMC Wed 7/29 binary** — 65% hold / 35% hike (NOT cut); Warsh hawkish "prices too high"; any hike = major risk-off, XLV/XLB drawdown risk.
+- **Mag-7 four-print binary Wed/Thu AMC** — MSFT + META Wed AMC; AAPL + AMZN Thu AMC. Capex/margin/guidance under microscope. XLK direction sets whole-market tone for Fri.
+- **Core PCE Fri 7/31** — inflation confirmation for Warsh's "prices too high" thesis; hot print = hike-panic revival.
+- **Oil-crash reversal risk** — de-escalation pause could break; any new Houthi/Iran headline = oil re-spike + risk-off reversal. Fragile ceasefire, not a signed deal.
+- **Tariff-effective aftermath** — 10-12.5% Section 301 tariffs live since Fri 7/24; second-order supply-chain reads still developing.
+- **XLB break of $51.27 hwm on down-day** = trail cushion loosens without ratchet lift; watch $50.99 pivot high hold. Break of $50 pivot low = manual-cut prep escalates.
+- **XLV break of $161 on FOMC-hawkish shock** = defensive-rotation-out risk; hold $160 / $158 pivot low critical.
+
+### Decision: **HOLD** (Path-B chosen per Rule 12; 12a/12c bars cleared)
+Rationale:
+1. **Rule 12 forced-action satisfied via Path-B** — 8 candidates scanned; all disqualified with fresh, catalyst-specific, non-recycled disqualifiers rooted in this-week tape. Documented above.
+2. **No Path-A candidate clears "Leading + uncorrelated + catalyst-confirmed" trifecta today** — XLE thesis-inverted; XLI/XLP correlation-stack fails; XLB already held.
+3. **12c does NOT flip default to Path-A** — no qualifying uncorrelated ETF exists despite active this-week catalyst thesis.
+4. **Both positions green today** — XLB +$20.88 (+1.42%); XLV +$8.82 (+0.78%). Session P&L +$12.87 (+0.13%). Phase P&L flipped green to +$29.69.
+5. **Heaviest binary week of quarter ahead** — FOMC Wed + 4 Mag-7 prints Wed/Thu + PCE Fri = wait-for-clarity discipline dominates. Post-Fri optimal re-entry window.
+6. **XLB defense priority** — Leading + oil-relief tailwind + hwm ratchet potential > $51.50; watch for follow-through above $51.50 → new broker hwm.
+7. **XLV thesis intact** — Leading defensive earlier in year, may see rotation-out on risk-on day; watch $161 hold, $163 reclaim as thesis confirmation.
+8. **Week 14 opens 0/3 cap used; 3 slots preserved** — 13 straight weeks with only 1 trade (XLV Jul 9); patience discipline holds through heaviest binary week.
+
+**Today's tape (premarket):** ES +0.8% / NDX +1.6% / Dow +0.8%; WTI $84.91 (-4.93%); Brent $87.64 (-4.41%); VIX 18.58; oil-crash on Iran de-escalation; INTC +4% AH Fri validated AI-infra; MSFT/META Wed AMC, AAPL/AMZN Thu AMC; FOMC Wed; Durable Orders 8:30am; NUE/UHS/CDNS today.
+
+**Watchlist (intra-day Mon 7/27):**
+(a) **XLB $51.50 follow-through / $52 push** — new hwm ratchet trigger; oil-relief tailwind + Leading;
+(b) **XLB $50 pivot low hold** — if breaks, manual-cut prep escalates at $47.32;
+(c) **XLV $161 hold / $163 reclaim** — defensive-rotation-out risk on risk-on day;
+(d) **Oil intraday** — WTI $83 break = further de-escalation confirmation; $88 reclaim = escalation-revival risk;
+(e) **VIX** — <18 = vol-regime shift (risk-on entrenched); >20 = re-entry watch;
+(f) **XLE tape** — pure cash-return-thesis test (oil-price decoupling); watch for fade of intraday bounce;
+(g) **XLK tape** — Mag-7 pre-earnings positioning; break-of-Fri-low = pre-print bearish setup;
+(h) **10Y yield** — sub-4.5% = defensive-out; >4.7% sustained = XLK/XLV pressure;
+(i) **NUE print** — Nucor steel read-across for XLB;
+(j) **No deployment through Wed FOMC + Wed AMC (MSFT/META) minimum** — post-print clarity Thu or Fri optimal re-entry.
+
+**Patience > activity — Rule 12 Path-B properly logged with fresh 12a/12c-cleared disqualifiers; oil-crash-de-escalation risk-on relief rally underway; both positions green; heaviest binary week of quarter (FOMC + 4 Mag-7 prints + PCE) demands wait-for-clarity discipline. Preserve 3 slots for post-binary window.**
