@@ -3514,3 +3514,85 @@ Rationale:
 (j) **No deployment through Wed FOMC + Wed AMC (MSFT/META) minimum** — post-print clarity Thu or Fri optimal re-entry.
 
 **Patience > activity — Rule 12 not triggered today; oil-crash relief continues but chip rout deepening; both positions green with XLV at fresh hwm; T-1 to FOMC + T-1 to MSFT/META = maximum pre-blackout discipline; preserve 3 slots for post-binary window.**
+
+
+## 2026-07-29 (Wednesday, Day 67, Week 14 Day 3) — Pre-Market
+
+### Account
+- Equity: **$10,083.42** (last equity $10,080.97; day mark +$2.45 / +0.02% premkt; phase **+$83.42 / +0.83%** — new phase high, 4th consecutive green session)
+- Cash: **$7,392.29** (73.32% — 1.68% below 75% floor, immaterial)
+- Buying power: $37,104.32 (marginable); $8,737.85 non-marginable
+- Daytrade count: 0 (clean; PDT cap intact)
+- Positions (2):
+  - **XLB 29 sh** @ $50.88 → mark $52.34 (**+$42.34 / +2.87%**, intraday flat); GTC trail 10% stop $47.4975 (hwm $52.775; cushion $4.84 / 9.25%); manual -7% cut $47.32 ($5.02 room / 9.59%) = operative floor at widest since entry.
+  - **XLV 7 sh** @ $161.74 → mark $167.61 (**+$41.09 / +3.63%**, intraday +$2.45 / +0.21%); GTC trail 10% stop $151.6725 (hwm $168.525 — updated Tue EOD from $164.57); manual -7% cut $150.42 ($17.19 room / 10.26%) = operative floor at widest since entry.
+
+### Market Context
+- **WTI / Brent (premkt):** **WTI ~$81.29 (+1.5%)**, **Brent $89.53 (+2.2%)**. Modest bounce off Tue lows (WTI touched $80.11) — first up-day since Mon crash; de-escalation regime intact but Iran headline noise (search source cited "Iran surprise attacks against US" — likely posturing, no confirmed re-escalation), oil re-spike risk armed.
+- **S&P 500 futures (premkt):** **ES +0.2%**, mixed reads (Nikkei -1.5%; DAX mixed). Polymarket implies 70% probability S&P opens higher. Chip sell-off continues — NDX near correction territory. Wait-for-FOMC-and-AMC dominates.
+- **VIX:** **~18.31** (down slightly vs Tue 18.67 / Mon 18.58); pre-FOMC/pre-Mag-7 vol suppressed relative to what a hawkish surprise would deliver.
+- **10Y yield:** **~4.64%** (carried, no notable overnight move).
+- **Today's data (US):** **ADP employment 8:15am**, **Q2 GDP first preliminary 8:30am** (search cited 7:30am but standard BEA release is 8:30am), **FOMC decision 2:00pm ET**, **Warsh press conference 2:30pm ET**. Also: pending home sales, EIA crude inventories.
+- **Earnings today:** **BMO — PG, VRT, GD, AON, HES, HUM, GLW;** **AMC — MSFT, META, LRCX, ARM, QCOM, SBUX, F.** MSFT/META = the Mag-7 binary print of the week (2 of 4). Options market pricing META move ~7%.
+- **FOMC Wed 7/29 → 2:00pm ET:** **63.5-65% hold** at 3.50-3.75%, **35-36.5% hike** to 3.75-4.00%. **Zero cuts priced**. Warsh hawkish bias reaffirmed ("no tolerance for persistently elevated inflation"); no SEP this meeting; sets stage for Sept hike per consensus reads. Any hike = major risk-off event; hold + hawkish presser = mild risk-off; hold + dovish surprise = risk-on continuation.
+- **MSFT/META AMC (5pm ET):** MSFT consensus EPS $4.24 / rev $87.62B (+14.6% YoY); Azure guide 39-40% CC growth, 36% investor "bogey." META consensus EPS $7.23 / rev $60.26B (+27% YoY); capex $125-145B AI-infra spend under microscope; Reality Labs losses key margin swing.
+- **Sector rotation (RRG frame carried):** **Leading = XLP / XLI / XLB / XLE**. XLB dominant leader **YTD +22%**, breakout of long-term consolidation confirmed. **XLV Improving-to-Leading** — surged to record highs late July per State Street data; low beta (0.58) + defensive tilt. XLK Weakening (chip rout deepening). XLC/XLY/XLF Lagging.
+- **Pivot levels:** XLB pivot low $50.03 / hwm $52.775 (fresh Tue). XLV pivot low $158.74 / hwm $168.525 (fresh Tue). XLB $51.50 = prior resistance now support. XLV $165 = prior resistance now support.
+
+### Rule 12 Status
+- **NOT triggered today.** Wednesday — Rule 12 is a Monday-only forced-action gate. Mon 7/27 properly satisfied via Path-B with 12a/12c bars cleared.
+
+### Rule 12b Intra-Week Flush Trigger — **DORMANT**
+- Prong 1: NOT armed. XLB $4.84 above trail (9.25%), $5.02 above -7% cut (9.59%). XLV $15.94 above trail (9.51%), $17.19 above -7% cut (10.26%). Neither within $3 of stop or 2% above -7% cut.
+- Prong 2: N/A.
+
+### Rule 13 Operational-Trigger Logging
+- **XLB hwm ratchet Tue** ($51.63 → $52.775): mechanical trail-stretch, no prior-defined add mandate armed. **Y/N logged: N/A (no mandate).**
+- **XLV hwm ratchet Tue** ($164.57 → $168.525): mechanical trail-stretch, no prior-defined add mandate armed. **Y/N logged: N/A (no mandate).**
+- Both positions still <+15% unrealized (XLB +2.87%, XLV +3.63%) — no trail-tighten trigger (Rule 6: 7% at +15%, 5% at +20%). Continue monitoring.
+- No hwm-break partial-add, RRG-Velocity-red trim, or pivot-break mandate from prior weekly review as of Mon 7/27 entry.
+
+### Trade Ideas (discretionary — HOLD today)
+1. **XLE fresh entry (oil-bounce contrarian)** — Leading + oil-price stabilization / refining thesis. **DISQUALIFIED — event-binary window (FOMC 2pm + 4-print Mag-7 AMC binary Wed/Thu); oil bounce fragile (Iran-headline noise + de-escalation-pause risk).**
+2. **XLI cyclical add** — Leading + oil-relief input costs. **DISQUALIFIED — cyclical-stack with XLB (correlation-specific 12c-style disqualifier); same oil-relief thesis over-concentration.**
+3. **XLK contrarian dip (chip flush)** — Nasdaq near correction, potential capitulation setup. **DISQUALIFIED — 4-print Mag-7 binary within 24-48hr (MSFT/META tonight, AAPL/AMZN tomorrow); catching a falling knife pre-print.**
+4. **XLV add to 20% cap** — thesis-confirming (State Street Q3 upgrade + Citi biopharma bullish + fresh hwm break Tue); position 11.64% of equity, ~$800 headroom. **DISQUALIFIED — defensive-stack same-ticker on eve of hawkish FOMC that could trigger defensive rotation-out; wait for post-FOMC clarity.**
+5. **XLB add to 20% cap** — Leading + YTD +22% + oil-relief tailwind; position 15.05% of equity, ~$500 headroom (~9 sh at $52). **DISQUALIFIED — pre-FOMC binary + already extended into fresh post-entry high; wait for post-print clarity.**
+6. **HOLD** — 2 positions, both green at fresh post-entry highs; T-0 FOMC + T-0 MSFT/META AMC = maximum wait-for-clarity moment.
+
+### Risk Factors
+- **FOMC 2pm decision + Warsh 2:30pm presser** — 35-36% hike odds; hike = risk-off + defensive rotation-out risk for XLV, cyclical drawdown for XLB. Hold + hawkish presser = mild risk-off; hold + dovish surprise = risk-on continuation.
+- **MSFT + META AMC (5pm ET)** — Mag-7 binary 2-of-4; META implied 7% move on options; Azure growth bogey (36%) key for MSFT; capex prints set tone for AAPL/AMZN Thu.
+- **QCOM/LRCX/ARM AMC** — semi-cap-eq prints amid chip rout; ARM AI-infra read-across.
+- **Global chip rout deepening** — Nasdaq near correction; SK Hynix/Samsung continued weakness. Contagion risk to broad-market sentiment.
+- **Iran headline risk** — search source cited "surprise attacks" in premkt narrative; likely posturing but ceasefire is a "pause" not signed deal. Oil re-spike + risk-off reversal possible on any material headline flip.
+- **Core PCE Fri 7/31** — inflation validation for Warsh's "prices too high" stance; hot print = hike-panic revival even if Wed holds.
+- **XLB break of $52.775 hwm on down-day** = trail cushion loosens without ratchet lift; watch $51.63 prior hwm as first support; $50 pivot low = manual-cut prep escalates.
+- **XLV break of $166 (below $165 support) on FOMC-hawkish shock** = defensive-rotation-out risk; hold $163 / $161 critical.
+
+### Decision: **HOLD**
+Rationale:
+1. **No Rule 12 activation today** (Monday-only gate); Mon Path-B properly closed.
+2. **No Rule 12b prong armed** — cushions widest-since-entry on both positions (XLB 9.25% trail / 9.59% cut; XLV 9.51% trail / 10.26% cut).
+3. **No Rule 13 add/trim mandate active** — hwm ratchets Tue are mechanical trail-stretch only; neither position ≥+15% (trail-tighten threshold) yet.
+4. **Maximum binary-day of quarter** — FOMC 2pm + Warsh 2:30pm presser + MSFT/META AMC 5pm inside 8hr window. Every discretionary trade idea disqualified against this-week specific catalysts.
+5. **Both positions at fresh post-entry highs** — XLB +2.87% / +$42.34; XLV +3.63% / +$41.09. Phase +$83.42 (+0.83%) new high; 4 consecutive green sessions.
+6. **Week 14 at 0/3 cap** — 14 straight weeks with only 1 trade (XLV Jul 9); patience discipline holds through heaviest binary window of quarter.
+7. **Cash 73.32%** — 1.68% below 75% floor, immaterial (unrealized gains lifting equity above cash static; no forced-deployment trigger — not a Monday).
+
+**Today's tape (premkt):** ES +0.2% / NDX weak on chip rout / Dow flat; WTI $81.29 (+1.5%); Brent $89.53 (+2.2%); VIX 18.31; 10Y 4.64%; FOMC 2pm + Warsh 2:30pm; MSFT/META AMC 5pm; ADP 8:15am; Q2 GDP first preliminary 8:30am.
+
+**Watchlist (intra-day Wed 7/29):**
+(a) **XLB $52.775 hwm break / $53 push** — fresh hwm ratchet trigger; oil-relief + Leading + YTD +22% dominant;
+(b) **XLB $51.63 prior hwm as first support** — hold = thesis intact; break of $51 / $50 pivot low = manual-cut prep escalates at $47.32;
+(c) **XLV $168.525 hwm break / $170 push** — fresh hwm ratchet; State Street upgrade + record-high momentum;
+(d) **XLV $165 support hold** — hawkish-FOMC hedge; break of $163 / $161 = defensive-rotation-out signal;
+(e) **FOMC 2pm decision** — hold = base case, hold + hawkish presser = mild risk-off, hike = major risk-off (35-36% odds), any hint of Sept hike = same;
+(f) **Warsh 2:30pm presser** — "prices too high" hawkish tone = XLV/XLB fade risk; any dovish pivot = risk-on continuation;
+(g) **MSFT/META AMC 5pm** — Azure 36% bogey (MSFT); META $125-145B capex + 41.4% margin defend; tape sets XLK tone for Thu;
+(h) **Oil intraday** — WTI $83 reclaim = oil-bounce confirmation; break of $80 = de-escalation extends; any Iran headline = re-spike risk;
+(i) **VIX** — <18 = FOMC-hold priced-in relief; >20 = pre-print positioning risk-off; >22 = full risk-off regime;
+(j) **10Y yield** — sub-4.5% = defensive-out (XLV drag); >4.75% sustained on hike-surprise = XLK/XLV pressure;
+(k) **No deployment through FOMC + MSFT/META AMC minimum** — post-print clarity Thu (post-AAPL/AMZN) or Fri (post-PCE) optimal re-entry window.
+
+**Patience > activity — Rule 12 not triggered today; both positions at fresh post-entry highs with widest-cushions-since-entry; T-0 to FOMC + T-0 to MSFT/META AMC = maximum pre-blackout discipline; preserve 3 slots for post-binary Thu/Fri re-entry window. Perplexity 401 unchanged; WebSearch primary path per strategy.**
