@@ -3596,3 +3596,94 @@ Rationale:
 (k) **No deployment through FOMC + MSFT/META AMC minimum** — post-print clarity Thu (post-AAPL/AMZN) or Fri (post-PCE) optimal re-entry window.
 
 **Patience > activity — Rule 12 not triggered today; both positions at fresh post-entry highs with widest-cushions-since-entry; T-0 to FOMC + T-0 to MSFT/META AMC = maximum pre-blackout discipline; preserve 3 slots for post-binary Thu/Fri re-entry window. Perplexity 401 unchanged; WebSearch primary path per strategy.**
+
+
+## 2026-07-30 (Thursday, Day 68, Week 14 Day 4) — Pre-Market
+
+### Account
+- Equity: **$10,048.74** (last equity $10,080.97; portfolio value carrying Wed close +/- overnight settlement; phase **+$48.74 / +0.49%** — off Tue's phase high after Wed's -$30.34 pullback)
+- Cash: **$7,392.29** (73.55% — 1.45% below 75% floor, immaterial)
+- Buying power: $37,007.22 (marginable); $8,720.51 non-marginable
+- Daytrade count: 0 (clean; PDT cap intact)
+- Positions (2):
+  - **XLB 29 sh** @ $50.88 → mark $51.75 (**+$25.23 / +1.71%**, intraday +$0.29 / +0.02% premkt tick); GTC trail 10% stop $47.4975 (hwm $52.775; cushion $4.25 / 8.22%); manual -7% cut $47.32 ($4.43 room / 9.35%) = operative floor.
+  - **XLV 7 sh** @ $161.74 → mark $165.10 (**+$23.52 / +2.08%**, intraday -$7.98 / -0.69% premkt); GTC trail 10% stop $151.6725 (hwm $168.525; cushion $13.43 / 8.13%); manual -7% cut $150.42 ($14.68 room / 8.89%).
+
+### Market Context
+- **WTI / Brent (premkt):** **WTI ~$79 area**, **Brent ~$88.50** (day range $86.82–$89.50, prev close $88.09; +~0.5%). Bounce off Wed lows; Iran hostility resumption noted in narrative (headline risk armed). Oil-relief tailwind for XLB softens.
+- **S&P 500 futures (premkt):** **ES +0.5%**, mixed by index — MSFT beat lifts one side, META guidance miss drags the other. Polymarket implies **68% probability S&P opens higher**.
+- **VIX:** **~20.66 (+13.45%!)** — MATERIAL vol spike from Wed 18.31 base; IMF July update flagged stalled global disinflation + slower 3.0% growth; sharp repricing of expensive equities. First >20 print of the phase — regime-shift watch armed.
+- **10Y yield:** **~4.64%** (carried).
+- **Today's data (US):** **Q2 GDP advance 8:30am** (consensus +6.6% vs Q1's +6.5%), **Initial Jobless Claims 8:30am** (consensus ~340K vs prior 348K), **Core PCE 8:30am** (one source; official BEA slot is Fri — treat as either-day) — consensus MoM 0.2% vs prior 0.3%. EIA natgas 10:30am; Treasury bill auction 11:30am.
+- **Earnings today:** **BMO — MO (Altria);** **AMC — AAPL, AMZN** (Mag-7 binary 3+4 of the week). AAPL implied move ~5%+ on EPS $1.89 / rev $108.89B est (+15.8% YoY). AMZN options implied ~6.04% move (~$150B market cap swing). AAPL sets iPhone/services/Vision demand tone; AMZN sets AWS growth read.
+- **Fri (7/31):** XOM + CVX BMO (energy binaries); Core PCE fallback slot if not printed Thu.
+- **FOMC recap (Wed 7/29):** **9-3 HOLD at 3.50-3.75%** — three dissenters (Hammack, Kashkari, Logan) voted +25bps. Warsh's first meeting: statement notably SHORTER than norm, disdain for forward guidance ("emphasize conditions under which action would be taken"). Notes "impressive resilience... strong growth of business investment... surge in high-tech capex remarkable." Read: hawkish-lean via dissents + Warsh hawkish disposition, but path-of-hikes deferred; risk-on for cyclicals if data cooperates, but VIX spike suggests market pricing residual hawkish tilt.
+- **Mag-7 AMC recap (Wed 7/29):**
+  - **MSFT +~3% AH**: EPS $4.74 (beat $4.33), rev $90.01B (beat $87.62B), **Azure +43% CC growth (BEAT 40.2% bogey clean)**, Azure FY26 rev crossed $100B first time, capex held $175B. **CLEAN BEAT**.
+  - **META -~10-11% AH**: EPS $6.18 (MISS $7.22 by $1.04), rev $60.8B (+28% YoY), **Q3 rev guide $61-64B — low-end LIGHT vs $63.15B est**. **MISS + WEAK GUIDE**.
+  - Net Mag-7 tape: mixed; XLK cross-currents (MSFT bid, META fade); no clean pre-print re-entry signal yet.
+- **Sector rotation (RRG frame updated):** YTD S&P: Energy **+32.11%** dominant, Tech +30.69%, Transports +26.30%, Capital Goods +25.24%. **XLB YTD +14.99%** (solid, breakout of 14-mo cup-with-handle still valid). **XLV YTD +12.55%** (flight-to-safety on vol intensification). **XLI (Capital Goods) +25.24%** — Leading extends. XLE Leading (oil-bounce dynamic). XLK Weakening on META/chip cross-currents. XLC/XLY/XLF Lagging.
+- **Pivot levels:** XLB pivot low $50.03 / hwm $52.775. Support $51.63 (prior hwm), $51 (round), $50.50, $50 (pivot). XLV pivot low $158.74 / hwm $168.525. Support $166 (Wed close), $165 (recent), $163, $161. Resistances: XLB $52.775, $53. XLV $168.525, $170.
+
+### Rule 12 Status
+- **NOT triggered today.** Thursday — Rule 12 is a Monday-only forced-action gate. Mon 7/27 properly satisfied via Path-B with 12a/12c bars cleared.
+
+### Rule 12b Intra-Week Flush Trigger — **DORMANT**
+- Prong 1: NOT armed. XLB $4.25 above trail (8.22%), $4.43 above -7% cut (9.35%). XLV $13.43 above trail (8.13%), $14.68 above -7% cut (8.89%). Neither within $3 of stop or 2% above -7% cut.
+- Prong 2: N/A.
+
+### Rule 13 Operational-Trigger Logging
+- No hwm-ratchet event for either position on Wed (both faded from Tue highs). No trail-tighten trigger armed (Rule 6: 7% at +15%, 5% at +20%) — XLB +1.71%, XLV +2.08%, both well below +15%.
+- No prior-defined add-trigger, trim-mandate, RRG-Velocity-red, or pivot-break trigger armed from prior weekly review as of Mon 7/27 entry.
+- **Y/N: N/A (no active mandates).**
+
+### Trade Ideas (discretionary — HOLD today)
+1. **XLE fresh entry (oil-bounce + Iran re-escalation)** — Leading + escalation-headline armed + refining thesis. **DISQUALIFIED — XOM/CVX Fri BMO = single-name earnings binaries into the sector; oil headline volatility bilateral; wait for post-Fri clarity.**
+2. **XLI cyclical add (Capital Goods +25.24% YTD)** — Leading + oil-relief dynamic. **DISQUALIFIED — cyclical-stack with XLB (correlation-specific 12c-style disqualifier); same broad cyclical thesis over-concentration.**
+3. **XLK contrarian dip (MSFT beat vs META miss)** — cross-currents create dispersion opportunity. **DISQUALIFIED — AAPL + AMZN AMC 4-6% implied moves tonight = 2-print binary within 8hr; catching mid-move pre-print.**
+4. **XLV add to 20% cap** — thesis intact (State Street Q3 upgrade + flight-to-safety on VIX +13%); position 11.50% of equity, headroom ~$800. **DISQUALIFIED — VIX regime-shift armed + pre-PCE binary Thu/Fri + defensive-stack same-ticker over-concentration; wait for post-PCE clarity.**
+5. **XLB add to 20% cap** — Leading YTD +14.99% + oil-relief but softer today. **DISQUALIFIED — pre-Fri XOM/CVX energy binaries could reverse oil-relief; wait for post-Fri clarity.**
+6. **Trim/hedge on VIX spike** — VIX +13% + META fade + AAPL/AMZN AMC pending is textbook risk-off signature. But (a) both positions above 8% cushions, (b) no trim mandate armed, (c) Rule 6 tighten thresholds not hit, (d) selling into risk-off with wide cushions = capitulation-buy setup for someone else. **DISQUALIFIED — no rule trigger; discipline holds.**
+7. **HOLD** — 2 positions still green with post-entry green cushions; T-0 to AAPL/AMZN AMC + T-0/T-1 to Core PCE = max wait-for-clarity.
+
+### Risk Factors
+- **VIX regime-shift risk** — first >20 print of phase (+13.45% single-day jump); IMF disinflation-stall + growth-cut narrative; could extend if PCE hot / AMC prints ugly. Any close >22 = full risk-off regime confirmation, defensive rotation-in for XLV but drawdown risk for XLB.
+- **META guidance-miss contagion** — AI-capex spending vs monetization ratio in focus; if AAPL/AMZN AMC echo similar concerns tonight, XLK/QQQ fade extends, broad-market drag risk despite MSFT's clean beat.
+- **AAPL + AMZN AMC binary (~$300B combined market cap at risk)** — iPhone/services demand + AWS growth read = final Mag-7 print of the week; sets Fri open tone.
+- **Core PCE Thu or Fri** — inflation validation for Warsh hawkish disposition; hot print = renewed hike-fear (3 dissenters already voted +25bps), risk-off; cool print = confirms hold-hold, risk-on continuation.
+- **Fri XOM/CVX BMO energy binaries** — sets XLE tape and oil sentiment; positive prints = oil-relief unwinds (XLB drag); miss = oil-bounce accelerates (XLB tailwind, XLK cross-drag).
+- **Iran hostility resumption** — bilateral headline risk; oil re-spike + risk-off if material escalation confirmed vs de-escalation-resume if pause holds.
+- **XLB break of $51 / $50 pivot low on VIX-spike day** = trail cushion narrows; watch $51.63 first support ratchet-out, $51 round hold, $50 = manual-cut prep escalates at $47.32.
+- **XLV break of $163 / $161 on risk-off shock** = defensive-out (paradoxical on VIX >20); hold $165 / $163 critical; sub-$161 = manual-cut prep at $150.42.
+- **FOMC dissent count 3** — while decision was hold, three regional presidents voted +25bps; if PCE hot, Sept hike narrative accelerates immediately.
+
+### Decision: **HOLD**
+Rationale:
+1. **No Rule 12 activation today** (Monday-only gate); Mon Path-B properly closed.
+2. **No Rule 12b prong armed** — cushions >8% on both positions despite Wed pullback; neither within $3 of stop nor 2% of -7% cut.
+3. **No Rule 13 add/trim mandate active** — no hwm ratchet Wed; neither position ≥+15% (trail-tighten threshold).
+4. **T-0 to AAPL + AMZN AMC (2 Mag-7 prints, 5-6% implied)** + **T-0/T-1 to Core PCE** = maximum wait-for-clarity window. Every discretionary trade idea disqualified against this-week specific catalysts.
+5. **VIX +13.45% single-day spike (18.31 → 20.66)** — first >20 print of phase; regime-shift risk armed; wrong tape for fresh discretionary risk without a mandated trigger.
+6. **Both positions still green** — XLB +1.71% / +$25.23; XLV +2.08% / +$23.52. Phase +$48.74 (+0.49%). Wide cushions preserved.
+7. **Week 14 at 0/3 cap** — 14 straight weeks with only 1 trade (XLV Jul 9); patience discipline holds through Mag-7 binary window into PCE weekend.
+8. **Cash 73.55%** — 1.45% below 75% floor, immaterial; no forced-deployment trigger — not a Monday.
+
+**Today's tape (premkt):** ES +0.5% / mixed tech (MSFT bid, META fade) / **VIX 20.66 (+13.45%)**; WTI ~$79 / Brent ~$88.50; 10Y 4.64%; Q2 GDP + jobless claims + Core PCE 8:30am; AAPL + AMZN AMC.
+
+**Watchlist (intra-day Thu 7/30):**
+(a) **VIX behavior** — sustained <20 = spike absorption, risk-on relief; >22 = full risk-off regime confirmation (defensive-out risk for XLV);
+(b) **XLB $52.775 hwm break** — fresh hwm ratchet; needs oil-relief re-assertion + broad-market bid;
+(c) **XLB $51.63 / $51 / $50 support cascade** — $50 break decisively = manual-cut prep at $47.32;
+(d) **XLV $168.525 hwm break** — fresh hwm ratchet; needs flight-to-safety bid on VIX >20 (paradox play);
+(e) **XLV $165 / $163 / $161 support cascade** — $161 break = manual-cut prep at $150.42;
+(f) **Q2 GDP 8:30am** — >6.6% hot = growth resilience narrative, risk-on for cyclicals; <5.5% cool = growth-slowdown, defensive-in for XLV;
+(g) **Jobless Claims 8:30am** — <340K = labor tight, hawkish read; >360K = labor softening, dovish read;
+(h) **Core PCE 8:30am if printed today** — >0.3% hot = hike-fear revival, VIX extends; ≤0.2% cool = hold-hold confirmed, risk-on;
+(i) **AAPL AMC 5pm ET** — 5% implied move; iPhone/services beat = XLK/QQQ bid, mild XLV drag; miss/weak-guide = extends META fade;
+(j) **AMZN AMC 5pm ET** — 6% implied move; AWS growth vs MSFT Azure 43% read; AWS clean beat = XLK bid; miss = broad tech pressure;
+(k) **Oil intraday** — WTI $82 reclaim = oil-bounce confirmation (XLB tailwind); break of $77 = de-escalation-resume (XLE drag);
+(l) **10Y yield** — >4.75% on hot data = XLK/XLV pressure; sub-4.5% on cool data + PCE = risk-on tape;
+(m) **No deployment through AAPL/AMZN AMC minimum** — post-print clarity Fri (post-PCE + post-XOM/CVX) or next Mon optimal re-entry window;
+(n) **If both positions close green + VIX contracts <19 by Fri close** = normal Mon regular-cadence review; if VIX close >22 Fri = shift to Rule 12b prong armed watch next Mon.
+
+**Patience > activity — Rule 12 not triggered today; both positions green with wide cushions; VIX +13% regime-shift risk armed; T-0 to AAPL/AMZN AMC + T-0/T-1 to Core PCE = maximum pre-print discipline; preserve 3 slots for post-binary Fri/Mon re-entry window. Perplexity 401 unchanged; WebSearch primary path per strategy.**
