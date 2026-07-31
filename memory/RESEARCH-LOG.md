@@ -3687,3 +3687,93 @@ Rationale:
 (n) **If both positions close green + VIX contracts <19 by Fri close** = normal Mon regular-cadence review; if VIX close >22 Fri = shift to Rule 12b prong armed watch next Mon.
 
 **Patience > activity — Rule 12 not triggered today; both positions green with wide cushions; VIX +13% regime-shift risk armed; T-0 to AAPL/AMZN AMC + T-0/T-1 to Core PCE = maximum pre-print discipline; preserve 3 slots for post-binary Fri/Mon re-entry window. Perplexity 401 unchanged; WebSearch primary path per strategy.**
+
+
+## 2026-07-31 (Friday, Day 69, Week 14 Day 5) — Pre-Market
+
+### Account
+- Equity: **$10,030.85** (last equity $10,034.49; phase **+$30.85 / +0.31%** — third consecutive red-tick session; still green on phase)
+- Cash: **$7,392.29** (73.55% — 1.45% below 75% floor, immaterial)
+- Buying power: $36,957.13 (marginable); $8,711.57 non-marginable
+- Daytrade count: 0 (clean; PDT cap intact)
+- Positions (2):
+  - **XLB 29 sh** @ $50.88 → mark $51.64 (**+$22.04 / +1.49%**, intraday flat); GTC trail 10% stop $47.4975 (hwm $52.775; cushion $4.14 / 8.72%); manual -7% cut $47.32 ($4.32 room / 9.11%) = operative floor.
+  - **XLV 7 sh** @ $161.74 → mark $163.00 (**+$8.82 / +0.78%**, intraday -$3.64 / -0.32%); GTC trail 10% stop $151.6725 (hwm $168.525; cushion $11.33 / 7.48%); manual -7% cut $150.42 ($12.58 room / 8.36%).
+
+### Market Context
+- **WTI / Brent (Thu close):** **WTI ~$83.87** (-0.70%), **Brent ~$90.04** (-0.78%). Oil eases post-Wed rebound; XOM/CVX BMO today = binary tape into the sector.
+- **S&P 500 futures (premkt):** **ES +0.48%** — AMZN AH +8% drives tape; Polymarket implies S&P opens higher. AAPL AH -4% offsets a fraction. Broad AI-earnings-driven rebound theme intact.
+- **VIX:** **~17.09 (-17.28% single-day plunge!)** — MATERIAL regime-flip from Thu 20.66 spike; back below 18 = spike absorbed, complacency signal (dshort/Cboe read). First sub-18 print in 3 sessions. Risk-on tape confirmation post-cool-PCE.
+- **10Y yield:** ~4.55% area (softer post-cool-PCE; carried estimate).
+- **Core PCE (Thu 7/30 print — landed cool):** MoM **+0.1%** (BELOW 0.2% est); YoY **+3.3%** (matches est). Cool print validates FOMC hold-hold; Warsh-hawkish narrative dampened; risk-on tailwind confirmed.
+- **Q2 GDP advance (Thu 7/30 print):** stronger-than-expected AI-cap-driven; consumer resilient (carried from Thu narrative).
+- **Today's data (US):** **Michigan Sentiment final 10am** (revision). Month-end positioning day (last trading day of July).
+- **Earnings today BMO:** **XOM** (EPS est $3.63 / +121% YoY; Polymarket 84.5% beat odds), **CVX** (EPS est $5.79 / +227% YoY), **ABBV, ETN, ENB**. XOM/CVX = XLE tape binary + oil directional; strong beats = XLE bid + oil-relief extends (XLB tailwind); miss = XLE drag + oil re-spike (XLB cross-current).
+- **Mag-7 AMC recap (Thu 7/30):**
+  - **AMZN +~8% AH**: EPS beat + AWS **+37% YoY** (fastest cloud growth in 18 quarters, cleared 31% est). CLEAN BEAT + AI-capex validation.
+  - **AAPL -~4% AH**: EPS $2.02 beat $1.88 est (+29% YoY); iPhone +22%; but stock faded on services/guidance parse. MIXED — beat but tape-negative.
+- **Sector rotation (RRG frame updated):** Healthcare + Financials at fresh ATHs (XLV +2.7% at Jul 29 record). XLV YTD read strengthens (+16.6% 3-mo run, GF Value slightly overvalued 0.8%). Healthcare S&P leader YTD around +22%. XLB Materials constructive (top holdings LIN 13.77%, NEM 5.78%, FCX 5.23%, CTVA 5.19%, APD 4.66%). XLE Leading with XOM/CVX binary armed. XLK Weakening on AAPL parse + META fade last night, offset by AMZN AWS strength.
+- **Pivot levels:** XLB pivot low $50.03 / hwm $52.775. Support $51.63 (prior hwm), $51 (round), $50.50, $50 (pivot). Resistances $52.775, $53. XLV pivot low $158.74 / hwm $168.525. Support $163 (Thu close), $161, $158.74. Resistances $165, $167 (~ATH area from Wed), $168.525 hwm. XLV GF pivot high $169.28 / pivot low $166.50 flagged.
+
+### Rule 12 Status
+- **NOT triggered today.** Friday — Rule 12 is a Monday-only forced-action gate. Monday 8/03 will re-check trigger status.
+
+### Rule 12b Intra-Week Flush Trigger — **DORMANT**
+- Prong 1: NOT armed. XLB $4.14 above trail (8.72%), $4.32 above -7% cut (9.11%). XLV $11.33 above trail (7.48%), $12.58 above -7% cut (8.36%). Neither within $3 of stop or 2% above -7% cut.
+- Prong 2: N/A (no oversold Leading-quadrant ETF trigger armed under current 12b oversold definitions given VIX-relief tape).
+
+### Rule 13 Operational-Trigger Logging
+- No hwm-ratchet event for either position on Thu (both faded from Tue post-entry highs; hwm unchanged at $52.775 XLB / $168.525 XLV). No trail-tighten trigger armed (Rule 6: 7% at +15%, 5% at +20%) — XLB +1.49%, XLV +0.78%, both well below +15%.
+- No prior-defined add-trigger, trim-mandate, RRG-Velocity-red, or pivot-break trigger armed from prior weekly review as of last Fri 7/24 close.
+- **Y/N: N/A (no active mandates).**
+
+### Trade Ideas (discretionary — HOLD today)
+1. **XLE fresh entry (post-XOM/CVX BMO)** — Leading YTD + oil-directional binary today. **DISQUALIFIED — chase-risk into single-name earnings prints unfolding intraday; wait for post-print close read; consider Mon if XOM/CVX beat + oil re-bids.**
+2. **XLI Capital Goods add** — Leading YTD +25.24%. **DISQUALIFIED — cyclical stack with XLB (same broad cyclical thesis; 12c-style catalyst-specificity fail on any Monday retest).**
+3. **XLK contrarian dip (AMZN cloud beat vs AAPL fade)** — dispersion opportunity. **DISQUALIFIED — mid-tape parse day with binary catalyst dispersion still resolving; wait for Mon post-consolidation close.**
+4. **XLV add to 20% cap** — thesis strengthening (fresh ATH Wed, sector leadership fresh ATHs Thu, cool PCE tailwind, VIX collapse); position 11.38% of equity, headroom ~$860. **DISQUALIFIED — Fri month-end positioning day + XLV already off Wed ATH by ~2.7%; chase-risk into month-end pin; consider Mon post-close read.**
+5. **XLB add to 20% cap** — Leading YTD, top holdings quality (LIN/NEM/FCX). **DISQUALIFIED — XLB flat premkt + XOM/CVX BMO oil-binary same session = bilateral risk; wait for post-Fri close clarity.**
+6. **Trim on VIX collapse (take profits into complacency)** — VIX -17% single-day = spike-absorb; some frameworks trim into it. But (a) both positions still green, (b) no trim mandate armed, (c) Rule 6 tighten thresholds not hit, (d) cushions still >7%. **DISQUALIFIED — no rule trigger; trim into strength ≠ strategy signal.**
+7. **HOLD** — 2 positions still green with post-entry green cushions; Fri month-end positioning + XOM/CVX BMO binary + AMZN/AAPL cross-currents = wait-for-close-clarity default.
+
+### Risk Factors
+- **Month-end positioning distortion** — Fri = last trading day of July; institutional rebalancing flows can whipsaw sectors independently of fundamentals; do not read intraday cross-currents as trend signals.
+- **XOM/CVX BMO earnings binary** — expected massive Y/Y beats (XOM +121%, CVX +227% consensus); positive prints = XLE bid + oil-relief extends (mild XLB tailwind); miss/weak-guide = XLE fade + oil-shock risk (XLB neutral-to-drag).
+- **AAPL AH -4% parse extends** — services/guide-fade risk carries into cash; potential XLK/QQQ drag if fade compounds intraday; broader-tape drag secondary but present.
+- **AMZN AH +8% follow-through vs fade** — AWS +37% growth is the strongest cloud read of Mag-7 cycle; if follow-through holds = XLK bid re-asserted; if fade = adds sell-the-news signature to Mag-7 cycle.
+- **VIX -17% single-day collapse** — regime-flip fast; second consecutive whipsaw (Thu +13% → Fri -17%); complacency-into-month-end = August air-pocket risk armed for next week.
+- **XLB break of $51.63 / $51 / $50 pivot cascade** — if XOM/CVX miss + oil re-spike drags materials mid-cyclical read; watch $50 = manual-cut prep at $47.32.
+- **XLV break of $163 / $161 on healthcare rotation-out** — if fresh ATH Wed marked exhaustion + rotation into XLE/XLF post-XOM/CVX, XLV could give back further; watch $158.74 pivot low = manual-cut prep at $150.42.
+- **Cool-PCE risk-on has already priced in** — Thu green tape + VIX collapse already reflects the read; incremental tailwind from here limited; asymmetry favors any downside surprise on today's Michigan sentiment / month-end flows.
+- **Sub-4.5% 10Y yield** — defensive-out risk for XLV (paradox play failing on rate-relief); watch for XLV sub-$163 confirmation of the rotation.
+
+### Decision: **HOLD**
+Rationale:
+1. **No Rule 12 activation today** (Friday — Monday-only gate); Monday 8/03 will re-check.
+2. **No Rule 12b prong armed** — cushions >7% on both positions; neither within $3 of stop nor 2% of -7% cut.
+3. **No Rule 13 add/trim mandate active** — no hwm ratchet Thu; neither position ≥+15% (trail-tighten threshold).
+4. **Month-end positioning day + XOM/CVX BMO binary + AAPL/AMZN dispersion overhang** = every discretionary trade idea disqualified against this-week specific catalysts.
+5. **VIX -17% single-day collapse (20.66 → 17.09)** — spike absorbed; risk-on tape restored — but into-complacency chase-risk high on last trading day of month.
+6. **Both positions still green** — XLB +1.49% / +$22.04; XLV +0.78% / +$8.82. Phase +$30.85 (+0.31%). Cushions still wide.
+7. **Week 14 at 0/3 cap** — 14 straight weeks with only 1 trade (XLV Jul 9); patience discipline holds through month-end + XOM/CVX binary into weekly review weekend.
+8. **Cash 73.55%** — 1.45% below 75% floor, immaterial; no forced-deployment trigger — not a Monday.
+
+**Today's tape (premkt):** ES +0.48% / AMZN AH +8% / AAPL AH -4% / **VIX 17.09 (-17.28%)**; WTI ~$83.87 / Brent ~$90.04; 10Y ~4.55%; Core PCE printed cool Thu (0.1% MoM / 3.3% YoY); XOM + CVX BMO; Michigan Sentiment final 10am; month-end positioning.
+
+**Watchlist (intra-day Fri 7/31):**
+(a) **VIX behavior** — hold <18 = spike-absorption confirmed, risk-on into weekend; back >20 on month-end shock = whipsaw regime, defensive-in for Mon;
+(b) **XLB $52.775 hwm break** — fresh hwm ratchet; needs XOM/CVX beat + oil-relief broad-bid;
+(c) **XLB $51.63 / $51 / $50 support cascade** — $50 break decisively = manual-cut prep at $47.32;
+(d) **XLV $168.525 hwm break** — fresh hwm ratchet; needs healthcare leadership follow-through post-cool-PCE;
+(e) **XLV $163 / $161 / $158.74 support cascade** — $158.74 break = manual-cut prep at $150.42;
+(f) **XOM/CVX BMO reactions** — clean beats + upside surprise = XLE bid + XLB neutral-to-tailwind on oil-relief; miss/light-guide = XLE fade + XLB cross-drag on oil re-spike risk;
+(g) **AMZN follow-through** — hold +5% cash gain = XLK/QQQ bid; give back below +3% = sell-the-news signature;
+(h) **AAPL AH follow-through** — <-3% cash = confirms services/guide-parse fade; bounce toward flat = spring-loaded reversal;
+(i) **Michigan Sentiment 10am** — hot reading = risk-on tailwind extends; miss = complacency-into-air-pocket signal for Mon open;
+(j) **Oil intraday** — WTI $85 reclaim + XOM/CVX beat = oil-relief re-assertion (XLB tailwind); break $82 on XLE-fade = de-escalation-resume drag;
+(k) **10Y yield** — hold sub-4.55% = XLV/XLK dual bid on rate-relief; back >4.65% on month-end shock = XLV/XLK dual drag;
+(l) **Month-end positioning** — rebalancing flows can distort sector-by-sector reads; do not chase intraday cross-currents; focus on close prints;
+(m) **No deployment through Fri close minimum** — post-XOM/CVX + post-Michigan clarity + Mon Rule 12 gate = optimal re-entry window;
+(n) **Weekly review this weekend** — week 14 closes 0/3 cap; 14 straight weeks with 1 trade; document any hwm ratchet or trigger events across the week.
+
+**Patience > activity — Rule 12 not triggered today (Friday); both positions green with wide cushions; VIX -17% risk-on tape but month-end + XOM/CVX BMO binary + AAPL/AMZN dispersion = wait-for-close default; preserve 3 slots for Mon post-binary Rule 12 review. Perplexity 401 unchanged; WebSearch primary path per strategy.**
