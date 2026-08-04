@@ -3777,3 +3777,92 @@ Rationale:
 (n) **Weekly review this weekend** — week 14 closes 0/3 cap; 14 straight weeks with 1 trade; document any hwm ratchet or trigger events across the week.
 
 **Patience > activity — Rule 12 not triggered today (Friday); both positions green with wide cushions; VIX -17% risk-on tape but month-end + XOM/CVX BMO binary + AAPL/AMZN dispersion = wait-for-close default; preserve 3 slots for Mon post-binary Rule 12 review. Perplexity 401 unchanged; WebSearch primary path per strategy.**
+
+
+## 2026-08-04 (Tuesday, Day 71, Week 15 Day 2) — Pre-Market
+
+### Account
+- Equity: **$10,007.27** (last equity $10,007.26; phase **+$7.27 / +0.07%** — flat overnight, small green cushion holds)
+- Cash: **$7,392.29** (73.87% — 1.13% below 75% floor, immaterial)
+- Buying power: $36,891.10 (marginable); $8,699.78 non-marginable
+- Daytrade count: 0 (clean; PDT cap intact)
+- Positions (2):
+  - **XLB 29 sh** @ $50.88 → mark $51.02 (**+$4.06 / +0.28%**, intraday flat premkt); GTC trail 10% stop $47.4975 (hwm $52.775; cushion $3.5225 / 6.90%); manual -7% cut $47.32 ($3.70 room / 7.25%) = operative floor.
+  - **XLV 7 sh** @ $161.74 → mark $162.20 (**+$3.22 / +0.28%**, intraday -$0.04 premkt); GTC trail 10% stop $151.6725 (hwm $168.525; cushion $10.5275 / 6.49%); manual -7% cut $150.42 ($11.78 room / 7.26%) = operative floor.
+
+### Market Context
+- **WTI / Brent (Mon close / premkt):** **WTI ~$86.21** (Mon open, extended from Fri $83.87), **Brent ~$89.81** (+$2.43 vs prev; multi-day bid). Oil grinding higher — Iran-headline pause plus OPEC+ read; oil-bounce constructive for XLE/XLB tailwind if sustained.
+- **S&P 500 futures (premkt):** **ES +0.21%** (mixed but bid) — Polymarket implies **77% probability S&P opens higher**. Mon tape ended near record; Palantir surges **+16-17% premkt** after blockbuster Q2 beat + raise (AH Mon 8/3). AMD + SpaceX AMC binaries tonight.
+- **VIX:** **~15.83** (down from Fri 17.09; opened 15.76; range 15.67-15.84). First sub-16 print in weeks — Iran-pause + earnings-beat tape = complacency-into-earnings-heavy-week signature. Bordering on "eerily low" territory per multi-source read.
+- **10Y yield:** ~4.50-4.55% area (carried from cool-PCE regime; no notable pre-open move).
+- **Mon 8/3 macro print:** **ISM Manufacturing PMI = 55.6** (BEAT 54.0 est vs prior 53.3) — hot manufacturing print, cyclicals-supportive read; ISM Manufacturing Prices Paid 70.0 (soft vs 73.0 prior).
+- **Today's data (US):** **Trade Balance 8:30am** (est -$76.50B vs -$77.59B), **Factory Orders June 10:00am** (est -0.8% MoM vs -1.3% prior).
+- **Earnings today:** **BMO — BP** (Q2 est ~7am ET); **AMC — AMD** (rev est $11.2B / +46% YoY, EPS $1.67 non-GAAP, GM 56%), **SpaceX** (first-ever earnings post-Nasdaq listing Jun; Q1 lost $4.28B on $4.69B rev, Q2 revenue-improvement watch), **AMGN**.
+- **Palantir Mon AH:** blockbuster Q2 (rev $1.81B / +81% YoY, EPS $0.35 / +119%) + FY guide raise → **+16-17% premkt**. AI-monetization thesis validated fresh; XLK tape tailwind.
+- **Sector rotation (RRG frame updated):** **Leading = XLB / XLI / XLP / XLE**. **XLB Materials still Leading** — YTD constructive; ISM Mfg 55.6 = fresh cyclical tailwind. **XLV split reads** — one source flags "Weakening" transition, another confirms fresh State Street Q3 upgrade (Neutral → Positive) + biotech/psych-med deal activity (Eli Lilly nearing psychedelics acquisition). Net: XLV holding Leading-adjacent but momentum stalling; near-term catalyst-thin until AMGN AMC. XLK bid on PLTR surge + AMD AMC binary. XLC/XLY/XLF Lagging.
+- **Pivot levels:** XLB pivot low $50.03 / hwm $52.775. Support $50.50 / $50 pivot. Resistances $51.50 / $52 / $52.775 hwm. XLV pivot low $158.74 / hwm $168.525. Support $161 / $158.74. Resistances $163 / $165 / $168.525 hwm.
+
+### Rule 12 Status
+- **NOT triggered today.** Tuesday — Rule 12 is a Monday-only forced-action gate. Mon 8/3 review closed the gate (no forced-action documented; if the Monday review flagged 12 non-triggered, the fresh phase carries; if a fresh-phase gate was pending, it was addressed then).
+
+### Rule 12b Intra-Week Flush Trigger — **DORMANT**
+- Prong 1: NOT armed. XLB $3.52 above trail (6.90%), $3.70 above -7% cut (7.25%). XLV $10.53 above trail (6.49%), $11.78 above -7% cut (7.26%). Both cushions >$3 threshold and >2% band; neither prong tripped.
+- Prong 2: N/A (no oversold Leading-quadrant ETF trigger armed given VIX-compression risk-on tape).
+
+### Rule 13 Operational-Trigger Logging
+- No hwm-ratchet event for either position on Mon (XLB hwm holds $52.775; XLV hwm holds $168.525). No trail-tighten trigger armed (Rule 6: 7% at +15%, 5% at +20%) — XLB +0.28%, XLV +0.28%, both far below +15%.
+- No prior-defined add-trigger, trim-mandate, RRG-Velocity-red, or pivot-break trigger armed from prior weekly review as of last Fri 7/31 close.
+- **Y/N: N/A (no active mandates).**
+
+### Trade Ideas (discretionary — HOLD today)
+1. **XLE fresh entry (oil-bounce continuation)** — Leading + Brent $89.81 multi-day bid + BP BMO earnings today. **DISQUALIFIED — BP BMO single-name binary intraday + oil-bounce lacks fresh catalyst-confirmed thesis (Iran-pause is old news, not fresh escalation); cyclical-stack with XLB.**
+2. **XLI Capital Goods add** — Leading + ISM Mfg 55.6 beat = cyclical tailwind confirmed. **DISQUALIFIED — cyclical-stack with XLB (correlation-specific 12c-style disqualifier); same broad cyclical thesis over-concentration.**
+3. **XLK contrarian long (PLTR blowout + AMD AMC binary)** — Palantir +17% premkt = AI-monetization thesis validated; AMD AMC (rev +46% est) could compound. **DISQUALIFIED — AMD AMC 5pm ET is single-name binary within 8hr; catching mid-tape entry pre-print is chase-risk (PLTR gap already gone); wait for post-AMD-print clarity Wed.**
+4. **XLV add to 20% cap** — thesis intact (State Street Q3 upgrade, Lilly psychedelics acquisition read, top-holding health-M&A activity); position 11.34% of equity, headroom ~$860. **DISQUALIFIED — XLV RRG split-read (some sources flag Weakening transition); AMGN AMC tonight is single-name binary that could set healthcare tape; wait for post-AMGN print Wed.**
+5. **XLB add to 20% cap** — Leading + ISM Mfg 55.6 beat + oil-relief tailwind; position 14.79% of equity, headroom ~$520. **DISQUALIFIED — position back to only +0.28% unrealized post Fri give-back; adding to a name that just erased its reclaim leg = chase-risk against pending trail confirmation; wait for XLB $52 reclaim before considering.**
+6. **Trim on VIX <16 complacency** — VIX 15.83 approaching multi-source-flagged "eerily low" zone into earnings-heavy week + NFP Fri. But (a) both positions barely green, (b) no trim mandate armed, (c) Rule 6 tighten thresholds not hit, (d) cushions >6% but not wide. **DISQUALIFIED — no rule trigger; trimming +0.28% positions is pure discretion + wastes carry.**
+7. **HOLD** — 2 positions barely green with modest cushions; T-0 to AMD/SpaceX/AMGN AMC + T-1 to ISM Services + T-3 to NFP = binary-dense week; wait-for-print discipline.
+
+### Risk Factors
+- **AMD AMC 5pm ET** — semi-cap-eq / AI-chip binary; clean beat = XLK bid re-asserted (compounding PLTR); miss/margin-guide-miss = extends chip-rout narrative from Jul (SK Hynix/Samsung -10% memory).
+- **SpaceX AMC (first-ever print)** — high uncertainty; loss-narrowing focus; miss could compound "AI/capex-monetization ratio" fear (echoing META Jul 29 miss); irrelevant to holdings direct but sentiment-adjacent.
+- **AMGN AMC** — top-3 XLV component (~5%+ weight range); clean beat = XLV tailwind; miss/guide-miss on eve of XLV RRG-split read = defensive-rotation-out risk.
+- **BP BMO** — XLE binary + oil-directional read.
+- **ISM Services Wed 8/5** — 54.2 est. Hot = broad-services bid (Financials/Industrials); cool = growth-slowdown risk.
+- **NFP Fri 8/8** — labor-market print; hot = Sept-hike-fear revival (Warsh hawkish + 3 dissents Jul 29); cool = risk-on Fed-hold confirmation.
+- **VIX <16 complacency** — "eerily low" multi-source flag + earnings-dense + NFP week = mispriced tail risk. Any binary disappointment could deliver disproportionate move.
+- **XLB break of $50 pivot on any cyclical shock** — cushion narrows to $3.70 vs manual cut; break of $50 decisively = prep manual -7% cut at $47.32 before trail trips at $47.4975.
+- **XLV break of $161 / $158.74 on healthcare-rotation-out** = defensive-out risk; break of $158.74 = prep manual -7% cut at $150.42.
+- **Iran-pause reversal risk** — headline flip = oil re-spike + risk-off; oil-bounce thesis reverses instantly.
+- **Palantir gap-fill risk** — +17% premkt gap could reverse into cash (sell-the-news signature); XLK tailwind fragile.
+
+### Decision: **HOLD**
+Rationale:
+1. **No Rule 12 activation today** (Monday-only gate); yesterday's Mon 8/3 gate closed.
+2. **No Rule 12b prong armed** — cushions >$3 and >2% on both positions; neither near stop.
+3. **No Rule 13 add/trim mandate active** — no hwm ratchet Mon; neither position ≥+15% (trail-tighten threshold).
+4. **AMD + SpaceX + AMGN AMC 5pm ET + ISM Services Wed + NFP Fri** = binary-dense week; every discretionary trade idea disqualified against this-week specific catalysts.
+5. **VIX 15.83 approaching "eerily low"** — mispriced-tail into earnings + NFP week; wrong tape for fresh discretionary risk without a mandated trigger.
+6. **Both positions barely green** — XLB +0.28% / +$4.06; XLV +0.28% / +$3.22. Phase +$7.27 (+0.07%). Modest cushions preserved.
+7. **Week 15 at 0/3 cap** — 15 straight weeks with only 1 trade (XLV Jul 9); patience discipline holds.
+8. **Cash 73.87%** — 1.13% below 75% floor, immaterial; no forced-deployment trigger — not a Monday.
+
+**Today's tape (premkt):** ES +0.21% / Polymarket 77% higher-open; PLTR +17% premkt post-blockbuster; VIX 15.83 (approaching "eerily low"); WTI ~$86.21 / Brent ~$89.81 (multi-day bid); 10Y ~4.50-4.55%; Trade Balance 8:30am; Factory Orders 10am; AMD/SpaceX/AMGN AMC 5pm ET; BP BMO.
+
+**Watchlist (intra-day Tue 8/4):**
+(a) **VIX behavior** — hold <16 = complacency deepens into AMC binaries; back >17 on any print-miss = whipsaw regime, defensive-in for Wed;
+(b) **XLB $52 reclaim** — signals reclaim leg 2 resumption; break of $50 = manual-cut prep at $47.32;
+(c) **XLB $51.50 hold** — first support; break = watch $51 / $50 cascade;
+(d) **XLV $163 reclaim** — signals RRG-Leading defense; break of $161 = watch $158.74 cascade;
+(e) **XLV $165 push** — needed to defend fresh hwm ratchet momentum;
+(f) **Palantir intraday follow-through** — hold gap = AI-monetization tailwind intact; fade below +10% = sell-the-news = XLK cross-drag;
+(g) **BP BMO reaction** — clean beat + oil-bid = XLE tailwind (XLB neutral-to-positive); miss = oil-fade;
+(h) **AMD AMC (5pm)** — clean beat + margin defend = XLK bid = broad-market tailwind Wed; miss/margin-miss = chip-rout revival;
+(i) **AMGN AMC (5pm)** — top-XLV holding; clean beat = XLV tailwind Wed; miss = defensive-rotation-out signal;
+(j) **Oil intraday** — WTI $88 push = oil-bounce extends (XLB tailwind); break of $84 = de-escalation-resume drag;
+(k) **10Y yield** — sub-4.50% = XLV/XLK dual bid; back >4.65% on ISM-hot / NFP-hot Fri = XLV/XLK dual drag;
+(l) **Trade Balance / Factory Orders** — soft prints = growth-slowdown risk (defensive tailwind for XLV, drag for XLB); hot = cyclical tailwind for XLB;
+(m) **No deployment through AMD/AMGN AMC + ISM Services Wed minimum** — post-binary clarity Wed/Thu or post-NFP Fri optimal re-entry window;
+(n) **Trail-tighten monitoring** — XLB needs +$3.34 (to $54.22) for +15% trigger; XLV needs +$22.50 (to $186) for +15% trigger; neither near.
+
+**Patience > activity — Rule 12 not triggered today (Tuesday); both positions barely green with modest but adequate cushions; VIX 15.83 approaching "eerily low" complacency into binary-dense week (AMD/SpaceX/AMGN AMC + ISM Services Wed + NFP Fri); preserve 3 slots for post-binary Wed/Thu or post-NFP Fri re-entry window. Perplexity 401 unchanged; WebSearch primary path per strategy.**
