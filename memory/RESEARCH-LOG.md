@@ -3866,3 +3866,94 @@ Rationale:
 (n) **Trail-tighten monitoring** — XLB needs +$3.34 (to $54.22) for +15% trigger; XLV needs +$22.50 (to $186) for +15% trigger; neither near.
 
 **Patience > activity — Rule 12 not triggered today (Tuesday); both positions barely green with modest but adequate cushions; VIX 15.83 approaching "eerily low" complacency into binary-dense week (AMD/SpaceX/AMGN AMC + ISM Services Wed + NFP Fri); preserve 3 slots for post-binary Wed/Thu or post-NFP Fri re-entry window. Perplexity 401 unchanged; WebSearch primary path per strategy.**
+
+
+## 2026-08-05 (Wednesday, Day 72, Week 15 Day 3) — Pre-Market
+
+### Account
+- Equity: **$10,047.54** (last equity $10,034.99; day **+$12.55 / +0.13%** overnight; phase **+$47.54 / +0.48%** — fresh phase high)
+- Cash: **$7,392.29** (73.57% — 1.43% below 75% floor, immaterial)
+- Buying power: $37,003.86 (marginable); $8,719.91 non-marginable
+- Daytrade count: 0 (clean; PDT cap intact)
+- Positions (2):
+  - **XLB 29 sh** @ $50.88 → mark $51.95 (**+$31.03 / +2.10%**, intraday -0.10% premkt vs lastday $52.00); GTC trail 10% stop $47.4975 (hwm $52.775; cushion $4.4525 / 8.57%); manual -7% cut $47.32 ($4.63 room / 8.91%) = operative floor.
+  - **XLV 7 sh** @ $161.74 → mark $164.10 (**+$16.52 / +1.46%**, intraday **+1.23%** premkt vs lastday $162.10); GTC trail 10% stop $151.6725 (hwm $168.525; cushion $12.4275 / 7.57%); manual -7% cut $150.42 ($13.68 room / 8.34%) = operative floor.
+
+### Market Context
+- **WTI / Brent (premkt):** **WTI ~$78-80** range (crashed from $86 Mon on Iran-diplomacy hopes / Bessent "chance of deal today or tomorrow"), **Brent ~$83.72-83.77** (**-$6.09 vs yesterday morning** — big single-day de-escalation drop). Oil bid re-flip risk on any headline reversal; direct XLE drag / XLB neutral-to-mild-drag on materials via commodity read.
+- **S&P 500 futures (premkt):** **ES +0.3-0.39%** — Polymarket implies **87% probability S&P opens higher** (up from 77% yesterday). SPX closed Tue **7,736.52 (+1.79%) — first close above 7,700 ever**. NVDA premkt up on partner AI-sales beat; **Arista Networks +14% premkt** on Q3 guide raise.
+- **VIX:** **~16.5 (+4.04%)** premkt (up from Tue 15.83 close but still historically subdued; multi-source "eerily low" flag persists into earnings-heavy week + NFP Fri).
+- **10Y yield:** ~4.50-4.55% area (carried from cool-PCE regime; no notable pre-open shock).
+- **Today's data:** **ISM Services PMI 10am ET** (July data; June was 54.0 — hot beat = broad-services bid Financials/Industrials, cool = growth-slowdown risk for cyclicals).
+- **BMO earnings (huge cluster):** **LLY** (est EPS $6.55 / rev $20.69B — **critical for XLV: LLY = 15.47% top holding**; Mounjaro/Zepbound ~$13B combined watched; guide raise from $82-85B already priced), **DIS**, **UBER**, **SHOP**, **CVS**, **NVO**, CRCL, RIOT.
+- **Tue AMC binary reads:**
+  - **AMD** — beat (rev $11.5B / +50% YoY, non-GAAP EPS $1.66, Q3 guide $13B / +41% YoY) but stock **-8.8% AH** on baked-in-expectations + SpaceX-switching-to-Nvidia-Blackwell headline. Chip-rout revival risk for XLK; XLV/XLB indirect only.
+  - **AMGN** — clean beat (EPS $6.29 vs $5.62 est), rallied **+3.03% intraday Tue to $390.63**, positive interim metabolic-health late-stage data. **Positive XLV read for today** (AMGN in XLV top-5 holdings).
+- **Sector rotation (RRG frame):** **Leading = XLV Healthcare (+22% YTD sector leader), XLE Energy, XLB Materials, XLP Consumer Staples**. Healthcare narrative refreshed by AMGN Tue print. Value/dividend rotation continuing away from Mag-7 tech giants of 2025. Industrials supported by AI-infra / electricity capex / defense.
+- **Pivot levels:** XLB pivot low $50.03 / hwm $52.775. Support $51 / $50 pivot. Resistances $52 / $52.775 hwm / $53. XLV pivot low $158.74 / hwm $168.525. Support $163 / $161 / $158.74. Resistances $165 / $168.525 hwm / $170.
+
+### Rule 12 Status
+- **NOT triggered today.** Wednesday — Rule 12 is a Monday-only forced-action gate. Mon 8/03 gate already closed (no forced-action documented in this week's phase).
+
+### Rule 12b Intra-Week Flush Trigger — **DORMANT**
+- Prong 1: NOT armed. XLB $4.45 above trail (8.57%), $4.63 above -7% cut (8.91%). XLV $12.43 above trail (7.57%), $13.68 above -7% cut (8.34%). Both cushions >$3 threshold and >2% band; neither prong tripped.
+- Prong 2: N/A (no oversold Leading-quadrant ETF trigger — VIX 16.5 modest-lift-off tape, no sector -1.5σ below 21-EMA).
+
+### Rule 13 Operational-Trigger Logging
+- No hwm-ratchet event for either position on Tue (XLB mark $51.95 vs hwm $52.775 — needs $52.775 break intraday; XLV mark $164.10 vs hwm $168.525 — needs $168.525 break intraday). Neither ratcheted.
+- No trail-tighten trigger armed (Rule 6: 7% at +15%, 5% at +20%) — XLB +2.10%, XLV +1.46%, both far below +15%.
+- No prior-defined add-trigger, trim-mandate, RRG-Velocity-red, or pivot-break trigger armed from prior weekly review as of last Fri 7/31 close.
+- **Y/N: N/A (no active mandates).**
+
+### Trade Ideas (discretionary — HOLD today)
+1. **XLV add to 20% cap** — thesis strengthened by AMGN clean beat + metabolic-health late-stage data + XLV Leading YTD +22%; position 11.43% of equity, headroom ~$860. **DISQUALIFIED — LLY BMO print at open is single-name binary for XLV's #1 holding (15.47% weight); adding pre-print into a print that could +/- 3-5% the position is chase-risk against post-print clarity available in <2hrs.**
+2. **XLB add to 20% cap** — Leading YTD + ISM Mfg beat regime intact + position +2.10% back to green; position 15.00% of equity, headroom ~$500. **DISQUALIFIED — Brent -$6.09 single-day de-escalation drop = commodity-complex reset; XLB LIN/NEM/FCX top holdings copper/gold-sensitive to commodity direction; wait for oil-stabilization + XLB $52.775 hwm break confirmation before adding.**
+3. **XLE fresh entry (oil bounce reversal on Iran-headline flip)** — Leading YTD, oversold on Brent -$6.09. **DISQUALIFIED — catching a falling knife on active-diplomacy tape; Bessent quote today is direct de-escalation signal; wait for headline-reversal confirmation before entry.**
+4. **XLI Capital Goods add** — Leading + ISM Mfg 55.6 confirmed cyclical tailwind. **DISQUALIFIED — cyclical-stack with XLB (correlation-specific 12c-style disqualifier); same broad cyclical thesis; ISM Services 10am print is binary intraday.**
+5. **XLK contrarian long (Arista +14% premkt + NVDA-partner-beat signal)** — AI-infra thesis validated. **DISQUALIFIED — AMD -8.8% AH + SpaceX-Nvidia-Blackwell headline = chip-cycle dispersion; catching mid-print-cycle entry (DIS/UBER/SHOP BMO cluster resolving today) is chase-risk into unresolved tape.**
+6. **XLP Consumer Staples fresh entry** — Leading YTD + fresh-ATH multi-week theme + defensive-carry on VIX 16.5 uptick. **DISQUALIFIED — no fresh catalyst-confirmed thesis this week (no FOMC/PCE/NFP/CPI/ISM directional read yet — ISM Services 10am + NFP Fri pending); Path-B-freshness bar not cleared.**
+7. **Trim on VIX +4% lift-off** — VIX 16.5 first-lift from Tue 15.83 into earnings-dense week. But (a) both positions green with wide cushions, (b) no trim mandate armed, (c) Rule 6 tighten thresholds not hit, (d) rally into LLY BMO would waste carry. **DISQUALIFIED — no rule trigger; VIX 16.5 still historically subdued; trimming into LLY/XLV positive-print tape = timing error.**
+8. **HOLD** — 2 positions green with fresh phase-high cushions; T-0 to LLY BMO (XLV #1 holding binary) + T-0 to ISM Services 10am + T-2 to NFP Fri = binary-dense window; wait-for-print discipline.
+
+### Risk Factors
+- **LLY BMO print (~7am ET)** — XLV #1 holding at 15.47% weight; Mounjaro/Zepbound ~$13B combined watched; guide-raise from $82-85B already priced. Miss/guide-cut = XLV -1-2% immediate drag; clean-beat + guide raise = XLV bid extends toward hwm $168.525. Position stakes 11.43% of equity → LLY delta could move XLV mark ~$1-3 either way.
+- **ISM Services PMI 10am ET** — 54.0 prior; hot beat = broad-services bid (Industrials/Financials) + cyclical tailwind for XLB; cool print (<52) = growth-slowdown risk for cyclicals, defensive-rotation-in tailwind for XLV.
+- **AMD -8.8% AH chip-rout revival risk** — SpaceX-Nvidia-Blackwell headline compounds; XLK drag likely at open; broader-tape drag secondary but present; XLV/XLB indirect only.
+- **Iran-diplomacy headline reversal risk** — Bessent quote is direct de-escalation signal; Brent -$6.09 already prices it in; any Middle East shipping-threat headline (flagged in Benzinga source) = oil re-spike + risk-off + XLB commodity-complex jolt.
+- **Multi-earnings cluster at open** — DIS/UBER/SHOP/CVS/NVO/CRCL all BMO — cross-currents could distort sector-by-sector reads at open; do not chase intraday moves.
+- **VIX 16.5 "eerily low" complacency** — multi-source flag persists; earnings-dense + NFP Fri = mispriced-tail risk; any binary disappointment could deliver disproportionate move.
+- **XLB break of $51 / $50 pivot cascade on ISM-Services miss + oil-complex drag** — cushion $4.63 vs manual cut; $50 break decisively = prep manual -7% cut at $47.32 before trail trips at $47.4975.
+- **XLV break of $163 / $161 / $158.74 on LLY-miss defensive-rotation-out** — cushion $13.68 vs manual cut; $158.74 break = prep manual -7% cut at $150.42.
+- **SPX 7,700 breakout re-test** — first close above 7,700 Tue could invite profit-take at open; a fade back sub-7,700 = round-number rejection signal, defensive tone into ISM Services 10am.
+- **Sub-4.50% 10Y yield** — defensive-out risk for XLV (paradox play failing on rate-relief); watch for XLV sub-$163 confirmation.
+
+### Decision: **HOLD**
+Rationale:
+1. **No Rule 12 activation today** (Monday-only gate); Wednesday.
+2. **No Rule 12b prong armed** — cushions wide (XLB 8.57%, XLV 7.57% vs trail).
+3. **No Rule 13 add/trim mandate active** — no hwm ratchet Tue; neither position ≥+15% (trail-tighten threshold).
+4. **LLY BMO print at open (XLV #1 holding 15.47%) + ISM Services 10am + AMD -8.8% AH chip-rout + Iran-diplomacy oil complex reset + multi-BMO cluster + NFP Fri** = binary-dense window; every discretionary trade idea disqualified against this-week specific catalysts.
+5. **VIX 16.5 first uptick from "eerily low" 15.83** — earnings-dense week + NFP Fri = mispriced-tail risk; wrong tape for fresh discretionary risk without a mandated trigger.
+6. **Both positions green with fresh phase high** — XLB +2.10% / +$31.03; XLV +1.46% / +$16.52. Phase +$47.54 (+0.48%). Cushions widened materially since 7/31 close.
+7. **Week 15 at 0/3 cap** — 15 straight weeks with only 1 trade (XLV Jul 9); patience discipline holds.
+8. **Cash 73.57%** — 1.43% below 75% floor, immaterial; no forced-deployment trigger — not a Monday.
+
+**Today's tape (premkt):** ES +0.3-0.39% / Polymarket 87% higher-open; SPX 7,736.52 (+1.79% Tue, first close above 7,700 ever); VIX 16.5 (+4% from 15.83); WTI ~$78-80 / Brent ~$83.72 (**-$6.09 vs yesterday** on Iran-diplomacy hopes); 10Y ~4.50-4.55%; ISM Services PMI 10am ET; LLY/DIS/UBER/SHOP/CVS/NVO BMO cluster; AMD -8.8% AH; NVDA + Arista Networks +14% premkt.
+
+**Watchlist (intra-day Wed 8/5):**
+(a) **LLY BMO print reaction (~7-9am ET)** — clean beat + FY guide raise = XLV bid toward $166 / $168.525 hwm; miss/guide-cut = XLV drag toward $161 / $158.74 — position stakes 11.43% of equity;
+(b) **VIX behavior** — hold <17 = complacency intact into ISM Services; back >18 on LLY-miss + AMD-open-drag = whipsaw regime;
+(c) **XLB $52.775 hwm break** — signals fresh hwm ratchet; watch $52 hold as first support;
+(d) **XLB $51 hold** — first support; break = watch $50 cascade → manual-cut $47.32 prep;
+(e) **XLV $165 push** — signals RRG-Leading defense; break above $168.525 = fresh hwm ratchet;
+(f) **XLV $163 / $161 / $158.74 support cascade** — $158.74 break = manual-cut prep at $150.42;
+(g) **ISM Services 10am** — hot (>55) = XLB/XLI tailwind; cool (<52) = XLV defensive-in tailwind;
+(h) **SPX 7,700 retest** — hold above = breakout confirmation; fade below = round-number rejection into ISM print;
+(i) **AMD open-drag** — clean gap-down open with fade = chip-rout revival narrative; bounce toward flat = AH-fade-fade recovery;
+(j) **NVDA / Arista Networks +14%** — AI-infra tailwind intact if NVDA holds bid; fade = compounds AMD-drag;
+(k) **Oil intraday** — Brent hold $83 = de-escalation priced; break of $82 on Iran-deal-signed headline = XLE drag; bounce toward $86 on shipping-threat headline = oil-bounce revival;
+(l) **10Y yield** — sub-4.50% = XLV/XLK dual bid; back >4.65% on ISM-Services-hot / NFP-hot Fri = XLV/XLK dual drag;
+(m) **No deployment through LLY BMO + ISM Services 10am + NFP Fri minimum** — post-binary Thu or post-NFP Fri optimal re-entry window;
+(n) **Trail-tighten monitoring** — XLB needs +$3.13 (to $58.51) for +15% trigger; XLV needs +$22.10 (to $186.00) for +15% trigger; neither near.
+
+**Patience > activity — Rule 12 not triggered today (Wednesday); both positions green with fresh phase-high cushions; VIX 16.5 first uptick from "eerily low" 15.83 into LLY-BMO / ISM-Services / NFP-Fri binary-dense window; AMD -8.8% AH chip-rout revival + Brent -$6.09 Iran-diplomacy commodity reset overhang; preserve 3 slots for post-binary Thu or post-NFP Fri re-entry window. Perplexity 401 unchanged; WebSearch primary path per strategy.**
